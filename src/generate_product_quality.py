@@ -16,33 +16,41 @@ TARGET = 1000          # rows we want in the end
 BATCH = 10             # messages per request
 MAX_BATCHES = 160      # safety limit
 
-PRODUCTS = ["kettle", "wireless headphones", "running trainers", "sofa", "phone case",
-            "winter coat", "blender", "laptop bag", "bedsheets", "toaster", "smartwatch",
-            "children's toy", "desk lamp", "frying pan", "jeans", "hair dryer", "suitcase",
-            "electric toothbrush", "office chair", "bluetooth speaker"]
-PROBLEMS = ["stopped working after a few days", "broke the first time I used it",
-            "has stitching coming apart", "has a strange chemical smell",
-            "doesn't match the description on the website",
-            "is a completely different colour from the photos",
-            "is much smaller than advertised", "keeps overheating",
-            "has a battery that dies within an hour", "feels cheap and flimsy",
-            "was scratched when I opened the box", "arrived with a part missing",
-            "leaks", "makes a loud rattling noise", "arrived cracked"]
+# Problems grouped by product type, so combinations make sense
+CATALOGUE = {
+    "electrical": (["kettle", "toaster", "blender", "hair dryer", "electric toothbrush",
+                    "bluetooth speaker", "wireless headphones", "smartwatch", "desk lamp"],
+                   ["stopped working after a few days", "won't turn on", "keeps overheating",
+                    "battery barely lasts", "makes a loud rattling noise", "stopped charging",
+                    "has a burning smell", "keeps cutting out"]),
+    "clothing":   (["winter coat", "jeans", "running trainers", "dress", "jumper"],
+                   ["stitching is coming apart", "colour is different from the photos",
+                    "size is nothing like the size guide", "bobbled after one wash",
+                    "zip broke", "sole is peeling off"]),
+    "home":       (["sofa", "office chair", "suitcase", "frying pan", "bookshelf"],
+                   ["arrived scratched", "has a part missing", "feels cheap and flimsy",
+                    "a wheel or leg snapped", "is wobbly even when assembled properly",
+                    "doesn't look anything like the website photos"]),
+}
 TONES = ["polite", "angry", "frustrated but calm", "very brief", "confused", "disappointed"]
 STYLES = ["all lowercase with no punctuation", "with a couple of spelling mistakes",
-          "formal British English", "casual text-message style",
-          "phrased as a question", "plain and simple"]
-WANTS = ["nothing specific, just reporting it", "asking what to do next",
-         "asking for a replacement", "asking if it is covered by the warranty",
-         "asking for a refund or replacement"]
+          "formal British English", "casual text-message style", "long and rambling",
+          "plain and simple"]
+REFERENCES = ["names the product", "says 'it' or 'the item' without naming the product",
+              "mentions order number #" , "describes what it is used for instead of naming it"]
+OPENINGS = ["I", "My", "So", "Just", "Why", "Can", "Hello", "The", "Not happy", "Ordered"]
+WANTS = ["nothing, just reporting it", "what to do next", "a replacement", "a repair",
+         "whether the warranty covers it", "their money back"]
+WANT_WEIGHTS = [3, 3, 2, 1, 1, 1]          # most customers don't name a remedy
 
 PROMPT = """You write realistic messages that customers send to a UK online shop's support inbox.
 Write exactly {n} messages, one per specification below.
 Rules:
-- each message is one or two sentences, 8 to 30 words
-- no greeting (no "Dear", "Hi") and no sign-off
-- first person, written as the customer
-- British English spelling; use £ for money
+- one or two sentences, 6 to 35 words
+- written as the customer, British English
+- use your OWN words: do NOT copy phrases from the specification
+- begin each message with the opening word given
+- if a problem does not make sense for the product, change it to a realistic one
 Return JSON only, in this form: {{"messages": ["...", "..."]}}
 
 Specifications:
@@ -52,9 +60,15 @@ Specifications:
 def make_specs(n: int) -> str:
     lines = []
     for i in range(1, n + 1):
-        lines.append(f"{i}. product: {random.choice(PRODUCTS)} | problem: {random.choice(PROBLEMS)}"
+        products, problems = random.choice(list(CATALOGUE.values()))
+        ref = random.choice(REFERENCES)
+        if ref.startswith("mentions order"):
+            ref += str(random.randint(100000, 999999))
+        want = random.choices(WANTS, weights=WANT_WEIGHTS)[0]
+        lines.append(f"{i}. product: {random.choice(products)} | problem: {random.choice(problems)}"
                      f" | tone: {random.choice(TONES)} | style: {random.choice(STYLES)}"
-                     f" | customer wants: {random.choice(WANTS)}")
+                     f" | message {ref} | customer wants: {want}"
+                     f" | opening word: {random.choice(OPENINGS)}")
     return "\n".join(lines)
 
 
@@ -71,7 +85,7 @@ with tqdm(total=int(TARGET * 1.15), desc="Generating") as bar:
         prompt = PROMPT.format(n=BATCH, specs=make_specs(BATCH))
         try:
             resp = ollama.chat(model=MODEL, messages=[{"role": "user", "content": prompt}],
-                               format="json", options={"temperature": 0.9, "seed": batch_no})
+                               format="json", options={"temperature": 1.0, "seed": batch_no})
             batch = json.loads(resp["message"]["content"]).get("messages", [])
         except Exception as e:                   # bad JSON etc. -> skip this batch
             print(f"Batch {batch_no} failed: {e}")
