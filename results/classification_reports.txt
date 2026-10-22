@@ -1,0 +1,51 @@
+=== test | B: TF-IDF + LogReg ===
+                 precision    recall  f1-score   support
+
+       Delivery      0.992     0.998     0.995       500
+         Refund      1.000     0.997     0.998       286
+        Payment      1.000     0.995     0.998       214
+Product Quality      1.000     0.993     0.996       143
+          Other      0.990     0.990     0.990       286
+
+       accuracy                          0.995      1429
+      macro avg      0.996     0.994     0.995      1429
+   weighted avg      0.995     0.995     0.995      1429
+
+=== test | A: Llama 3.2 3B (prompt v2) ===
+                 precision    recall  f1-score   support
+
+       Delivery      0.996     0.956     0.976       500
+         Refund      0.982     0.976     0.979       286
+        Payment      0.894     0.949     0.921       214
+Product Quality      1.000     0.958     0.979       143
+          Other      0.877     0.923     0.899       286
+
+       accuracy                          0.952      1429
+      macro avg      0.950     0.952     0.951      1429
+   weighted avg      0.955     0.952     0.953      1429
+
+=== challenge | B: TF-IDF + LogReg ===
+                 precision    recall  f1-score   support
+
+       Delivery      0.833     0.417     0.556        12
+         Refund      0.750     0.500     0.600        12
+        Payment      0.667     0.167     0.267        12
+Product Quality      0.387     1.000     0.558        12
+          Other      0.750     0.750     0.750        12
+
+       accuracy                          0.567        60
+      macro avg      0.677     0.567     0.546        60
+   weighted avg      0.677     0.567     0.546        60
+
+=== challenge | A: Llama 3.2 3B (prompt v2) ===
+                 precision    recall  f1-score   support
+
+       Delivery      0.857     1.000     0.923        12
+         Refund      0.889     0.667     0.762        12
+        Payment      0.800     1.000     0.889        12
+Product Quality      1.000     0.917     0.957        12
+          Other      1.000     0.917     0.957        12
+
+       accuracy                          0.900        60
+      macro avg      0.909     0.900     0.897        60
+   weighted avg      0.909     0.900     0.897        60

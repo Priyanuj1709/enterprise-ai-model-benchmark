@@ -17,3 +17,4 @@
 | D15 | Approach B: TF-IDF + Logistic Regression; 12 settings compared on validation by macro-F1; best refit on train+val | Macro-F1 weights small classes (Product Quality) equally; test set untouched | Small grid, kept simple on purpose |
 | D16 | Val macro-F1 0.998 treated as optimistic | Val shares generators with train; real robustness measured on the hand-written challenge set | — |
 | D17 | Coefficient inspection: Product Quality relies on generator opening words (just, why, hello, so...) and Payment memorised Bitext invoice numbers | Evidence that val macro-F1 0.998 is inflated by shortcut learning | Not fixed on purpose; impact measured on the hand-written challenge set |
+| D18 | Final evaluation run once on locked test set (hash verified) and challenge set; frozen models (saved TF-IDF, prompt v2) | Honest final comparison, no tuning on evaluation data | Single run; LLM timing on a laptop GPU (RTX 4060) |

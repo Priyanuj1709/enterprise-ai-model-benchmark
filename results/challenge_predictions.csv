@@ -1,0 +1,61 @@
+text,label,ambiguous,note,pred_baseline,pred_llm,raw_llm,unparsed_llm,sec_baseline,sec_llm
+"ordered a hoodie last tuesday and the tracking hasnt moved since friday, is it lost?",Delivery,no,,Product Quality,Delivery,Delivery,False,0.0011729999678209424,0.050800599972717464
+"Hi, my parcel says delivered but there's nothing on my doorstep or with the neighbours. Order 48213.",Delivery,no,,Product Quality,Delivery,Delivery,False,0.0008137000259011984,0.050793100032024086
+Can I change the delivery address on order #551902? I'm going to be at my mum's that week,Delivery,no,,Delivery,Delivery,Delivery,False,0.0006686999695375562,0.05116999999154359
+Do you deliver to Northern Ireland and how much is next day?,Delivery,no,,Delivery,Delivery,Delivery,False,0.0006218000198714435,0.04929190000984818
+the courier left a card saying they tried to deliver but I was in all day!!,Delivery,no,,Product Quality,Delivery,Delivery,False,0.000630199967417866,0.051877800025977194
+When will my order arrive? It said 3-5 working days and it's been 8,Delivery,no,,Delivery,Delivery,Delivery,False,0.0005908000166527927,0.04942789999768138
+Is there any way to pick a delivery slot? I work nights,Delivery,no,,Delivery,Delivery,Delivery,False,0.0009999999892897904,0.05179259995929897
+"Royal Mail tracking number doesn't work, just says not found",Delivery,no,,Product Quality,Delivery,Delivery,False,0.0010088999988511205,0.05083860002923757
+"Still waiting on my sofa, it was meant to come on the 14th. If it's not here by Friday I want a full refund",Delivery,yes,late delivery + refund request -> rule 3,Product Quality,Delivery,Delivery,False,0.000978600000962615,0.050394700025208294
+"Ordered a birthday present that was supposed to arrive yesterday, the party's been and gone. Can I at least get the delivery charge back?",Delivery,yes,late delivery + money back -> rule 3,Product Quality,Delivery,Delivery,False,0.0008025999995879829,0.05035840003984049
+"Only half my order turned up, the second box never came",Delivery,yes,missing parcel (not a missing part of an item) -> Delivery,Delivery,Delivery,Delivery,False,0.0012103999615646899,0.04965589998755604
+my order has said dispatched for a week now. whats going on,Delivery,no,,Product Quality,Delivery,Delivery,False,0.0022738000261597335,0.04593610001029447
+"I sent the trainers back two weeks ago, when will I see the money?",Refund,no,,Delivery,Refund,Refund,False,0.0013749999925494194,0.05939729994861409
+What's your returns policy if I've just changed my mind?,Refund,no,,Product Quality,Refund,Refund,False,0.0015388999599963427,0.06188669998664409
+"Refund still hasn't shown up on my card, you said 3-5 days and it's been 10",Refund,no,,Product Quality,Payment,Payment,False,0.0013280999846756458,0.050625499978195876
+Can I get a refund on something I bought in the sale?,Refund,no,,Refund,Refund,Refund,False,0.0013157000066712499,0.061219299968797714
+How long have I got to send back a dress that doesn't fit?,Refund,yes,"wrong size is not a fault -> Refund, not Product Quality",Refund,Refund,Refund,False,0.001205099979415536,0.058744899986777455
+Returned the jacket via Collect+ on Monday and I've got the receipt. Please confirm my refund,Refund,no,,Product Quality,Refund,Refund,False,0.001007299986667931,0.06219009996857494
+"you've refunded £12 but I paid £24.99, where's the rest?",Refund,yes,refund amount wrong -> Refund rather than Payment,Product Quality,Payment,Payment,False,0.0009847000474110246,0.04683069995371625
+"I cancelled my order an hour after placing it, how do I get my money back",Refund,yes,cancellation already done; question is money back -> Refund,Refund,Refund,Refund,False,0.001103700022213161,0.06162379996385425
+Do I have to pay for the return postage myself?,Refund,no,,Other,Delivery,Delivery,False,0.0011074999929405749,0.04902210005093366
+can i have my money back for the gift voucher I never used,Refund,no,,Refund,Refund,Refund,False,0.0010936000035144389,0.05962720001116395
+Is the refund going back to my PayPal or to my bank account?,Refund,yes,mentions payment method but question is about the refund,Refund,Payment,Payment,False,0.0010015000007115304,0.0473774999845773
+"I returned the lamp because you sent the wrong colour, still waiting for the refund",Refund,yes,item already returned; question is refund status,Refund,Refund,Refund,False,0.0009942000033333898,0.05971330002648756
+My card keeps getting declined at checkout but it works everywhere else,Payment,no,,Product Quality,Payment,Payment,False,0.0011327999527566135,0.046829600003547966
+Do you take Klarna or any pay later option?,Payment,no,,Refund,Payment,Payment,False,0.0012384000001475215,0.050021199975162745
+"I've been charged twice for the same order, £45.98 has gone out two times",Payment,no,,Product Quality,Payment,Payment,False,0.0010904999799095094,0.048584100033622235
+Can you send me a VAT invoice for order 77120? It's for my business,Payment,no,,Other,Payment,Payment,False,0.0011600000434555113,0.04591009998694062
+Payment failed but the money still left my account??,Payment,no,,Payment,Payment,Payment,False,0.0012736999779008329,0.05002770002465695
+Is Apple Pay available on the app?,Payment,no,,Product Quality,Payment,Payment,False,0.0010852999985218048,0.04669099999591708
+why am I being charged a £3.99 fee I didnt agree to,Payment,no,,Other,Payment,Payment,False,0.001011099957395345,0.04567079996922985
+"The promo code won't apply at checkout, it keeps saying invalid",Payment,yes,checkout pricing problem -> Payment (could be read as Other),Product Quality,Payment,Payment,False,0.0011116000241599977,0.04856840003049001
+Can I split the payment between a gift card and my debit card?,Payment,no,,Payment,Payment,Payment,False,0.0011264999629929662,0.0478560000192374
+I've been charged £60 but I never actually finished the order and there's no confirmation email,Payment,no,,Product Quality,Payment,Payment,False,0.0011609999928623438,0.0450626999954693
+"my bank says the payment is pending, has my order gone through or not?",Payment,yes,payment status vs order status -> Payment,Product Quality,Payment,Payment,False,0.0010217000381089747,0.04799039999488741
+Need a copy of my receipt for the TV I bought in March for warranty purposes,Payment,yes,mentions warranty but the request is an invoice/receipt -> Payment,Refund,Payment,Payment,False,0.00108889996772632,0.04787660000147298
+The kettle I bought last month has started leaking from the bottom,Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.001277900009881705,0.05741370003670454
+headphones only work in one ear after a week,Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.0012934000114910305,0.05834099999628961
+"Zip on the coat broke the first time I wore it, really poor quality",Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.0010306000476703048,0.0563181999605149
+"the curtains are nothing like the website photos, they're more orange than red",Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.0011044999700970948,0.06633909995434806
+My blender arrived with the jug cracked. Can you send a new one?,Product Quality,yes,damaged on arrival -> rule 2,Product Quality,Product Quality,Product Quality,False,0.0009979999740608037,0.06508789997315034
+"The bluetooth speaker has stopped charging, I want a full refund not a replacement",Product Quality,yes,fault + refund request -> rule 1,Product Quality,Refund,Refund,False,0.0008784999954514205,0.0680102999904193
+Glass in the picture frame was smashed when I opened the box,Product Quality,yes,damaged on arrival -> rule 2,Product Quality,Product Quality,Product Quality,False,0.0008267000084742904,0.06680140004027635
+"Hello, the stitching on my handbag is already coming undone after 2 weeks. Is this covered by the guarantee?",Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.0007389999809674919,0.06808380002621561
+"Bought a phone charger and it gets really hot, I'm worried it's a fire risk",Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.000722800032235682,0.06500870001036674
+"trainers sole peeling off after a month, not good enough for £90",Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.000674000009894371,0.06745780003257096
+The chair is missing two of the screws so I can't build it,Product Quality,yes,"missing part of an item -> Product Quality, not Delivery",Product Quality,Product Quality,Product Quality,False,0.0006458000279963017,0.06453470000997186
+"Toaster burns one side and leaves the other side white, is that normal?",Product Quality,no,,Product Quality,Product Quality,Product Quality,False,0.000651500013191253,0.06951920001301914
+How do I delete my account and all my data?,Other,no,,Other,Other,Other,False,0.000680800003465265,0.054323800024576485
+I forgot my password and the reset email isn't coming through,Other,no,,Product Quality,Other,Other,False,0.0006220000213943422,0.054342799994628876
+"Please unsubscribe me from your emails, I get three a day",Other,no,,Payment,Other,Other,False,0.0006809000042267144,0.05069559998810291
+Can I add another item to my order before it's dispatched?,Other,no,,Other,Other,Other,False,0.0006413999944925308,0.05180549999931827
+Can I speak to an actual person please,Other,no,,Other,Other,Other,False,0.0006119000026956201,0.052104200003668666
+Is the black version of this jacket in a size 12 coming back in stock?,Other,no,,Product Quality,Delivery,Delivery,False,0.0006423000013455749,0.05107340001268312
+"I want to cancel my order, I placed it by mistake",Other,no,,Other,Other,Other,False,0.0006293999613262713,0.0509137999615632
+Do you have a shop I can visit in person?,Other,no,,Other,Other,Other,False,0.000812100013718009,0.055089599976781756
+How do I change the email address on my account?,Other,no,,Other,Other,Other,False,0.0007208000170066953,0.05316140002105385
+Your website keeps crashing when I try to log in,Other,no,,Other,Other,Other,False,0.0007286999607458711,0.06031450000591576
+"I'd like to leave some feedback, the lady I spoke to on the phone yesterday was brilliant",Other,no,,Other,Other,Other,False,0.0006981000187806785,0.05046679999213666
+"Very disappointed with your service overall, I won't be ordering again",Other,yes,"general dissatisfaction, no specific problem -> rule 4",Other,Other,Other,False,0.0006713999900966883,0.052606699988245964

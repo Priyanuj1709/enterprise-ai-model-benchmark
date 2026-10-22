@@ -1,0 +1,5 @@
+dataset,approach,accuracy,macro_precision,macro_recall,macro_f1,mean_ms,p95_ms,batch_ms,unparsed,acc_clear,acc_ambiguous
+test,B: TF-IDF + LogReg,0.9951,0.9963,0.9945,0.9954,0.73,1.13,0.016,0,,
+test,A: Llama 3.2 3B (prompt v2),0.9524,0.9499,0.9522,0.9506,57.1,68.69,,0,,
+challenge,B: TF-IDF + LogReg,0.5667,0.6774,0.5667,0.5461,0.97,1.33,0.033,0,0.545,0.625
+challenge,A: Llama 3.2 3B (prompt v2),0.9,0.9092,0.9,0.8974,54.36,67.49,,0,0.932,0.812
