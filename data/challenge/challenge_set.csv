@@ -1,0 +1,61 @@
+text,label,ambiguous,note
+"ordered a hoodie last tuesday and the tracking hasnt moved since friday, is it lost?",Delivery,no,
+"Hi, my parcel says delivered but there's nothing on my doorstep or with the neighbours. Order 48213.",Delivery,no,
+"Can I change the delivery address on order #551902? I'm going to be at my mum's that week",Delivery,no,
+"Do you deliver to Northern Ireland and how much is next day?",Delivery,no,
+"the courier left a card saying they tried to deliver but I was in all day!!",Delivery,no,
+"When will my order arrive? It said 3-5 working days and it's been 8",Delivery,no,
+"Is there any way to pick a delivery slot? I work nights",Delivery,no,
+"Royal Mail tracking number doesn't work, just says not found",Delivery,no,
+"Still waiting on my sofa, it was meant to come on the 14th. If it's not here by Friday I want a full refund",Delivery,yes,"late delivery + refund request -> rule 3"
+"Ordered a birthday present that was supposed to arrive yesterday, the party's been and gone. Can I at least get the delivery charge back?",Delivery,yes,"late delivery + money back -> rule 3"
+"Only half my order turned up, the second box never came",Delivery,yes,"missing parcel (not a missing part of an item) -> Delivery"
+"my order has said dispatched for a week now. whats going on",Delivery,no,
+"I sent the trainers back two weeks ago, when will I see the money?",Refund,no,
+"What's your returns policy if I've just changed my mind?",Refund,no,
+"Refund still hasn't shown up on my card, you said 3-5 days and it's been 10",Refund,no,
+"Can I get a refund on something I bought in the sale?",Refund,no,
+"How long have I got to send back a dress that doesn't fit?",Refund,yes,"wrong size is not a fault -> Refund, not Product Quality"
+"Returned the jacket via Collect+ on Monday and I've got the receipt. Please confirm my refund",Refund,no,
+"you've refunded £12 but I paid £24.99, where's the rest?",Refund,yes,"refund amount wrong -> Refund rather than Payment"
+"I cancelled my order an hour after placing it, how do I get my money back",Refund,yes,"cancellation already done; question is money back -> Refund"
+"Do I have to pay for the return postage myself?",Refund,no,
+"can i have my money back for the gift voucher I never used",Refund,no,
+"Is the refund going back to my PayPal or to my bank account?",Refund,yes,"mentions payment method but question is about the refund"
+"I returned the lamp because you sent the wrong colour, still waiting for the refund",Refund,yes,"item already returned; question is refund status"
+"My card keeps getting declined at checkout but it works everywhere else",Payment,no,
+"Do you take Klarna or any pay later option?",Payment,no,
+"I've been charged twice for the same order, £45.98 has gone out two times",Payment,no,
+"Can you send me a VAT invoice for order 77120? It's for my business",Payment,no,
+"Payment failed but the money still left my account??",Payment,no,
+"Is Apple Pay available on the app?",Payment,no,
+"why am I being charged a £3.99 fee I didnt agree to",Payment,no,
+"The promo code won't apply at checkout, it keeps saying invalid",Payment,yes,"checkout pricing problem -> Payment (could be read as Other)"
+"Can I split the payment between a gift card and my debit card?",Payment,no,
+"I've been charged £60 but I never actually finished the order and there's no confirmation email",Payment,no,
+"my bank says the payment is pending, has my order gone through or not?",Payment,yes,"payment status vs order status -> Payment"
+"Need a copy of my receipt for the TV I bought in March for warranty purposes",Payment,yes,"mentions warranty but the request is an invoice/receipt -> Payment"
+"The kettle I bought last month has started leaking from the bottom",Product Quality,no,
+"headphones only work in one ear after a week",Product Quality,no,
+"Zip on the coat broke the first time I wore it, really poor quality",Product Quality,no,
+"the curtains are nothing like the website photos, they're more orange than red",Product Quality,no,
+"My blender arrived with the jug cracked. Can you send a new one?",Product Quality,yes,"damaged on arrival -> rule 2"
+"The bluetooth speaker has stopped charging, I want a full refund not a replacement",Product Quality,yes,"fault + refund request -> rule 1"
+"Glass in the picture frame was smashed when I opened the box",Product Quality,yes,"damaged on arrival -> rule 2"
+"Hello, the stitching on my handbag is already coming undone after 2 weeks. Is this covered by the guarantee?",Product Quality,no,
+"Bought a phone charger and it gets really hot, I'm worried it's a fire risk",Product Quality,no,
+"trainers sole peeling off after a month, not good enough for £90",Product Quality,no,
+"The chair is missing two of the screws so I can't build it",Product Quality,yes,"missing part of an item -> Product Quality, not Delivery"
+"Toaster burns one side and leaves the other side white, is that normal?",Product Quality,no,
+"How do I delete my account and all my data?",Other,no,
+"I forgot my password and the reset email isn't coming through",Other,no,
+"Please unsubscribe me from your emails, I get three a day",Other,no,
+"Can I add another item to my order before it's dispatched?",Other,no,
+"Can I speak to an actual person please",Other,no,
+"Is the black version of this jacket in a size 12 coming back in stock?",Other,no,
+"I want to cancel my order, I placed it by mistake",Other,no,
+"Do you have a shop I can visit in person?",Other,no,
+"How do I change the email address on my account?",Other,no,
+"Your website keeps crashing when I try to log in",Other,no,
+"I'd like to leave some feedback, the lady I spoke to on the phone yesterday was brilliant",Other,no,
+"Very disappointed with your service overall, I won't be ordering again",Other,yes,"general dissatisfaction, no specific problem -> rule 4"

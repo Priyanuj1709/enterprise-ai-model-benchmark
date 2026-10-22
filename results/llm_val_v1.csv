@@ -1,0 +1,1430 @@
+id,text,label,raw,pred,unparsed,seconds
+4,where can i find information about the delivery periods,Delivery,Delivery,Delivery,False,0.07716050004819408
+30,show status of refund,Refund,Refund,Refund,False,0.06315279996488243
+42,i need assistance to get rebates,Refund,Other,Other,False,0.048037200001999736
+45,how can I see how long it takes for the package to arrive?,Delivery,Delivery,Delivery,False,0.04789159999927506
+57,help me obtaining a compensation of money,Refund,Refund,Refund,False,0.061107899993658066
+67,"Hello, I've got a problem with me toothbrush electric, need repair #233096",Product Quality,Product Quality,Product Quality,False,0.061910899996291846
+81,help me to check the termination charges,Other,Payment,Payment,False,0.04793469997821376
+92,"Ordered desk lamp #169113 and it has a burning smell, what should I do next?",Product Quality,Product Quality,Product Quality,False,0.05780159996356815
+105,I need help acquiring some prdoucts,Other,Other,Other,False,0.048101200023666024
+111,see your payment methods,Payment,Payment,Payment,False,0.045869799971114844
+112,problems with a delivery address modification,Delivery,Other,Other,False,0.04782139998860657
+114,I have to update my shipping address,Delivery,Other,Other,False,0.04679900000337511
+118,"I would like to enter a delivery address, I need help",Delivery,Delivery,Delivery,False,0.04683940001996234
+129,need help to check in which cases can I request refunds,Refund,Refund,Refund,False,0.059533099993132055
+141,I have got to see how soon can I expect the fucking item,Delivery,Delivery,Delivery,False,0.04539489996386692
+142,"I need to see the options for delivery, can you help me?",Delivery,Delivery,Delivery,False,0.04657580005005002
+150,how can i check how long it takes for the delivery to arrive,Delivery,Delivery,Delivery,False,0.045931899978313595
+157,I am trying to get my invoice from Tom,Payment,Other,Other,False,0.04817559994990006
+163,order status,Delivery,Delivery,Delivery,False,0.0474141999729909
+171,"Not happy with my dress, it bobbled after one wash.",Product Quality,Product Quality,Product Quality,False,0.05847099999664351
+174,I'm waiting for a refund of £168,Refund,Refund,Refund,False,0.05922310001915321
+175,assistance to see the delivery methods,Delivery,Delivery,Delivery,False,0.04791550000663847
+181,want hewlp locating order #526673,Delivery,Other,Other,False,0.045535000041127205
+186,I need assistance to change the delivery address,Delivery,Other,Other,False,0.04549419996328652
+187,want help to request a compensation of my money,Refund,Refund,Refund,False,0.05641499999910593
+191,where can I look for the bill #85632?,Payment,Delivery,Delivery,False,0.04675089998636395
+195,"I (one thousand seven one hundred and eighteen) ordered a toaster and it keeps overheating, I want a replacement.",Product Quality,Product Quality,Product Quality,False,0.05916030000662431
+206,can you help me to locate the bill from Aisha?,Payment,Other,Other,False,0.046968999959062785
+209,"I need to correct the address, can you help me?",Delivery,Other,Other,False,0.04417750000720844
+215,help me see if there are any updates on my reimbursement,Refund,Refund,Refund,False,0.05510240001603961
+216,could uhlep me to check how soon can i expect the damn order,Delivery,Delivery,Delivery,False,0.046374699973966926
+217,how can I talk to somebody?,Other,Other,Other,False,0.04451939999125898
+227,checking status of refund,Refund,Refund,Refund,False,0.056178600003477186
+254,I need to see if there are any updates on my rebate,Refund,Other,Other,False,0.045366100035607815
+255,"I want to check your reimbursement policy, how do I do it?",Refund,Refund,Refund,False,0.0551586999790743
+270,modifying data on premium account,Other,Other,Other,False,0.048576700035482645
+273,how do I acquire several of your item?,Other,Other,Other,False,0.045479899970814586
+278,I want assistanceinforming of errors with a registration,Other,Other,Other,False,0.05600510002113879
+283,need support modifying the address,Delivery,Other,Other,False,0.05149320000782609
+285,i have to see how long refunds take,Refund,Refund,Refund,False,0.0671221999800764
+291,I want assistance to list your payment modalities,Payment,Payment,Payment,False,0.05019509996054694
+299,find ionvoice #12588,Payment,Other,Other,False,0.05035540001699701
+300,can I see in which cases can I ask to be refunded?,Refund,Refund,Refund,False,0.06227819999912754
+301,need help to check in which cases can i request refunds,Refund,Refund,Refund,False,0.06320319999940693
+319,I cannot check the current status of the rebate,Refund,Other,Other,False,0.048412200005259365
+320,what do I have to do to see the allowed payment methods?,Payment,Payment,Payment,False,0.04693309997674078
+332,supports trying to modify theaddress,Delivery,Other,Other,False,0.04920519998995587
+336,help me seeing in which cases can I request my money back,Refund,Refund,Refund,False,0.06406770000467077
+337,can ya help me update my delivery address,Delivery,Other,Other,False,0.04780070000560954
+349,Just ordered some running trainers but the zip broke. Want my money back. Order number #833602.,Product Quality,Refund,Refund,False,0.06428300001425669
+353,"I have to edit order #587282, how do I do it?",Other,Other,Other,False,0.04824859998188913
+354,check the available delivery options,Delivery,Delivery,Delivery,False,0.05141580000054091
+355,can you help me to earn several products?,Other,Other,Other,False,0.049181200040038675
+357,deliveries to Cardiff,Delivery,Delivery,Delivery,False,0.04881609999574721
+360,"I want to pudate purchase #204053, can you help me?",Other,Other,Other,False,0.04828220000490546
+367,want assistance to ask for a restitution of my money,Refund,Refund,Refund,False,0.06237970001529902
+370,how do i see hoq long the shipping takes,Delivery,Delivery,Delivery,False,0.054279399977531284
+372,help me setting another delivery address up,Delivery,Delivery,Delivery,False,0.05496489995857701
+375,can you show me the rebate current status?,Refund,Refund,Refund,False,0.06506310001714155
+376,can i see when my package is gonna arirve,Delivery,Delivery,Delivery,False,0.05234609998296946
+380,"I want to set up a new delivery address, how do I do it?",Delivery,Delivery,Delivery,False,0.05152389995055273
+401,"I need to see what shipment options are available, help me",Delivery,Delivery,Delivery,False,0.049715900036972016
+414,"Hello, the office chair is wobbly even when assembled properly. What to do next?",Product Quality,Product Quality,Product Quality,False,0.0630226000212133
+421,help me purchase some of your product,Other,Other,Other,False,0.05077359999995679
+432,I am trying to check how soon can I expect my parcel,Delivery,Delivery,Delivery,False,0.05077660002280027
+455,assistance to check youe money back guarantee,Refund,Refund,Refund,False,0.06306600000243634
+459,order 113542617735902current status,Delivery,Delivery,Delivery,False,0.04983249999349937
+470,help to know if there are any news on my restitution,Refund,Other,Other,False,0.04913749999832362
+471,check restitution current status,Refund,Refund,Refund,False,0.0622525000362657
+477,how do I notify of an issue with payment?,Payment,Payment,Payment,False,0.049318999983370304
+480,how can I check the early exit fees?,Other,Other,Other,False,0.04842470004223287
+481,help to see inwhich situations can I ask to be refunded,Refund,Refund,Refund,False,0.06417430000146851
+486,"I have to enter my new delivery address, could you help m?",Delivery,Delivery,Delivery,False,0.05100259999744594
+503,"I want to check what payment methods are allowed, help me",Payment,Payment,Payment,False,0.04856830002972856
+508,help seeing under which circumstances can I request a refund,Refund,Refund,Refund,False,0.0652669999981299
+509,I need assistance to chat with a fucking human agent,Other,Other,Other,False,0.0502146000508219
+518,"Hello, tha jumper i bought has bobbled after one wash. Disappointed to say the least",Product Quality,Product Quality,Product Quality,False,0.06700400001136586
+524,I would like to know about changing my delivery address,Delivery,Other,Other,False,0.048342299996875226
+531,I don't know what I need to do to demand a rebate,Refund,Other,Other,False,0.04972409998299554
+540,i have to see the shipment options can i get some help,Delivery,Delivery,Delivery,False,0.054538600030355155
+542,i do not know what to do to set up my new shipping address,Delivery,Other,Other,False,0.052130999974906445
+545,I am trying to change my delivery address,Delivery,Other,Other,False,0.049580999999307096
+551,"I need to see how soon can I expect my damn order, help me",Delivery,Delivery,Delivery,False,0.05067409999901429
+553,modifying gold account,Other,Other,Other,False,0.04946169996401295
+555,need to see the ETA of purchase #387782 how to do it,Delivery,Delivery,Delivery,False,0.04889750003349036
+569,can you help me setting up the new shipping address?,Delivery,Delivery,Delivery,False,0.0504308000090532
+571,I want assistance trying to change my shipping address,Delivery,Other,Other,False,0.04988810000941157
+584,I need assistance to check the status of my restitution,Refund,Refund,Refund,False,0.06552970001939684
+595,trouble setting the shipping address up,Delivery,Delivery,Delivery,False,0.04754569998476654
+601,could you help me change the shipping address?,Delivery,Other,Other,False,0.050351599988061935
+607,"I am trying to find shipping periods, could you help me?",Delivery,Delivery,Delivery,False,0.04950480000115931
+608,i dont know what to do to track purchase #885386,Delivery,Delivery,Delivery,False,0.04881930002011359
+628,I need help to locate my bills from James,Payment,Other,Other,False,0.052319300011731684
+629,i want assistance checking ur money back policy,Refund,Refund,Refund,False,0.06611640000483021
+631,i dont use mystandard account i try to delete it,Other,Other,Other,False,0.05173439998179674
+641,"Not happy, electric toothbrush stopped charging, need a replacement!",Product Quality,Product Quality,Product Quality,False,0.0649078999995254
+642,how to see the current status of order #906527?,Delivery,Delivery,Delivery,False,0.050596199987921864
+644,i dont know how i can shop several of ur article,Other,Other,Other,False,0.05125580000458285
+647,I need help checking the ETA of order #502206,Delivery,Delivery,Delivery,False,0.051792999962344766
+655,"So my office chair (order #587575) is wobbly even after assembly, what should I do next?",Product Quality,Product Quality,Product Quality,False,0.0637533999979496
+668,how to get my invoice from Tom,Payment,Other,Other,False,0.050255500013008714
+676,can you help me to remove my standard account?,Other,Other,Other,False,0.04994019999867305
+681,want help seeing the current status of my reimbursement,Refund,Refund,Refund,False,0.06492679996881634
+695,I cannot find my invoices from Tom,Payment,Other,Other,False,0.05017649999354035
+705,"Not happy with the jumper, the colour is different from the photos. Please send a replacement.",Product Quality,Product Quality,Product Quality,False,0.06742829998256639
+709,can you help me request an restitution of my money?,Refund,Refund,Refund,False,0.06598610000219196
+713,"I need t see the accepted payment options, will you help me?",Payment,Payment,Payment,False,0.05311410001013428
+724,I need help seeing in which cases can I ask to be reimbursed,Refund,Refund,Refund,False,0.06611309997970238
+726,I have to see how long refunds take,Refund,Refund,Refund,False,0.06846959999529645
+734,can I check what hours I can reach customer support?,Other,Other,Other,False,0.04995419998886064
+739,wanna know about the delivery period,Delivery,Delivery,Delivery,False,0.05108369997469708
+740,help to see your money back policy,Refund,Refund,Refund,False,0.06435510003939271
+743,where can I subscribe to your newsletter?,Other,Other,Other,False,0.05291709996527061
+746,"I need to get my bill from Sarah, how can I do it?",Payment,Other,Other,False,0.050441699975635856
+752,what do I need to do to get my bill #37777?,Payment,Other,Other,False,0.05080550001002848
+753,"just got my sofa, feels cheap and flimsy",Product Quality,Product Quality,Product Quality,False,0.06555449997540563
+762,can you help me checking what shipment methods I have?,Delivery,Delivery,Delivery,False,0.05064020003192127
+763,i have a problem with the bluetooth speaker it makes a loud rattling noise,Product Quality,Product Quality,Product Quality,False,0.06458060001023114
+773,"I have to see the status of my refund, how could I do it?",Refund,Refund,Refund,False,0.063748000015039
+775,help me to see the accepted payment modalities,Payment,Payment,Payment,False,0.04816800000844523
+780,want help seeing in hwich cases can i ask to be refunded,Refund,Refund,Refund,False,0.06325060001108795
+782,I am trying to acquire several articles,Other,Other,Other,False,0.0490222999942489
+790,where do I check how soon can I expect the item?,Delivery,Delivery,Delivery,False,0.049127899983432144
+803,I want help to restore my user account access key,Other,Other,Other,False,0.04935350001323968
+807,how do i see ur available payment modailties,Payment,Payment,Payment,False,0.05086760001722723
+809,i need help unsubscribing to the newsletter,Other,Other,Other,False,0.05201220000162721
+815,I would like to ask for compensations,Refund,Other,Other,False,0.04945460002636537
+816,need assistance checking my refund current status,Refund,Refund,Refund,False,0.06540029996540397
+819,where do I update my delivery address ?,Delivery,Delivery,Delivery,False,0.04947919998085126
+829,"Hello there, me electric toothbrush (order #560905) makin' a rattlin' noise, wot to do?",Product Quality,Product Quality,Product Quality,False,0.06642299995291978
+833,Not happy to find a missing part on my sofa (order #283514).,Product Quality,Product Quality,Product Quality,False,0.06411559996195138
+838,wanna check in which cases can i ask for refunds,Refund,Refund,Refund,False,0.065707299974747
+839,Just found a broken zip on my winter coat (order #250255). Can it be repaired please?,Product Quality,Product Quality,Product Quality,False,0.06507989997044206
+843,is it possible to check the status of the rebate?,Refund,Refund,Refund,False,0.06461469997884706
+853,"I have got to check how soon can I expect my order, help me",Delivery,Delivery,Delivery,False,0.04849239997565746
+858,i dont know what i have to do to get the invoice #12588,Payment,Other,Other,False,0.0511821000254713
+866,i do not know what i need to do to modify the address,Delivery,Other,Other,False,0.048910200013779104
+875,can ushow me the withdrawal penalties,Other,Payment,Payment,False,0.050782399950549006
+882,I have a problem with a delivery address update,Delivery,Other,Other,False,0.04878140002256259
+895,can you help me see how soon can I expect my item?,Delivery,Delivery,Delivery,False,0.049935100018046796
+902,assistance to report a problem with payments,Payment,Payment,Payment,False,0.05154079996282235
+912,want assistance to check how soon can i exppect the item,Delivery,Delivery,Delivery,False,0.05129639996448532
+934,"So gutted my denim trousers have bobbled after just one wash, can I get a refund please?",Product Quality,Product Quality,Product Quality,False,0.06443129997933283
+935,So angry that my winter coat bobbled after one wash! What can I do about it?,Product Quality,Product Quality,Product Quality,False,0.0662356999819167
+937,help me  to check in what cases can i ask to be refunded,Refund,Refund,Refund,False,0.06585259997518733
+964,wanna check what shipping methods uoffer can uhelp me,Delivery,Delivery,Delivery,False,0.0519135000067763
+969,i need support modifying the  address,Delivery,Other,Other,False,0.05216020002262667
+970,Just wanted to let you know that 'it' is wobbly even when assembled properly.,Product Quality,Product Quality,Product Quality,False,0.06846670003142208
+976,I want assistance seeing how soon can I expect my product,Delivery,Delivery,Delivery,False,0.05739279999397695
+983,"I chose a wrong shipping address, how do I update it?",Delivery,Other,Other,False,0.053354799980297685
+989,"Just noticed that it keeps overheating, what should I do next?",Product Quality,Product Quality,Product Quality,False,0.0678732999949716
+992,"I would like to list the accepted payment options, help me",Payment,Payment,Payment,False,0.051738500013016164
+1005,"Not happy, electric toothbrush stopped charging. No idea what to do next.",Product Quality,Product Quality,Product Quality,False,0.06732500001089647
+1012,"I would like to shop several of your article, I need help",Other,Other,Other,False,0.05279270000755787
+1019,show me the eta of the order #694799,Delivery,Delivery,Delivery,False,0.05058640002971515
+1020,"Can I request a replacement for my suitcase, as one of its wheels or legs has snapped off.",Product Quality,Product Quality,Product Quality,False,0.06565439997939393
+1025,I have to enter a shipping address,Delivery,Delivery,Delivery,False,0.050644800008740276
+1026,i have errors modifying my shipping address,Delivery,Other,Other,False,0.05057449999731034
+1038,any news on my bloody reimbursement,Refund,Refund,Refund,False,0.06499939999775961
+1040,i need assiustance reporting an issue with a registration,Other,Other,Other,False,0.05123789998469874
+1042,help to see what delivery methods are available,Delivery,Delivery,Delivery,False,0.05323540000244975
+1052,where can I check the damn withdrawal charges?,Other,Other,Other,False,0.049933799949940294
+1053,I have problems entering my new delivery address,Delivery,Delivery,Delivery,False,0.05063670000527054
+1056,checking the available options for shipment,Delivery,Delivery,Delivery,False,0.051391599990893155
+1074,how could i see what payment options ya accept,Payment,Payment,Payment,False,0.0519757000147365
+1080,wasnt assistance to set up a delivery address,Delivery,Other,Other,False,0.05362510000122711
+1088,i have got to call customer service i need help,Other,Other,Other,False,0.052702800021506846
+1091,show me purchase #536822 statud,Delivery,Delivery,Delivery,False,0.050779699988197535
+1094,I expect a bloody reimbursement of 300 pounds,Refund,Refund,Refund,False,0.06481650000205263
+1102,y i cannot submit a secondary delivery address valid,Delivery,Delivery,Delivery,False,0.050954499980434775
+1105,inform of error opening profile,Other,Other,Other,False,0.05004889995325357
+1114,how do i find bill #12588,Payment,Other,Other,False,0.050479000026825815
+1116,can you help me solve issues with online payments?,Payment,Payment,Payment,False,0.05254170001717284
+1123,I  need help asking for a restitution of my money,Refund,Refund,Refund,False,0.0666396000306122
+1124,The office chair (#485397) is missing a part. Please arrange a replacement for me.,Product Quality,Product Quality,Product Quality,False,0.0642121999990195
+1125,i have got to check the accepted payment options,Payment,Payment,Payment,False,0.04927079996559769
+1129,i do not know what to do to get the nivoice #12588,Payment,Other,Other,False,0.0473344000056386
+1141,i try to correct the address,Delivery,Other,Other,False,0.049203199974726886
+1157,I want help to cancel my company newsletter subscription,Other,Other,Other,False,0.04910590004874393
+1174,I have to check the goddamn current status of order #829988,Delivery,Delivery,Delivery,False,0.04799629998160526
+1175,"I am waiting for a refund of £158, has it been porocessed?",Refund,Refund,Refund,False,0.06509539997205138
+1179,how to check the current status of purchase #114768?,Delivery,Delivery,Delivery,False,0.05335090000880882
+1183,"Why is the frying pan wobbly even when assembled properly, is the warranty covering it? (Order #628597)",Product Quality,Product Quality,Product Quality,False,0.06405610003275797
+1186,I need help to list your payment methods,Payment,Payment,Payment,False,0.04933050001272932
+1212,"I want to see how soon can I expect my order, how to do it?",Delivery,Delivery,Delivery,False,0.049518699990585446
+1215,i do not know what i have to do to see bill #85632,Payment,Other,Other,False,0.05057930003385991
+1225,is it possible to see when will my purchase arrive,Delivery,Delivery,Delivery,False,0.049750200007110834
+1230,where can i see at what time i can reach customer assistance,Other,Other,Other,False,0.049509900039993227
+1231,what do I need to do to see my compensation current status?,Refund,Refund,Refund,False,0.06486789998598397
+1235,i need help to download the damn bill from Sarah,Payment,Other,Other,False,0.051467399985995144
+1256,can you help me check how oson can I expect the parcel?,Delivery,Delivery,Delivery,False,0.04874810000183061
+1262,I want to locate purchase #240057,Delivery,Delivery,Delivery,False,0.05064600001787767
+1263,what di i need to do to give a quick look at the bill #12588,Payment,Other,Other,False,0.04878499999176711
+1265,I need to see if there is anything new on the compensation,Refund,Other,Other,False,0.05016610003076494
+1276,"I have got to receive the corporate newsletter, I need help",Other,Other,Other,False,0.050997600017581135
+1285,I cannot check if there are any news on my rebate,Refund,Other,Other,False,0.04919689998496324
+1313,i dont know how to change to the platinum account,Other,Other,Other,False,0.04967269999906421
+1314,i have to inform of a payment issue,Payment,Payment,Payment,False,0.050286400015465915
+1319,help me to enter my bloody delivery address,Delivery,Delivery,Delivery,False,0.049653900030534714
+1328,help checking in what cases can i request to be refunded,Refund,Refund,Refund,False,0.06465619994560257
+1358,"I want to checj your money back policy, I need assistance",Refund,Refund,Refund,False,0.06399039999814704
+1361,My bookshelf feels cheap and flimsy. Any assistance is appreciated.,Product Quality,Product Quality,Product Quality,False,0.06408929999452084
+1384,I cannot pay for purchase #109767,Other,Payment,Payment,False,0.05215240002144128
+1385,"I've got a bluetooth speaker that stopped charging. No action required, just reporting it.",Product Quality,Product Quality,Product Quality,False,0.06336629996076226
+1386,i nee help to cancel order #156802,Other,Other,Other,False,0.05111569998553023
+1388,can you help me checking the termination charges?,Other,Payment,Payment,False,0.048219399992376566
+1392,i expect a reimbursement of £199,Refund,Refund,Refund,False,0.0643922999734059
+1394,"I need to track my compensation, could I get some help?",Refund,Refund,Refund,False,0.06369109998922795
+1412,i dont know what to do to notify of an issue with a sign-up,Other,Other,Other,False,0.050908600038383156
+1426,i have got to locate order #305837,Delivery,Delivery,Delivery,False,0.04913709999527782
+1442,my shipping address has changed how can i modify it,Delivery,Other,Other,False,0.05030990001978353
+1443,i paid £228 for an article i try to obain a reimbursement,Refund,Refund,Refund,False,0.06584060000022873
+1454,help to see in which cases can I request a reimbursement,Refund,Refund,Refund,False,0.06530899996869266
+1458,is it possible to enter another shipping address,Delivery,Delivery,Delivery,False,0.05017050000606105
+1466,"I have to list the payment modalities, can I get some help?",Payment,Payment,Payment,False,0.050038900051731616
+1467,order 00123842current status,Delivery,Delivery,Delivery,False,0.049582500010728836
+1473,I have a trouble editing the address,Delivery,Other,Other,False,0.05017270002281293
+1489,update information on account type account,Other,Other,Other,False,0.05150539998430759
+1497,check your refund policy,Refund,Refund,Refund,False,0.06512250000378117
+1505,"Not happy with the quality of the chair I ordered (#460857), it feels cheap and flimsy. Just thought I'd let you know.",Product Quality,Product Quality,Product Quality,False,0.06770509999478236
+1534,I cannot submit a secondary delivery address,Delivery,Delivery,Delivery,False,0.05189629999222234
+1546,why I can't set the secondary shipping address valid up,Delivery,Delivery,Delivery,False,0.050653700018301606
+1550,list accepted payment methods,Payment,Payment,Payment,False,0.049840299994684756
+1562,editing account,Other,Other,Other,False,0.04763639997690916
+1583,wanna get my bil from James how could i do it,Payment,Other,Other,False,0.049038800003472716
+1588,want assistance updating my address,Delivery,Other,Other,False,0.05100000003585592
+1590,I am trying to sign up to your fucking newsletter,Other,Other,Other,False,0.048955799953546375
+1603,I have troubles changing the fucking address,Delivery,Other,Other,False,0.05120279995026067
+1606,Just noticed a part missing from my frying pan (order #845279). Need a replacement.,Product Quality,Product Quality,Product Quality,False,0.06375030003255233
+1607,I do not know how I can see the current status of my refund,Refund,Refund,Refund,False,0.06447109999135137
+1611,I call to leave a comment about your products,Other,Other,Other,False,0.05166689999168739
+1616,"hello, the sole on my jeans is peeling off.",Product Quality,Product Quality,Product Quality,False,0.06817829998908564
+1621,"Ordered a bookshelf but it doesn't look like the photos, what next?",Product Quality,Product Quality,Product Quality,False,0.06448979995911941
+1626,need assistance tonotify of a trouble with payments,Payment,Payment,Payment,False,0.0505981000023894
+1630,help me to see what payment paymnet modalities are available,Payment,Payment,Payment,False,0.04873580002458766
+1640,can uhelp me see how sooj can i expect the product,Delivery,Delivery,Delivery,False,0.05121030000736937
+1643,I need to talk with customer assistance,Other,Other,Other,False,0.05049779999535531
+1650,assistance listing your available payment methods,Payment,Payment,Payment,False,0.050055299943778664
+1657,"Just received the desk lamp (#452161) and it won't turn on, what should I do next?",Product Quality,Product Quality,Product Quality,False,0.06477220001397654
+1662,"So order #778684, the frying pan feels cheap and flimsy. I'd appreciate a replacement, please.",Product Quality,Product Quality,Product Quality,False,0.06625130004249513
+1667,wanna check in what cases can i request a refund,Refund,Refund,Refund,False,0.06569349998608232
+1668,I want help correcting the address,Delivery,Other,Other,False,0.04901479999534786
+1669,"So frustrated, the zip broke on the item used for formal occasions. Can you arrange a repair please?",Product Quality,Product Quality,Product Quality,False,0.06564729998353869
+1698,help me see the current status of my compensation,Refund,Refund,Refund,False,0.06465920002665371
+1699,need to check in which cases can i request an refund,Refund,Refund,Refund,False,0.0659385000471957
+1743,how can i submit my shipping address,Delivery,Delivery,Delivery,False,0.04977350000990555
+1756,could I see if there is anything new on my refund?,Refund,Refund,Refund,False,0.06508089997805655
+1762,The blender I received makes a loud rattling noise. Just reporting it for your information,Product Quality,Product Quality,Product Quality,False,0.06590030004736036
+1763,assistance to check in which cases can I ask for refunds,Refund,Refund,Refund,False,0.06628340005408973
+1792,assistance setting another delivery address up,Delivery,Other,Other,False,0.050247800012584776
+1796,can you help me find invoice #37777?,Payment,Other,Other,False,0.050667300005443394
+1801,"I have to write an opinion, can I get some help?",Other,Other,Other,False,0.05267220002133399
+1810,I want to obtain refunds of my money,Refund,Refund,Refund,False,0.06436580000445247
+1812,would it be possible to notfy of an error with payments,Payment,Payment,Payment,False,0.04972840001573786
+1822,can i enter a secondary shipping address,Delivery,Delivery,Delivery,False,0.04941770003642887
+1823,I have got to see when will my aprcel arrive,Delivery,Delivery,Delivery,False,0.049529400013852865
+1825,"I have got to check the withdrawal charges, help me",Other,Other,Other,False,0.048490800021681935
+1829,wanna submit the new shipping address how do i do it,Delivery,Other,Other,False,0.047858300036750734
+1830,"Just received the jumper and the sole is peeling off, can I please have a repair? (Order #846454)",Product Quality,Product Quality,Product Quality,False,0.06745499995304272
+1838,I want to ask for rebates,Refund,Other,Other,False,0.051717699971050024
+1843,I want help to see the shipment options,Delivery,Delivery,Delivery,False,0.04999219998717308
+1844,Why is it that the stitching is coming apart?,Product Quality,Product Quality,Product Quality,False,0.06516269996063784
+1845,how to get bill #37777,Payment,Other,Other,False,0.05144979996839538
+1848,I try to check in what casescan I request a reimbursement,Refund,Refund,Refund,False,0.06533800001488999
+1853,can uhelp me report problems with payments,Payment,Payment,Payment,False,0.04947779997019097
+1856,I am not happy with my trainers. The sole is peeling off and it's from order number #980764. What to do next?,Product Quality,Product Quality,Product Quality,False,0.07334950001677498
+1867,need to check how long it takes for the parcel to arrive,Delivery,Delivery,Delivery,False,0.05056820000754669
+1868,assistance giving aquick look at invoice #85632,Payment,Other,Other,False,0.05005329998675734
+1875,I need assistance to locate order #782139,Delivery,Delivery,Delivery,False,0.04930799995781854
+1884,Why did my suitcase arrive with a part missing? Unacceptable!,Product Quality,Product Quality,Product Quality,False,0.06605389999458566
+1894,can you help me changing purchase #290556?,Other,Other,Other,False,0.04928079998353496
+1901,where could i obtain compensations of money,Refund,Refund,Refund,False,0.06592039996758103
+1902,help to set my secondarydelivery address up,Delivery,Delivery,Delivery,False,0.050582900003064424
+1905,I need to see the available payment modalities,Payment,Payment,Payment,False,0.05113350000465289
+1911,can iu talk to customer support,Other,Other,Other,False,0.0501073999912478
+1921,use gold acdcount,Other,Payment,Payment,False,0.04955669998889789
+1925,how could I see the shipment options?,Delivery,Delivery,Delivery,False,0.0480546000180766
+1929,"I want to track purchase #443897, I need help",Delivery,Delivery,Delivery,False,0.05073000001721084
+1935,how do i check  when will my parcel arrive,Delivery,Delivery,Delivery,False,0.04953920003026724
+1944,I don't know how I can get the invoice #85632,Payment,Other,Other,False,0.05004830000689253
+1965,how could I see what payment payment modalities are allowed?,Payment,Payment,Payment,False,0.048804800026118755
+1966,I have to unsubscribe from the company newsletter,Other,Other,Other,False,0.04906609997851774
+1973,I need help to updae the address,Delivery,Other,Other,False,0.0511316999909468
+1981,order 370795561790current status,Delivery,Delivery,Delivery,False,0.04900310002267361
+1983,i do not know what to do to close the account category account,Other,Other,Other,False,0.051668600004632026
+1984,get bill from Sarah,Payment,Other,Other,False,0.047391399974003434
+1992,I need to edit the delivery  address,Delivery,Other,Other,False,0.04771090002031997
+1999,"I have to buy a fucking article, how to do it?",Other,Other,Other,False,0.05027780000818893
+2004,what do I need to do to buy several items?,Other,Other,Other,False,0.05083099997136742
+2009,"I want to track the reimbursement, can you help me?",Refund,Refund,Refund,False,0.06652970000868663
+2012,i cannot make a  payment where do i report an error,Payment,Payment,Payment,False,0.05172879999736324
+2016,where to check what payment methods are allowed?,Payment,Payment,Payment,False,0.047745599993504584
+2022,can you help me see the accepted payment options?,Payment,Payment,Payment,False,0.04977610002970323
+2024,I need to switch to the standard acconut,Other,Other,Other,False,0.049215300008654594
+2029,need help giving a quick look at the invoice from Aisha,Payment,Other,Other,False,0.04974370001582429
+2033,what do I have to do to set up the new shipping addeess?,Delivery,Delivery,Delivery,False,0.04889289999846369
+2041,can ya help me updating the details included on my account,Other,Other,Other,False,0.04904529999475926
+2053,the suitcase i bought is wobbly even when assembled properly. does the warranty cover this?,Product Quality,Product Quality,Product Quality,False,0.06471720000263304
+2062,I cannot set up a different delivery address,Delivery,Delivery,Delivery,False,0.05012899998109788
+2067,how to check how long it takes for my delivery to arrive,Delivery,Delivery,Delivery,False,0.05000539997126907
+2073,i try to inform of issues with payment,Payment,Payment,Payment,False,0.0495686000213027
+2084,i dont know what i need to do to demand my money back,Refund,Refund,Refund,False,0.06405290000839159
+2091,need assistance to track order #201377,Delivery,Delivery,Delivery,False,0.0513298999867402
+2103,I want to see in what cases can I ask for reimbursements,Refund,Refund,Refund,False,0.06463480001548305
+2107,i have a problem with openng a platinum account,Other,Other,Other,False,0.0513733999687247
+2115,I do not know what I need to do to talk with a person,Other,Other,Other,False,0.05079200002364814
+2125,So I've received an office chair that doesn't look anything like the website photos. Can I please have my money back?,Product Quality,Product Quality,Product Quality,False,0.065367300005164
+2132,where could i see when my order is gonna arrive,Delivery,Delivery,Delivery,False,0.04879400000208989
+2140,can I talk to customer uspport?,Other,Other,Other,False,0.05059880000771955
+2144,i do not know what i have to do to get my money back,Refund,Refund,Refund,False,0.0650376999983564
+2155,help me seeing purchase #158104 status,Delivery,Delivery,Delivery,False,0.05008419998921454
+2169,"I want to inform of a problem with online payments, help me",Payment,Payment,Payment,False,0.050157199962995946
+2179,i want assistance to notify of problems with online payments,Payment,Payment,Payment,False,0.050911700003780425
+2182,i expect a reimbursxement of £219,Refund,Refund,Refund,False,0.0662917000008747
+2188,i want help to get my invoice from Tom,Payment,Other,Other,False,0.048920399975031614
+2189,i want assistance solving a trouble with online payment,Payment,Payment,Payment,False,0.048864000011235476
+2191,I have an issue setting the secondary delivery address up,Delivery,Other,Other,False,0.050859799957834184
+2197,how to check the current status of the reimbursement?,Refund,Refund,Refund,False,0.06590960000175983
+2203,is it possible to see the available payment options,Payment,Payment,Payment,False,0.0502884000306949
+2217,I cannot recover my user PIN,Other,Other,Other,False,0.05073499999707565
+2225,"I've received a frying pan with scratches (order #205239), is this covered under warranty?",Product Quality,Product Quality,Product Quality,False,0.06455770001048222
+2231,assistance checking your accepted payment modalities,Payment,Payment,Payment,False,0.048346799972932786
+2233,want help creating a account category account,Other,Other,Other,False,0.0514854000066407
+2250,"I bought some items, help canceling order #426858",Other,Other,Other,False,0.05210780003108084
+2252,"I want to check the methods for delivery, help me",Delivery,Delivery,Delivery,False,0.04869299998972565
+2257,i need help seeing in what cases can i ask for my money back,Refund,Refund,Refund,False,0.06515450001461431
+2288,I have problems entering the shipping address,Delivery,Delivery,Delivery,False,0.050400700012687594
+2294,I don't know what I have to do to download invoice #00108,Payment,Other,Other,False,0.05124869995051995
+2296,I want help checking when my delivery is going to arrive,Delivery,Delivery,Delivery,False,0.05131249997066334
+2302,I'm waiting for a reimbursement of £29,Refund,Refund,Refund,False,0.0639767000102438
+2304,"I have entered a wrong shipping address, I want to modify it",Delivery,Other,Other,False,0.05019959999481216
+2308,can I check how long it takes for the delivery to arrive?,Delivery,Delivery,Delivery,False,0.05078950000461191
+2325,I can't change my delivery address,Delivery,Delivery,Delivery,False,0.049514300015289336
+2336,help me check your available payment methods,Payment,Payment,Payment,False,0.050167699984740466
+2343,can you help me to obtain a refund of money?,Refund,Refund,Refund,False,0.06432379997568205
+2345,where do I submit the new shipping address?,Delivery,Delivery,Delivery,False,0.05105010000988841
+2353,could ya help me requesting compensations of my money,Refund,Refund,Refund,False,0.06625329999951646
+2358,need assistance to retrieve the pwd of my user,Other,I can't assist with requests that involve,Other,True,0.1309338000137359
+2365,"hello, having issues with the kettle that keeps overheating, want a refund",Product Quality,Product Quality,Product Quality,False,0.06509429996367544
+2370,I have an error setting up another delivery address,Delivery,Other,Other,False,0.05205040000146255
+2379,I want to check what shipment methods I have,Delivery,Delivery,Delivery,False,0.04822649998823181
+2385,"Ordered a jumper but the colour is different, need repair please.",Product Quality,Product Quality,Product Quality,False,0.06531460001133382
+2400,is it possible to inform of a problem with registrations?,Other,Other,Other,False,0.05460259999381378
+2404,I expect a reimbursmeent of 81 pounds,Refund,Refund,Refund,False,0.06709579995367676
+2415,I need help seeing the ETA of the purchase #515182,Delivery,Delivery,Delivery,False,0.04842519998783246
+2418,where do i track the refund,Refund,Refund,Refund,False,0.06594780000159517
+2420,where can I obtain reimbursements of money?,Refund,Refund,Refund,False,0.06432299996959046
+2429,I want to know about modifying the delivery address,Delivery,Other,Other,False,0.050851100008003414
+2433,I have to check the accepted payment modalities,Payment,Payment,Payment,False,0.04911349999019876
+2435,want help checking in wht situations can i request refunds,Refund,Refund,Refund,False,0.06632679997710511
+2444,error setting a new shipping address up,Delivery,Other,Other,False,0.04942800005665049
+2473,need to update the details on my user how do i do it,Other,Other,Other,False,0.047783899994101375
+2474,I have a problem entering the secindary shipping address,Delivery,Other,Other,False,0.048945599992293864
+2475,I do not know wht I have to do to get my invoice #85632,Payment,Other,Other,False,0.04891350003890693
+2476,how could I check your money back guarantee?,Refund,Refund,Refund,False,0.06415980000747368
+2477,want assistance to update the address,Delivery,Other,Other,False,0.04957060003653169
+2481,i have got to locate order #943776 how can i do it,Delivery,Other,Other,False,0.05041409999830648
+2485,"The dress with zip broke (order #572788), nothin' I need to do?",Product Quality,Product Quality,Product Quality,False,0.06399480003165081
+2505,Why is the size nothing like the size guide for the dress I bought? What can be done about it?,Product Quality,Product Quality,Product Quality,False,0.06569919997127727
+2522,i dont know how to acquire an article,Other,Other,Other,False,0.05044860002817586
+2523,can you help me see in which cases can I ask for refunds?,Refund,Refund,Refund,False,0.06572630000300705
+2533,I want help listing your accepted payment methods,Payment,Payment,Payment,False,0.05072550004115328
+2542,how to use the account category profile?,Other,Other,Other,False,0.049735200009308755
+2543,"Ordered a frying pan and it's missing a part, what do I do next?",Product Quality,Product Quality,Product Quality,False,0.06444879999617115
+2550,I have to see how soon can I expect the goddamn order,Delivery,Delivery,Delivery,False,0.05363530002068728
+2551,I try to check in what cases can I request to be reimbursed,Refund,Refund,Refund,False,0.06555669999215752
+2554,i want help to create a gold account for my fiance,Other,Other,Other,False,0.04876070003956556
+2563,I can't modify my delivery address,Delivery,Delivery,Delivery,False,0.05216429999563843
+2573,how do I get compensations?,Refund,Refund,Refund,False,0.06590659997891635
+2583,wanna see  the payment methods help me,Payment,Payment,Payment,False,0.04998619999969378
+2595,help me modifying the adress,Delivery,Other,Other,False,0.0507540000253357
+2602,track refund,Refund,Refund,Refund,False,0.05991179996635765
+2610,i need help requesting rebates of money,Refund,Other,Other,False,0.046111200004816055
+2622,i have an issue changing my shipping address,Delivery,Other,Other,False,0.04963840002892539
+2623,I want help checking purchase #374258 current status,Delivery,Other,Other,False,0.04768399999011308
+2625,want help to check your damn money back guarantee,Refund,Refund,Refund,False,0.06469159998232499
+2641,"I need to order something, will you help me?",Other,Other,Other,False,0.048689100018236786
+2643,i dont know how i can check my refund current status,Refund,Refund,Refund,False,0.06288089998997748
+2650,"I no longer need my damn account, how do I delete it?",Other,Other,Other,False,0.04859700001543388
+2657,what do i need to do to cancel a bloody platinum account,Other,Other,Other,False,0.050544199999421835
+2667,help checking if there is anything new on the bloody rebate,Refund,Other,Other,False,0.05026020004879683
+2670,can I check how long the shipping takes?,Delivery,Delivery,Delivery,False,0.0502377999946475
+2675,i do not know what to do to ask for rebates of money,Refund,Refund,Refund,False,0.06755770003655925
+2676,i try to see ur reimbursement policy,Refund,Refund,Refund,False,0.06614569999510422
+2678,"I don't need my fucking account category account, I want to close it",Other,Other,Other,False,0.04952130001038313
+2679,I do not know what to do to get the invoice #12588,Payment,Other,Other,False,0.05065349995857105
+2680,how do I check how soon can I expect my package?,Delivery,Delivery,Delivery,False,0.049570900038816035
+2682,i do not know what i have to do to request refunds of money,Refund,Refund,Refund,False,0.06475979997776449
+2698,can uhelp me download the invoice from Tom,Payment,Other,Other,False,0.048538200033362955
+2700,show me how long it normally takes for my item to arrive,Delivery,Delivery,Delivery,False,0.04931229999056086
+2701,"I have got to see when will my package arrive, I need help",Delivery,Delivery,Delivery,False,0.04939410003134981
+2703,how do i check the status of purchase #649787,Delivery,Delivery,Delivery,False,0.05006650002906099
+2710,i want help to see when will my packag arrive,Delivery,Delivery,Delivery,False,0.0509332999936305
+2731,when will I obtain a rebate of money?,Refund,Refund,Refund,False,0.06685130001278594
+2733,I don't know what to do to reset my user PIN code,Other,Other,Other,False,0.05201929999748245
+2738,I have troubles trying to updste my delivery address,Delivery,Other,Other,False,0.04996550001669675
+2740,hw can i see the early termination fee,Other,Payment,Payment,False,0.04849099996499717
+2744,wanna check the eta of order #772464 how to do it,Delivery,Delivery,Delivery,False,0.05077879998134449
+2779,assistance to see how soon can I expect my product,Delivery,Delivery,Delivery,False,0.04928860004292801
+2780,how could I check how long it takes for the item to arrive?,Delivery,Delivery,Delivery,False,0.05124469997826964
+2792,assistance seeing if there are any news on my reimbursement,Refund,Other,Other,False,0.04883240000344813
+2794,there is a problem trying to update my shipping address,Delivery,Other,Other,False,0.05014349997509271
+2796,"the new delivery address is invalid, what should I do?",Delivery,Delivery,Delivery,False,0.04741320002358407
+2798,I do not know what to do to close the account category account,Other,Other,Other,False,0.049735400010831654
+2808,modify info on premium account,Other,Other,Other,False,0.04884659999515861
+2810,I need assistance submitting the new shipping address,Delivery,Other,Other,False,0.05122170003596693
+2816,"I have to see the withdrawal penalties, help me",Other,Other,Other,False,0.050261199998203665
+2828,"I want to locate my bill #85632, I need help",Payment,Other,Other,False,0.04915710003115237
+2831,where can I see what shipment options I have?,Delivery,Delivery,Delivery,False,0.050997599959373474
+2838,I do not know what I have to do ot buy several items,Other,Other,Other,False,0.048358800006099045
+2856,how do I obtain a rebate of money?,Refund,Refund,Refund,False,0.0627614000113681
+2862,help me seeing ur refund policy,Refund,Refund,Refund,False,0.06483089999528602
+2865,help me seeing what shipping options you offer,Delivery,Delivery,Delivery,False,0.04894619999686256
+2867,I'm trying to check ur payment modalitise,Payment,Payment,Payment,False,0.05015239998465404
+2869,I don't know how I can inform of issues with payments,Payment,Payment,Payment,False,0.04832110001007095
+2876,y i cannot submit the new delivery address valid,Delivery,Delivery,Delivery,False,0.05049729999154806
+2887,how to buy a product?,Other,Other,Other,False,0.051242200017441064
+2910,i have an issue submitting the new delivery address,Delivery,Other,Other,False,0.04979359998833388
+2921,I want helpto see your refund policy,Refund,Refund,Refund,False,0.06431099999463186
+2922,i dont know what to do to talk to customer support,Other,Other,Other,False,0.05091049999464303
+2925,I am trying to check how soon can I expect the damn shipment,Delivery,Delivery,Delivery,False,0.049126199970487505
+2927,how to see ta what time I can call customer support?,Other,Other,Other,False,0.05145590001484379
+2933,"I want to see the ETA of order #631958, I need help",Delivery,Delivery,Delivery,False,0.05422930000349879
+2935,I do not know what I have to do ot talk to somebody,Other,Other,Other,False,0.04985270003089681
+2936,show the available shipment methods,Delivery,Delivery,Delivery,False,0.05079349997686222
+2943,help to demand reimbursements of money,Refund,Refund,Refund,False,0.0654219999560155
+2952,clsoe account category account,Other,Other,Other,False,0.05012410000199452
+2954,can ya help me notify of an issue with payment,Payment,Payment,Payment,False,0.048988700029440224
+2957,I need assistance to leave an opinion for your services,Other,Other,Other,False,0.05064989998936653
+2960,"I would like to enter my shipping address , how to do it?",Delivery,Delivery,Delivery,False,0.049862799991387874
+2967,not happy that the trousers zip broke before first wear.,Product Quality,Product Quality,Product Quality,False,0.06261250004172325
+2977,hlw do i check the ETA of purchase #576419,Delivery,Delivery,Delivery,False,0.049035699979867786
+2984,i have a question about the termination of a standard acount,Other,Other,Other,False,0.04996229999233037
+2989,how do I check the options for shipment?,Delivery,Delivery,Delivery,False,0.04973490000702441
+2992,assistance editing the shipping address,Delivery,Other,Other,False,0.04966330004390329
+3007,"I need to check the rebate current status, can you help me?",Refund,Refund,Refund,False,0.06487220001872629
+3023,i try to download bill #37777,Payment,Other,Other,False,0.05147730000317097
+3025,help me to shop some of your product,Other,Other,Other,False,0.04970189998857677
+3029,any news on the refund,Refund,Refund,Refund,False,0.06522980000590906
+3030,want help to see the shipping options,Delivery,Delivery,Delivery,False,0.05039560003206134
+3033,how can I report a trouble with online payment?,Payment,Payment,Payment,False,0.04934649995993823
+3034,ya have a method to send feedback,Other,Other,Other,False,0.04986150003969669
+3039,want help seeing in what cases can i request my money back,Refund,Refund,Refund,False,0.06361539999488741
+3047,is it possible to check how soon can I expect the item?,Delivery,Delivery,Delivery,False,0.05183710000710562
+3058,I want help using the pro profile,Other,Other,Other,False,0.049798800027929246
+3060,I can't set my damn secondary shipping address up,Delivery,Other,Other,False,0.05006829998455942
+3065,I don't know how to get refunds,Refund,Refund,Refund,False,0.06370569998398423
+3077,help me setting up the new delivery address,Delivery,Delivery,Delivery,False,0.05095110001275316
+3078,"I have to see how soon can I expect the item, help me",Delivery,Delivery,Delivery,False,0.04898159997537732
+3082,I have to notify of issues with a signup,Other,Other,Other,False,0.05087959999218583
+3089,how to order some products?,Other,Other,Other,False,0.0497054000152275
+3091,I need help talking to customer service,Other,Other,Other,False,0.05215970001881942
+3101,need assistance to list your avaialble payment options,Payment,Payment,Payment,False,0.04924740002024919
+3102,Ordered: stitching is coming apart. Need a replacement.,Product Quality,Product Quality,Product Quality,False,0.06638590001966804
+3105,need assistance checking order #411882 status,Delivery,Delivery,Delivery,False,0.050372399971820414
+3109,"I submitted a wrong address, edit it",Delivery,Delivery,Delivery,False,0.05283150001196191
+3112,"I have a wobbly piece of furniture, used for seating, ordered number #xxxx. Please send a replacement.",Product Quality,Product Quality,Product Quality,False,0.06640959996730089
+3141,I'd like to obtain an reimbursement of money,Refund,Refund,Refund,False,0.06377990002511069
+3144,need assistance setting up a shipping address,Delivery,Delivery,Delivery,False,0.05036130000371486
+3145,"Not happy with my jumper, zip broke on first wear. What now?",Product Quality,Product Quality,Product Quality,False,0.063251500017941
+3154,I want assistance setting up my shipping address,Delivery,Delivery,Delivery,False,0.05137709999689832
+3161,i have to enter a different delivery address,Delivery,Delivery,Delivery,False,0.05014020000817254
+3174,find information about modifying the delivery address,Delivery,Other,Other,False,0.04750330001115799
+3179,I want to see how long it takes for my order to arrive,Delivery,Delivery,Delivery,False,0.0504248000215739
+3190,"Sad to say the jeans zip broke, just reporting the issue.",Product Quality,Product Quality,Product Quality,False,0.06489540002075955
+3191,want help acquiring som items,Other,Other,Other,False,0.05266069999197498
+3193,can huelp me setting the secondary delivery address up,Delivery,Delivery,Delivery,False,0.05256119999103248
+3197,how to inform of payment errors?,Payment,Payment,Payment,False,0.04835260001709685
+3210,how can I notify of problems with online payments?,Payment,Payment,Payment,False,0.049340999976266176
+3211,I have to see how soon can I expect my article,Delivery,Delivery,Delivery,False,0.04902620002394542
+3214,I have to set my new delivery address up,Delivery,Delivery,Delivery,False,0.04782330000307411
+3231,i do not know what i need to do to close a platinum account,Other,Other,Other,False,0.04962980002164841
+3251,I do not know what I need to do to check your refund policy,Refund,Other,Other,False,0.05000859999563545
+3254,could you tell me about changing my delivery address?,Delivery,Other,Other,False,0.05258319998392835
+3261,how could I see the payment methods?,Payment,Payment,Payment,False,0.05094389995792881
+3270,i want an different bloody premium account for my wife,Other,Other,Other,False,0.049174000043421984
+3275,I need information about correcting purchase #999398,Other,Other,Other,False,0.052757199970074
+3289,"i got a dress and the stitching is coming apart, what to do next",Product Quality,Product Quality,Product Quality,False,0.06568870000774041
+3291,I want assistance to edit my shipping address,Delivery,Other,Other,False,0.050416900019627064
+3296,how do I check order #176577 current status?,Delivery,Delivery,Delivery,False,0.050222699996083975
+3307,i have to check how long reimbursements take i need help,Refund,Refund,Refund,False,0.06511299998965114
+3308,help to edit the delivery aderess,Delivery,Delivery,Delivery,False,0.0500402000034228
+3309,I need support modifying the address,Delivery,Other,Other,False,0.050837400020100176
+3321,i dont know how i can locate bill #00108,Payment,Other,Other,False,0.04890649998560548
+3335,help me checking what options for delivery i have,Delivery,Delivery,Delivery,False,0.04793869995046407
+3341,i need help to use the standard profile,Other,Other,Other,False,0.05162760004168376
+3346,assistance checking what payment methods are accepted,Payment,Payment,Payment,False,0.048634400009177625
+3348,I try to correct the shipping address,Delivery,Other,Other,False,0.051222799986135215
+3356,"Why has a wheel or leg snapped off my luggage, I need a replacement.",Product Quality,Product Quality,Product Quality,False,0.06227170000784099
+3367,"I dressed size nothing like size guide, what to do next",Product Quality,Other,Other,False,0.04791660001501441
+3374,I have got to cancel the newsletter subscription,Other,Other,Other,False,0.05029459996148944
+3377,i need assistance requesting reimbursements of my money,Refund,Refund,Refund,False,0.0640706000267528
+3385,where can I see how soon can I expect my item?,Delivery,Delivery,Delivery,False,0.05000980000477284
+3393,want assistance to download the inovices from James,Payment,Other,Other,False,0.05060550000052899
+3403,"I have got to see when will my article arrive, how to do it?",Delivery,Delivery,Delivery,False,0.050012200023047626
+3405,just the desk lamp stopped working,Product Quality,Product Quality,Product Quality,False,0.06333979999180883
+3410,I need to check how long it takes for my shipment to arrive,Delivery,Delivery,Delivery,False,0.048650699958670884
+3417,i call to download my bills from Tom,Payment,Other,Other,False,0.04997600003844127
+3421,want help trying to correct the address,Delivery,Other,Other,False,0.04721119999885559
+3443,where can I update the shipping address?,Delivery,Delivery,Delivery,False,0.04846650001127273
+3449,how do i see the damn status of order #254954,Delivery,Delivery,Delivery,False,0.04785750003065914
+3451,"I want to submit my new shipping address, how do I do it?",Delivery,Other,Other,False,0.04934820003109053
+3461,"The footwear I received isn't nothing like the size guide. What to do next, please?",Product Quality,Product Quality,Product Quality,False,0.06476209999527782
+3491,I need assistance tocancel order #429445,Other,Other,Other,False,0.04854960000375286
+3504,could you help me requesting a goddamn rebate of my money?,Refund,Refund,Refund,False,0.06613530003232881
+3509,help with payment,Payment,Payment,Payment,False,0.04841310001211241
+3512,can ya help me to notify of an trouble with online payments,Payment,Payment,Payment,False,0.04969419998815283
+3514,wanna know about modifying the shipping address,Delivery,Other,Other,False,0.05112470005406067
+3520,i expect a restitution of 158 pounds,Refund,Refund,Refund,False,0.06403129996033385
+3521,I am trying to check order #274739 currentstatus,Delivery,Delivery,Delivery,False,0.049357599986251444
+3522,I'm trying to contact customer service,Other,Other,Other,False,0.049265699984971434
+3527,help to unsubscribe frmo your company newsletter,Other,Other,Other,False,0.049942500016186386
+3552,help seeing in what situations can I request to be refunded,Refund,Refund,Refund,False,0.06416800001170486
+3553,want assistance cancelling a account type account,Other,Other,Other,False,0.05024269997375086
+3554,where to receive a restitution of money?,Refund,Refund,Refund,False,0.06400339998072013
+3564,i do not know what to do to receive compensations of money,Refund,Refund,Refund,False,0.06738269998459145
+3568,i need assistance tracking purchase #662728,Delivery,Delivery,Delivery,False,0.05052260000957176
+3579,I have got to enter a delivery address,Delivery,Delivery,Delivery,False,0.05142609996255487
+3585,I want help to change to the freemium account,Other,Other,Other,False,0.049305599997751415
+3587,Not happy with my jumper (order #147440) as the zip has broken already.,Product Quality,Product Quality,Product Quality,False,0.06463540002005175
+3588,"not happy with the running trainers, bobbled after one wash, order #922157, need a repair",Product Quality,Product Quality,Product Quality,False,0.06609979999484494
+3591,help to check the status of my compensation,Refund,Other,Other,False,0.05179800000041723
+3600,"I want to see how soon can I expect my parcel, how to do it?",Delivery,Delivery,Delivery,False,0.04951189999701455
+3613,where do i check how soon can i expect my product,Delivery,Delivery,Delivery,False,0.051371100009419024
+3615,is it possible to obtain a damn restitution of my money?,Refund,Refund,Refund,False,0.06580250000115484
+3617,I'm calling to see when my delivery is gonna arrive,Delivery,Delivery,Delivery,False,0.04931630002101883
+3625,i do not know what to do to report a trouble with payment,Payment,Payment,Payment,False,0.0500148999853991
+3638,help me checking in what cases can I ask for  reimbursements,Refund,Refund,Refund,False,0.06375020003179088
+3640,can i see how long it usually takes for my item to arrive,Delivery,Delivery,Delivery,False,0.05073000001721084
+3649,could you help me placing an order?,Other,Other,Other,False,0.05101189995184541
+3669,can I check in which cases can I request my damn money back?,Refund,Refund,Refund,False,0.06509679998271167
+3682,want help to chck how soon can i expect my order,Delivery,Delivery,Delivery,False,0.05044750001979992
+3686,i cant open a user i wanna report signup issues,Other,Other,Other,False,0.05190479999873787
+3699,where can i eanr a few of ur item,Other,Other,Other,False,0.051037599972914904
+3703,I don't know how to sybmit my secondary delivery address,Delivery,Other,Other,False,0.05069440003717318
+3704,"I have to edit the info on my profile, how to do it?",Other,Other,Other,False,0.04842579999240115
+3710,I want help to purchase some articles,Other,Other,Other,False,0.049538299965206534
+3727,can i check under which circumstances can i request a refund,Refund,Refund,Refund,False,0.06544199999189004
+3733,"Ordered the suitcase, but it doesn't look anything like the photos on your website. What should I do next?",Product Quality,Product Quality,Product Quality,False,0.06522220000624657
+3737,wanna check how long refunds usually take help me,Refund,Refund,Refund,False,0.06623850000323728
+3746,can you help me talking to customer service?,Other,Other,Other,False,0.04926619998877868
+3748,can i check what hours cusyomer support available is,Other,Other,Other,False,0.05093800002941862
+3752,is it possible to see thew ETA of the purchase #439320?,Delivery,Delivery,Delivery,False,0.051683400000911206
+3769,"I have got to see how long refunds take, I need help",Refund,Refund,Refund,False,0.06358330004150048
+3775,Why has the zip on the dress I ordered broken? Could you please advise on what to do next?,Product Quality,Product Quality,Product Quality,False,0.06517939997138456
+3796,are charges for services reimbursable?,Refund,Payment,Payment,False,0.049221400055103004
+3803,"The item I use for cooking, a frying pan, had a wheel or leg snap. Nothing to report, just letting you know.",Product Quality,Product Quality,Product Quality,False,0.06559529999503866
+3804,I don't know how to switch to the platinum account,Other,Other,Other,False,0.054845400038175285
+3812,My item (suitcase) has a snapped wheel/leg. Requesting a replacement.,Product Quality,Product Quality,Product Quality,False,0.0660978999803774
+3815,I call to submit feedback about a product,Other,Other,Other,False,0.050532400025986135
+3816,tell me more about correcting the delivery address,Delivery,Delivery,Delivery,False,0.04985930002294481
+3820,assistance checking the ETA of the purchase #347459,Delivery,Delivery,Delivery,False,0.050209399953018874
+3823,could you help me to send feedback about your company?,Other,Other,Other,False,0.04999220004538074
+3833,i want assistance to report issues with payments,Payment,Payment,Payment,False,0.049206399999093264
+3834,"So bought a dress for a wedding and the zip broke, need a repair please.",Product Quality,Product Quality,Product Quality,False,0.06492039997829124
+3839,what do I have to do to see the status of purchase #214532?,Delivery,Delivery,Delivery,False,0.05058829998597503
+3847,tell available payment modalities,Payment,Payment,Payment,False,0.04958630003966391
+3849,what do i have to do to earn a few of ur product,Other,Other,Other,False,0.04932280001230538
+3853,I want assistance to remove the standard account,Other,Other,Other,False,0.049170800019055605
+3855,i cant modify my delivery address,Delivery,Delivery,Delivery,False,0.049015500000678
+3860,I'm trying to see in what cases can i request refunds,Refund,Refund,Refund,False,0.0652119999867864
+3861,I do not know how I can edit the delivery address,Delivery,Other,Other,False,0.05077549995621666
+3863,i want assistance asking for a restitution of my money,Refund,Refund,Refund,False,0.06465680000837892
+3868,can I see if there is anything new on the reimbursement?,Refund,Other,Other,False,0.05163990001892671
+3872,I am trying to find the delivery periods,Delivery,Delivery,Delivery,False,0.05010150000452995
+3886,what is the delivery period for this order,Delivery,Delivery,Delivery,False,0.05083099997136742
+3887,question about cancelling purchase #903035,Other,Other,Other,False,0.05074530001729727
+3889,"I lost the PIN of my user, I want help to retrieve it",Other,Other,Other,False,0.0509893000125885
+3899,assistance to see the ETA of the purchase #958130,Delivery,Delivery,Delivery,False,0.05047199997352436
+3916,could ya help me locae purchase #525110,Delivery,Other,Other,False,0.050406499998643994
+3917,supports editing the delivery address,Delivery,Delivery,Delivery,False,0.05147409997880459
+3921,want help setting my deilvery address up,Delivery,Delivery,Delivery,False,0.04944829997839406
+3923,need help to order some of your itdm,Other,Other,Other,False,0.05088539997814223
+3928,how to check how soon can I expect my shipment?,Delivery,Delivery,Delivery,False,0.050596200046129525
+3940,I need help to get my bill from Priya,Payment,Other,Other,False,0.0504992000060156
+3951,i need help to ask for a refund of my money,Refund,Refund,Refund,False,0.06417359999613836
+3959,I want help to see if there are any news on the compensation,Refund,Other,Other,False,0.05105270002968609
+3960,"My item has stitching coming apart, can I please get a refund? Order #12345",Product Quality,Product Quality,Product Quality,False,0.06663059996208176
+3966,I'm trying to see the early exit charge,Other,Payment,Payment,False,0.05112700001336634
+3968,notify of troubles with payment,Payment,Payment,Payment,False,0.049718900001607835
+3976,I do not know how I can list the available payment optrions,Payment,Payment,Payment,False,0.048493699985556304
+3980,I try to submit a different delivery address,Delivery,Delivery,Delivery,False,0.04919099999824539
+3987,i need assistance checking when my parcel is gonna arrive,Delivery,Delivery,Delivery,False,0.050227200030349195
+3991,wanna check order #536045 status can uhelp me,Delivery,Delivery,Delivery,False,0.04921929998090491
+3994,i need help calling customer service,Other,Other,Other,False,0.04756590002216399
+4008,can you help me to see what shipment methods I can choose?,Delivery,Delivery,Delivery,False,0.04946309997467324
+4023,assistance seeing in what cases can I ask to be reimbursed,Refund,Refund,Refund,False,0.06467580003663898
+4037,help me check in which cases can i ask ofr reimbursements,Refund,Refund,Refund,False,0.06591689999913797
+4049,assistance checking my reimbursement current status,Refund,Refund,Refund,False,0.06506630004150793
+4079,see in which cases can i ask for a reimbursement,Refund,Refund,Refund,False,0.06770379998488352
+4091,wanna list the bloody accepted payment options how to do it,Payment,Other,Other,False,0.050554399960674345
+4094,"just got a hair dryer with a burning smell, need a replacement",Product Quality,Product Quality,Product Quality,False,0.0643675000173971
+4095,can you help me check what delivery methods are available?,Delivery,Delivery,Delivery,False,0.05056580004747957
+4098,"I want to see how long the shipment takes, can you help me?",Delivery,Delivery,Delivery,False,0.04944680002517998
+4100,where do i see when my item is gonna arrive,Delivery,Delivery,Delivery,False,0.05206469999393448
+4101,i submitted an wrong address i need help to edit it,Delivery,Other,Other,False,0.04873729997780174
+4111,"I have to check the shipping methods, how can I do it?",Delivery,Delivery,Delivery,False,0.05134170001838356
+4116,"I have to see order #948102 status, I need assistance",Delivery,Delivery,Delivery,False,0.049573800002690405
+4136,I have errors correcting the address,Delivery,Other,Other,False,0.04824199998984113
+4137,can you help me check bill #12588?,Payment,Other,Other,False,0.04856219998328015
+4140,Can't find a part missing from the office chair used for work. Just reporting it.,Product Quality,Product Quality,Product Quality,False,0.06515649997163564
+4145,would it be possible to check the shipping methods?,Delivery,Delivery,Delivery,False,0.04902590002166107
+4163,I want help to see in which situations can I ask for refunds,Refund,Refund,Refund,False,0.06343450001440942
+4168,i do not know what to do to correct the shipping address,Delivery,Other,Other,False,0.04999550001230091
+4171,want help to check whenmy package is gonna arrive,Delivery,Delivery,Delivery,False,0.04963250004220754
+4174,i have paid £134 for an item help me receive a compensation,Refund,Refund,Refund,False,0.06376170000294223
+4182,I am trying to set a secondary shipping address up,Delivery,Other,Other,False,0.05266470002243295
+4183,I have an error editing the delivery address,Delivery,Other,Other,False,0.05218759999843314
+4184,i need help to check how soon can i expect the order,Delivery,Delivery,Delivery,False,0.05083989998092875
+4199,I want to track my restitution,Refund,Refund,Refund,False,0.06616290000965819
+4219,can you help me obtaining a compensation?,Refund,Other,Other,False,0.05103050003526732
+4220,where can I see the withdrawal charges?,Other,Payment,Payment,False,0.05141630000434816
+4222,help me seeing what payment options are available,Payment,Payment,Payment,False,0.049617999990005046
+4230,can ya help mereceive ur company newsletter,Other,Other,Other,False,0.05030289996648207
+4232,is it possible to edit the bloody deliveryaddress,Delivery,Other,Other,False,0.05020120000699535
+4233,I need help to check how soon can I expect my article,Delivery,Delivery,Delivery,False,0.05033490003552288
+4244,I need help to submit some feedback about your company,Other,Other,Other,False,0.05068570002913475
+4250,I expect a restitution of 116 pounds,Refund,Refund,Refund,False,0.07096579996868968
+4254,I wantassistance trying to update my address,Delivery,Other,Other,False,0.05370960000436753
+4268,can i inform of an issue with a registration,Other,Other,Other,False,0.051905800006352365
+4283,assistance notifying of troubles with payments,Payment,Payment,Payment,False,0.049847799993585795
+4306,I have troubles trying to update my address,Delivery,Other,Other,False,0.0500340000144206
+4319,see in what situations can I ask for a refund,Refund,Refund,Refund,False,0.06494450004538521
+4321,"Hello, my toaster (let's call it a 'bacon cooker') stopped working after a few days. Not sure what to do now.",Product Quality,Product Quality,Product Quality,False,0.0645543999853544
+4336,"helloo, my hair dryer won't turn on, need fixin",Product Quality,Product Quality,Product Quality,False,0.06611959997098893
+4339,i want help to check order #242321 status,Delivery,Delivery,Delivery,False,0.05108469998231158
+4356,update account type account,Other,Other,Other,False,0.0508339999942109
+4357,I do not know how to earn a few of your item,Other,Other,Other,False,0.05139080004300922
+4361,i want help seeing when will my itwm arrive,Delivery,Delivery,Delivery,False,0.050816799979656935
+4376,can you help me checking when my order is going to arrive?,Delivery,Delivery,Delivery,False,0.05051989998901263
+4379,I want assistance earning several of your item,Other,Other,Other,False,0.04855529998894781
+4385,"I have to check the shipment methods, can you help me?",Delivery,Delivery,Delivery,False,0.049258199986070395
+4389,I need assistance to enter the delivery address,Delivery,Delivery,Delivery,False,0.04999480000697076
+4397,can ya help me download the bill #37777,Payment,Other,Other,False,0.04827700002351776
+4416,wanna see ur refund policy caan ya help me,Refund,Refund,Refund,False,0.06394950003596023
+4427,I try to check what shipping methods are available,Delivery,Delivery,Delivery,False,0.0510319999884814
+4429,could you help me cancelling purchase #712024?,Other,Other,Other,False,0.05074929998954758
+4430,what do i need to do to submit the new shipping address,Delivery,Other,Other,False,0.04991649999283254
+4434,i dont know how i can submit my secondary shipping address,Delivery,Other,Other,False,0.04804829997010529
+4442,what do I have to do to see the rebate status?,Refund,Refund,Refund,False,0.06420399999478832
+4452,i want assistance to check how soon can i expect the article,Delivery,Delivery,Delivery,False,0.05044260004069656
+4453,i dont know how i can see the available payment options,Payment,Payment,Payment,False,0.04829239996615797
+4457,can I take a quick look at the bill #00108?,Payment,Other,Other,False,0.04865940002491698
+4465,can ya tell me more about changing the shipping address,Delivery,Other,Other,False,0.04892969998763874
+4481,assistance to list your fucking accepted payment modalities,Payment,Payment,Payment,False,0.05107099999440834
+4501,reporting registration issue,Other,Other,Other,False,0.048942600027658045
+4508,"I can't pay, where do I report errors with payment?",Payment,Payment,Payment,False,0.0497103999950923
+4518,i need help tolist ur goddamn available payment modalities,Payment,Payment,Payment,False,0.05006630002753809
+4519,I want assistance checking when will my product arrive,Delivery,Delivery,Delivery,False,0.05018620000919327
+4526,i want help checking in what cases can i ask for a refund,Refund,Refund,Refund,False,0.06411149998893961
+4528,checking current status of purchase #772612,Delivery,Delivery,Delivery,False,0.050471699971240014
+4539,I can't speak with a live agent,Other,Other,Other,False,0.05015949998050928
+4543,how  to list ur allowed payment modalities,Payment,Payment,Payment,False,0.05062609998276457
+4546,how to track order #465746?,Delivery,Delivery,Delivery,False,0.05004290002398193
+4557,i want help checking how soon can i expect my delivery,Delivery,Delivery,Delivery,False,0.04922899999655783
+4570,what do i have to do to receive a compensation of my money,Refund,Refund,Refund,False,0.06501829996705055
+4575,could you help me enter the new shipping address?,Delivery,Delivery,Delivery,False,0.05041190003976226
+4581,assistance to see your allowed payment options,Payment,Payment,Payment,False,0.04895039997063577
+4582,i do not know how i could obtaain compensations,Refund,Refund,Refund,False,0.06338940002024174
+4587,I am trying to locate order #105433,Delivery,Delivery,Delivery,False,0.05081290000816807
+4595,the delivery address changed,Delivery,Delivery,Delivery,False,0.04972000000998378
+4634,help me seeing the withdrawal penalty,Other,Payment,Payment,False,0.04987970000365749
+4644,I want assistance downloading invoice #00108,Payment,Other,Other,False,0.04976219998206943
+4650,Can the warranty cover it as my blender keeps cutting out?,Product Quality,Product Quality,Product Quality,False,0.06544460001168773
+4660,modifying ingormation on platinum account,Other,Other,Other,False,0.050524899968877435
+4664,i want help to locate my bills from Tom,Payment,Other,Other,False,0.049362000019755214
+4676,there is an issue modifying my address,Delivery,Other,Other,False,0.05453620001208037
+4680,help checking in which cases can I request to be refunded,Refund,Refund,Refund,False,0.06383630004711449
+4682,where do i check how soon can i expect my purchase,Delivery,Delivery,Delivery,False,0.049594800046179444
+4694,there is an issue trying to edit the delivery address,Delivery,Other,Other,False,0.050785599974915385
+4699,I do not know how to get refunds of my money,Refund,Refund,Refund,False,0.06464619998587295
+4700,I am waiting for a restitution of 258 pounds,Refund,Refund,Refund,False,0.06556889996863902
+4728,"I have a jumper, order number #456871, with a peeling sole. What are my options for fixing it?",Product Quality,Product Quality,Product Quality,False,0.06602930004009977
+4732,I want help to see the termination charges,Other,Payment,Payment,False,0.049333599978126585
+4735,"I expect a rebate of 116 pounds, was it processed already",Refund,Refund,Refund,False,0.06420389999402687
+4737,where do i  obtain a reimbursement,Refund,Refund,Refund,False,0.06455670000286773
+4740,want assistance to report issues with payments,Payment,Payment,Payment,False,0.051179900008719414
+4761,help me to check the status of the restitution,Refund,Refund,Refund,False,0.06384120002621785
+4787,help me see at what time i can call customer support,Other,Delivery,Delivery,False,0.050452099996618927
+4794,show me how long refunds take,Refund,Refund,Refund,False,0.06244639999931678
+4796,do you have newsletter?,Other,Other,Other,False,0.05095229996368289
+4801,need to check in which cases can i request an reimbursement,Refund,Refund,Refund,False,0.06399290001718327
+4804,"I lost the password of my user, assistance resetting it",Other,Other,Other,False,0.04841280000982806
+4805,I have got to locate order #691573,Delivery,Delivery,Delivery,False,0.050123499997425824
+4809,"My smartwatch keeps cutting out, just thought I'd let ya know, cheers",Product Quality,Other,Other,False,0.04923370003234595
+4812,can you help me seeing the invoices from Priya?,Payment,Other,Other,False,0.05048580002039671
+4813,"Ordered the suitcase and it's wobbly even when assembled properly, just wanted to report it (Order #844858)",Product Quality,Product Quality,Product Quality,False,0.06471700000111014
+4820,assistance to see if there are any news on the refund,Refund,Refund,Refund,False,0.06574369996087626
+4829,how can i check ur allowed payment modalities,Payment,Payment,Payment,False,0.04868439998244867
+4836,I try to check in what situations can I ask for refunds,Refund,Refund,Refund,False,0.06475979997776449
+4851,I do not know how to see the status of my rebate,Refund,Other,Other,False,0.04706599999917671
+4857,where can I see when will my article arrive?,Delivery,Delivery,Delivery,False,0.04914220003411174
+4862,where to receive rebates of money,Refund,Other,Other,False,0.04989849997218698
+4870,"I have to see your refund policy, will you help me?",Refund,Refund,Refund,False,0.06554859998868778
+4879,problems with deleting some productsfrom order #872840,Other,Other,Other,False,0.05150790000334382
+4881,find the bill from James,Payment,Other,Other,False,0.049747099983505905
+4899,assistance to solve a fucking payment error,Payment,Payment,Payment,False,0.05040320003172383
+4902,I am trying to check what payment options are accepted,Payment,Payment,Payment,False,0.049341400037519634
+4910,I have to check if there are any updates on the restitution,Refund,Refund,Refund,False,0.0681042000069283
+4932,help me modify ym shipping address,Delivery,Delivery,Delivery,False,0.049905699968803674
+4947,I have a question about canceling order #682765,Other,Other,Other,False,0.051150200015399605
+4951,need help to correc order #167348,Other,Refund,Refund,False,0.06727960001444444
+4954,help to use the platinum profile,Other,Other,Other,False,0.0508591000107117
+4962,support trying to change my delivefy address,Delivery,Other,Other,False,0.049212099984288216
+4965,I am trying to edit the delivery adress,Delivery,Other,Other,False,0.049824299989268184
+4979,create premium accountfor wife,Other,Other,Other,False,0.04967219999525696
+4986,where do I see how long it takes for the purchase to arrive?,Delivery,Delivery,Delivery,False,0.05207539995899424
+4989,I want support trying to modify the address,Delivery,Other,Other,False,0.049923700047656894
+4992,is it possible to check when my order is gonna arrive,Delivery,Delivery,Delivery,False,0.05012819997500628
+5008,need help requesting restitutions of my money,Refund,Refund,Refund,False,0.06246629997622222
+5017,what do I need to do to see what shipment methods I have?,Delivery,Delivery,Delivery,False,0.05131849995814264
+5023,tell me more about shipping period,Delivery,Delivery,Delivery,False,0.05044269998325035
+5026,I do not know how to see the status of order #483713,Delivery,Delivery,Delivery,False,0.05092539999168366
+5038,receiving rebate,Refund,Refund,Refund,False,0.06258049997268245
+5049,I have got to set up a secondary shipping address,Delivery,Other,Other,False,0.05094230000395328
+5060,I am trying to recover my account access key,Other,Other,Other,False,0.04887459997553378
+5070,issues setting a secondary shipping address up,Delivery,Delivery,Delivery,False,0.04989199998090044
+5080,Why does my suitcase feel cheap and flimsy? Just reporting the issue.,Product Quality,Other,Other,False,0.049708699982147664
+5082,want help to check the restitution status,Refund,Refund,Refund,False,0.06529820000287145
+5093,assistance to list your paymernt modalities,Payment,Payment,Payment,False,0.05009460001019761
+5094,what do i have to do to check my bill #00108,Payment,Other,Other,False,0.05052009999053553
+5101,I am trying to see the allowed payment methods,Payment,Payment,Payment,False,0.04997860000003129
+5106,where to  see how soon can I expect my order?,Delivery,Delivery,Delivery,False,0.04928680002922192
+5107,i have to check in what cases can i ask for reimbursements,Refund,Refund,Refund,False,0.0634921999881044
+5110,i dont know what i need  to do to download my bill #37777,Payment,Other,Other,False,0.04930309997871518
+5115,where do I see what shipping options I can choose?,Delivery,Delivery,Delivery,False,0.049573800002690405
+5124,I want to see in what cases can I ask to be reimbursed,Refund,Refund,Refund,False,0.06404160003876314
+5152,i do not know what to do to report an issue withpayment,Payment,Payment,Payment,False,0.049422499956563115
+5164,I want help to remove some products from order #987204,Other,Other,Other,False,0.04926749999867752
+5166,where do I check how soon can I expect my package?,Delivery,Delivery,Delivery,False,0.05040280002867803
+5168,I try to ask for a refund of my money,Refund,Refund,Refund,False,0.06270089995814487
+5169,"The dress I bought is falling apart, I need a replacement!",Product Quality,Product Quality,Product Quality,False,0.06355120002990589
+5175,I'm calling to write a comment about ur services,Other,Other,Other,False,0.05122219998156652
+5180,I am looking for information about the shipping period,Delivery,Delivery,Delivery,False,0.05078679998405278
+5192,i have got to modify my shipping address how to do it,Delivery,Other,Other,False,0.049670000036712736
+5210,i want help to use the account category profile,Other,Other,Other,False,0.04863320000004023
+5214,how do I order an article?,Other,Other,Other,False,0.051339800003916025
+5217,unsubscribe to your damn company newsletter,Other,Other,Other,False,0.04770499997539446
+5221,I need to unsubscribe from your newsletter,Other,Other,Other,False,0.050375199993140996
+5226,I have got to notify of a problem with a sign-up,Other,Other,Other,False,0.05043280002428219
+5229,how to see the status of order #928766,Delivery,Delivery,Delivery,False,0.049489500001072884
+5230,i want assiatance seeing how soon can i expect the delivery,Delivery,Delivery,Delivery,False,0.05001890001585707
+5233,want asistance checking the eta of the order #483545,Delivery,Delivery,Delivery,False,0.05005610000807792
+5234,how can I see what options for delivery I can choose?,Delivery,Delivery,Delivery,False,0.0490101000177674
+5241,i have problems setting the new delivery address up,Delivery,Other,Other,False,0.04761180002242327
+5243,"Not happy with the dress I bought, the zip broke. Order number #221552. Please can I get a refund?",Product Quality,Product Quality,Product Quality,False,0.0638891999842599
+5249,i have to see how long i takes for my article to arrive,Delivery,Delivery,Delivery,False,0.0520074000232853
+5259,where can I see what shipping methods I can choose?,Delivery,Delivery,Delivery,False,0.050233100017067045
+5262,I want assistance demanding a compensation,Refund,Other,Other,False,0.050347100012004375
+5266,my secondary delivery address isnt valid help me,Delivery,Delivery,Delivery,False,0.049293900025077164
+5268,need assistance to cancel the account type account,Other,Other,Other,False,0.05099819996394217
+5274,I try to see in which cases can I request a reimbursement,Refund,Refund,Refund,False,0.06491220003226772
+5275,how to see if there is anything wrong with my compensation,Refund,Payment,Payment,False,0.05144449998624623
+5278,can you help me to see your accepted payment modalities?,Payment,Payment,Payment,False,0.050832999986596406
+5282,can you showme the accepted payment modalities?,Payment,Payment,Payment,False,0.052108799980487674
+5293,help me seeing what delivery options I can choose,Delivery,Delivery,Delivery,False,0.05090520001249388
+5302,i have to notify of sign-up issues,Other,Other,Other,False,0.050932499987538904
+5307,I want assistance checking the allowed payment methods,Payment,Payment,Payment,False,0.04964669997571036
+5318,can you help me asking for refunds?,Refund,Refund,Refund,False,0.06497790000867099
+5321,can you show me in what cases can I request refunds?,Refund,Refund,Refund,False,0.06501469999784604
+5347,I want assistance to demand reimbursements of money,Refund,Other,Other,False,0.050409400020726025
+5349,"Just bought a bookshelf and it's wobbly even when assembled properly, want my money back.",Product Quality,Product Quality,Product Quality,False,0.06398309994256124
+5356,i have got to download my invoice #12588 how do i do it,Payment,Other,Other,False,0.051359099976252764
+5358,i try to inform of problems with online payments,Payment,Payment,Payment,False,0.05063339998014271
+5372,I have troubles setting up a new shipping address,Delivery,Other,Other,False,0.05219939997186884
+5373,can ushow me in which cases can i ask for reimbursements,Refund,Refund,Refund,False,0.0642622000304982
+5377,"Hello, my kettle making loud rattling noise, what to do next?",Product Quality,Product Quality,Product Quality,False,0.06596460001310334
+5385,I have got to check what delivery methods I can choose,Delivery,Delivery,Delivery,False,0.05104669998399913
+5399,i dont know how to set up the new delivery addresd,Delivery,Delivery,Delivery,False,0.04988239996600896
+5408,i haev issues correcting my address,Delivery,Other,Other,False,0.04965870000887662
+5411,what do I have to do to chat with an agent?,Other,Other,Other,False,0.049602200044319034
+5434,how can i get information about creating a account type account,Other,Other,Other,False,0.04996239999309182
+5436,see in what cases can I ask for a refund,Refund,Refund,Refund,False,0.06382180005311966
+5438,checking invoices from 9 months ago,Payment,Other,Other,False,0.05038359999889508
+5457,I don't know what I have to do to download invoice #12588,Payment,Other,Other,False,0.04888600000413135
+5465,My office chair (order #934637) is wobbly even after assembly. Need assistance!,Product Quality,Product Quality,Product Quality,False,0.0645553000504151
+5471,"I need to see the cancellation fee, can you help me?",Other,Other,Other,False,0.048221500008367
+5472,help me notifying of a sign-up problem,Other,Other,Other,False,0.04990789998555556
+5473,i want help to see the termination charges,Other,Payment,Payment,False,0.0497365000192076
+5478,I want supports trying to update my delivery address,Delivery,Other,Other,False,0.04999379999935627
+5479,help checking what shipping options are there,Delivery,Delivery,Delivery,False,0.04865120002068579
+5488,is it possible to cancel purchase #771088 ?,Other,Other,Other,False,0.0489365000394173
+5490,I have issues changing my shipping address,Delivery,Other,Other,False,0.05090980004752055
+5492,I need to see in which situations can I ask for a refund,Refund,Refund,Refund,False,0.06478330004028976
+5508,the shipment options,Delivery,Delivery,Delivery,False,0.04996430000755936
+5532,I have to check what shipment methods are there,Delivery,Delivery,Delivery,False,0.04973169998265803
+5552,"I don't have a bloody standard account, can I open one?",Other,Other,Other,False,0.050830300024244934
+5575,"I paid £284 for this order, I have got to get a rebate",Refund,Refund,Refund,False,0.06271100003505126
+5586,can i check hte early exit charges,Other,Other,Other,False,0.04892530001234263
+5593,I need to check the early termination fee,Other,Other,Other,False,0.049622600025031716
+5595,i need assistance to egt the invoice from Tom,Payment,Other,Other,False,0.05066660000011325
+5596,can I use the pro profile?,Other,Other,Other,False,0.049788800009991974
+5606,help me to see how soon can I expect my parcel,Delivery,Delivery,Delivery,False,0.049033100018277764
+5616,help to retrieve my profile PIN code,Other,Other,Other,False,0.051101399993058294
+5619,help trying to edit my delivery address,Delivery,Other,Other,False,0.04978040000423789
+5621,I need assistance seeing the ETA of order #695361,Delivery,Delivery,Delivery,False,0.0520560999866575
+5628,"I have to see the shipment methods, can you help me?",Delivery,Delivery,Delivery,False,0.049255299963988364
+5629,I want to know more about editing my shipping address,Delivery,Other,Other,False,0.0494252999778837
+5630,want help receiving a restitution of my money,Refund,Refund,Refund,False,0.06375370000023395
+5631,I do not know what to do to switch to the account type account,Other,Other,Other,False,0.05136849998962134
+5632,I'm trying to check the status of my compensation,Refund,Other,Other,False,0.050121799984481186
+5633,I do not know how I can check the status of my rebate,Refund,Other,Other,False,0.05173450004076585
+5639,help me to check in which cases can I request reimbursements,Refund,Refund,Refund,False,0.06378770002629608
+5642,i dont know how i could check purchase #352422 status,Delivery,Delivery,Delivery,False,0.05160150001756847
+5648,want help switching some damn products of purchase #306606,Other,Other,Other,False,0.04984849999891594
+5654,just need to know what to do next with missing part on office chair,Product Quality,Product Quality,Product Quality,False,0.06566050002584234
+5665,I need help taking a quick look at my bill #37777,Payment,Other,Other,False,0.04886129999067634
+5673,I want to see how long it tyakes for my package to arrive,Delivery,Delivery,Delivery,False,0.04925310000544414
+5691,"I want to see when will my item arrive, how do I do it?",Delivery,Delivery,Delivery,False,0.04946589999599382
+5697,I'm trying to demand fucking refunds of money,Refund,Refund,Refund,False,0.06401609996100888
+5699,I want assistance checking the ETA of purchase #745584,Delivery,Delivery,Delivery,False,0.049270000017713755
+5700,how could I check how long it takes for my parcel to arrive?,Delivery,Delivery,Delivery,False,0.049474400002509356
+5718,help using the account type profile,Other,Other,Other,False,0.050677600025665015
+5722,I can't see order #848022 status,Delivery,Delivery,Delivery,False,0.0499658000189811
+5723,when am I getting a rebate?,Refund,Refund,Refund,False,0.0632750999648124
+5738,checking ETA of order #811027,Delivery,Delivery,Delivery,False,0.05098770000040531
+5756,information about the delivery period,Delivery,Delivery,Delivery,False,0.04924279998522252
+5759,could I check in what cases can I request reimbursements?,Refund,Refund,Refund,False,0.0662165999528952
+5770,i have got to restore my user pwd,Other,Other,Other,False,0.04713830002583563
+5771,problems entering the new delivery address,Delivery,Other,Other,False,0.05003510002279654
+5774,want assistance to receive an refund of my money,Refund,Refund,Refund,False,0.06372490001376718
+5796,show me when my article is going to arrie,Delivery,Delivery,Delivery,False,0.049701199983246624
+5800,want assistance writing a review about a service,Other,Other,Other,False,0.04882819997146726
+5802,I need to check the early terfmination fee,Other,Payment,Payment,False,0.04931110003963113
+5807,I want assitsance to see when my package is going to arrive,Delivery,Delivery,Delivery,False,0.05070220003835857
+5810,how to edit order #976325,Other,Other,Other,False,0.049650900007691234
+5828,I have a problem trying to edit my shipping address,Delivery,Other,Other,False,0.05018900003051385
+5832,I have to see your refund policy,Refund,Refund,Refund,False,0.06316159997368231
+5833,can you give me information about delivery periods?,Delivery,Delivery,Delivery,False,0.05001190002076328
+5834,I have got to see my compensation current status,Refund,Refund,Refund,False,0.06256749999010935
+5835,where do i check how long it takes for my article to arrive,Delivery,Delivery,Delivery,False,0.04891770001268014
+5836,is it possible to shop an item,Other,Other,Other,False,0.04936299996916205
+5838,is it possible to see the payment modalities?,Payment,Payment,Payment,False,0.05002019996754825
+5839,how do i ese when will my package arrive,Delivery,Delivery,Delivery,False,0.04991960001643747
+5849,assistance to see if there are any news on the reimbursement,Refund,Other,Other,False,0.04937550000613555
+5858,where can I check order #602351 status?,Delivery,Delivery,Delivery,False,0.04907040001126006
+5869,help me check how long it takes for my package to arrive,Delivery,Delivery,Delivery,False,0.05012100003659725
+5870,I have to check when will my package arrive,Delivery,Delivery,Delivery,False,0.0506718999822624
+5876,what do i have to do to see the status of purchase #490084,Delivery,Delivery,Delivery,False,0.05043109995312989
+5880,need assistance to see when my item is going to arrive,Delivery,Delivery,Delivery,False,0.05088609998347238
+5890,Not happy to find that the electrical device I purchased for cleaning my teeth has stopped working after a few days. Order number #XXXXX,Product Quality,Product Quality,Product Quality,False,0.06700460001593456
+5892,showing me estimated time of arrival of purchase #249715,Delivery,Delivery,Delivery,False,0.04962589999195188
+5895,subscription to ur corporate newsletter,Other,Other,Other,False,0.048938400053884834
+5896,"I paid £76 for this order, help me getting a compensation",Refund,Other,Other,False,0.049330799956806004
+5904,i do not know how to check the accepted payment options,Payment,Payment,Payment,False,0.0497239000396803
+5909,I call to see when my goddamn package is going to arrive,Delivery,Delivery,Delivery,False,0.04820010002003983
+5918,need help checking in what situations can I request refunds,Refund,Refund,Refund,False,0.0642935000360012
+5930,help me download the bill from Priya,Payment,Other,Other,False,0.0515544000081718
+5933,need assistance seeing your accepted payment modalities,Payment,Payment,Payment,False,0.04933589999563992
+5945,want help to see the eta of purchase #875232,Delivery,Delivery,Delivery,False,0.05141020001610741
+5948,where could I see purchase #910616 status?,Delivery,Delivery,Delivery,False,0.049505700008012354
+5959,check ur money back guarantee,Refund,Refund,Refund,False,0.06470039999112487
+5974,i want assistance obtaining a compensation of money,Refund,Refund,Refund,False,0.06646209995960817
+5997,how can i check purchase #533377 current status,Delivery,Delivery,Delivery,False,0.0490470000077039
+6013,can uhelp me checking the eta of order #377203,Delivery,Delivery,Delivery,False,0.049112900043837726
+6014,troubles entering a secondary delivery address,Delivery,Delivery,Delivery,False,0.048917500011157244
+6016,i dontg know what i have to do to look for bill #00108,Payment,Other,Other,False,0.04968440002994612
+6020,I need help to see in which situations can I request refunds,Refund,Refund,Refund,False,0.06432130001485348
+6045,"Hello, the blender I ordered #185461 has stopped charging, can I have a replacement please?",Product Quality,Product Quality,Product Quality,False,0.06781529996078461
+6046,can you help me to check the early exit fees?,Other,Other,Other,False,0.05065170000307262
+6049,I want assistance to check how soon can I expect the article,Delivery,Delivery,Delivery,False,0.04974240000592545
+6053,help me to give a quick look at my invoice from Tom,Payment,Payment,Payment,False,0.048943999980110675
+6055,"The jumper I ordered doesn't fit as described. I'd like a refund, please.",Product Quality,Product Quality,Product Quality,False,0.0642921999678947
+6063,can I see in which cases can I request a refund?,Refund,Refund,Refund,False,0.06638269999530166
+6066,"I do not understand anything you say, talk with a live agent",Other,I'd be happy to help you with,Other,True,0.13019220001297072
+6079,what is the shipping period for mt package,Delivery,Delivery,Delivery,False,0.049896699958480895
+6081,shipnents to the UK,Delivery,Delivery,Delivery,False,0.04900850000558421
+6085,help me to check how long it takes for my delivery to arrive,Delivery,Delivery,Delivery,False,0.04868520004674792
+6088,"Hello, I've noticed the bookshelf feels quite cheap and flimsy, is there anything I can do about it?",Product Quality,Product Quality,Product Quality,False,0.06467019999399781
+6091,So my jeans have a broken zip. Not sure what to do with them now.,Product Quality,Product Quality,Product Quality,False,0.07357410003896803
+6104,check invoice from eight purchases ago,Payment,Other,Other,False,0.0499654000159353
+6114,I don't know how to get the bill #00108,Payment,Other,Other,False,0.05150460003642365
+6133,help me to check how soon can I expect the parcel,Delivery,Delivery,Delivery,False,0.05064829997718334
+6143,I cannot see order #501451 status,Delivery,Delivery,Delivery,False,0.04962240002350882
+6146,could I check how long it takes for my product to arrive?,Delivery,Delivery,Delivery,False,0.04985149996355176
+6156,want help knowing if there are any updates on my refund,Refund,Refund,Refund,False,0.06384529999922961
+6157,I need assistance to correct my delivery address,Delivery,Delivery,Delivery,False,0.04965890001039952
+6162,ehlp checking your allowed payment options,Payment,Payment,Payment,False,0.050409099960234016
+6164,where do I ask for a compensation?,Refund,Other,Other,False,0.05013859999598935
+6166,is it possible to see what shipping methods you offer?,Delivery,Delivery,Delivery,False,0.05054489994654432
+6168,I cannot submit my shipping address,Delivery,Delivery,Delivery,False,0.048222500015981495
+6175,can ya help me obtaining restitutions of my money,Refund,Refund,Refund,False,0.06436070002382621
+6184,"I item look nothing like website photos, need replacement",Product Quality,Product Quality,Product Quality,False,0.06564079999225214
+6187,how to see the status of order #794395?,Delivery,Delivery,Delivery,False,0.04815400001825765
+6196,can ya help me to see the ETA of order #483366,Delivery,Delivery,Delivery,False,0.048284600023180246
+6201,can utell me about a shipping addres modification,Delivery,Other,Other,False,0.04862749995663762
+6217,So disappointed to find that the item I received for my daughter's ballet recital has arrived scratched. Can you help me find a solution?,Product Quality,Product Quality,Product Quality,False,0.06363339995732531
+6231,can you help me purchase some articles?,Other,Other,Other,False,0.05102050001733005
+6233,do ya ship to the UK,Delivery,Delivery,Delivery,False,0.050401800021063536
+6237,i need assistance toacquire several products,Other,Other,Other,False,0.050904200004879385
+6250,"I've got a desk lamp that stopped charging, does the warranty cover it?",Product Quality,Product Quality,Product Quality,False,0.06399459997192025
+6251,is it possible to see purchase #651231 status?,Delivery,Delivery,Delivery,False,0.05117059999611229
+6255,how do I know if there is anything new on my compensation?,Refund,Other,Other,False,0.04964519996428862
+6264,i dont know what to do to request a reimbursement of money,Refund,Refund,Refund,False,0.06292560003930703
+6265,"My toaster won't turn on, gutted",Product Quality,Product Quality,Product Quality,False,0.0645675000268966
+6278,error correcting delivery address,Delivery,Other,Other,False,0.04910479998216033
+6287,I have to check your payment modalities,Payment,Payment,Payment,False,0.05046820000279695
+6288,show me in what casescan i request my money back,Refund,Refund,Refund,False,0.06437720003305003
+6290,when am i ovtaining my money back,Refund,Refund,Refund,False,0.0667010000324808
+6324,where can I notify of troubles with payment?,Payment,Payment,Payment,False,0.05130689998622984
+6335,wanna locate purchase #530311 how could i do it,Delivery,Delivery,Delivery,False,0.04948009998770431
+6339,"I have to set my new delivery address up, I need assistance",Delivery,Delivery,Delivery,False,0.04896659997757524
+6349,assistance seeing the refund current status,Refund,Refund,Refund,False,0.06425100000342354
+6351,help me seeing in which situations can I ask for a refund,Refund,Refund,Refund,False,0.06350290001137182
+6355,want assistance to notify of an erro with payment,Payment,Payment,Payment,False,0.04865749995224178
+6362,check options for delivery,Delivery,Delivery,Delivery,False,0.04866650002077222
+6366,i do not know what to do to submit the enw delivery address,Delivery,Other,Other,False,0.04902969999238849
+6367,wht I cannot submit my new shipping address valid,Delivery,Delivery,Delivery,False,0.04907990002539009
+6373,how do I see the early exit fee?,Other,Payment,Payment,False,0.05168889998458326
+6377,see the status of the reimbursement,Refund,Refund,Refund,False,0.06266699999105185
+6378,i do not know how i could speak to a damn person,Other,Other,Other,False,0.05019569996511564
+6383,help me check ur allowed payment modalities,Payment,Payment,Payment,False,0.054703000001609325
+6385,help me talk to customer support,Other,Other,Other,False,0.048840199946425855
+6398,where to check how long it takes for my article to arrive?,Delivery,Delivery,Delivery,False,0.04945650004083291
+6403,"I want to see order #197966 status, I need help",Delivery,Delivery,Delivery,False,0.048443100007716566
+6416,I want help to enter a damn secondary delivery address,Delivery,Other,Other,False,0.04968579998239875
+6425,i dont know what to do to notify of issues with payment,Payment,Payment,Payment,False,0.04903619998367503
+6434,"The smartwatch I purchased keeps cutting out, just reporting it.",Product Quality,Product Quality,Product Quality,False,0.06465199997182935
+6443,help to enter a different shipping address,Delivery,Other,Other,False,0.050739800033625215
+6446,My toaster has a burning smell. What should I do next? Order number #730823.,Product Quality,Product Quality,Product Quality,False,0.07057500001974404
+6447,there are problems submitting a secondary shipping address,Delivery,Other,Other,False,0.05274640000425279
+6451,can I change an article of purchase #596249?,Other,Other,Other,False,0.04932659998303279
+6455,seemy bill from Tom,Payment,Other,Other,False,0.0489162000012584
+6482,how could I reset the PIN of my account?,Other,Other,Other,False,0.049585499975364655
+6483,delieries to Glasgow,Delivery,Delivery,Delivery,False,0.050038799992762506
+6485,I'm not registered i want assistance creating a account type account,Other,Other,Other,False,0.050093900004867464
+6505,help to check invoice #37777,Payment,Other,Other,False,0.04896240000380203
+6517,i call to get my invoice from James,Payment,Other,Other,False,0.05085729999700561
+6530,can uhelp me seeing the termination fee,Other,Payment,Payment,False,0.04907169996295124
+6531,i cannot speak with a person,Other,Other,Other,False,0.048416599980555475
+6540,I am trying to list your acceoted payment options,Payment,Payment,Payment,False,0.050689299998339266
+6546,"I cam't make a transfer, can I report payment errors?",Payment,Payment,Payment,False,0.05016839999007061
+6547,support correcting my delivery address,Delivery,Other,Other,False,0.051222599984612316
+6555,where do I open a standard account?,Other,Other,Other,False,0.05182829999830574
+6569,I need assistance to get a rebate of  my money,Refund,Refund,Refund,False,0.06401410000398755
+6571,i dont know what i have to do to submit my delivery address,Delivery,Delivery,Delivery,False,0.04880250000860542
+6573,"I want to update my delivery address, help me",Delivery,Other,Other,False,0.05026639997959137
+6577,want help reporting a trouble with online payment,Payment,Payment,Payment,False,0.04957729997113347
+6583,show me what options for delivery are there,Delivery,Delivery,Delivery,False,0.048625600000377744
+6584,what is order #479052 status,Delivery,Delivery,Delivery,False,0.05041329999221489
+6585,I cannotcancel my subscription to your corporate newsletter,Other,Other,Other,False,0.05026899999938905
+6593,want help to report an error with payments,Payment,Payment,Payment,False,0.050973899953532964
+6606,"Just ordered a sofa feels cheap n flimsy, want a replacement #509711",Product Quality,Product Quality,Product Quality,False,0.0655718999914825
+6607,I am trying to swap an item of order #899213,Other,Other,Other,False,0.05065480002667755
+6611,where do i see what hours i can contact customer support,Other,Other,Other,False,0.05094340001232922
+6625,is it possible to check when my item is gonna arrive,Delivery,Delivery,Delivery,False,0.050307299999985844
+6628,need to purchase several of ur article,Other,Other,Other,False,0.049421200004871935
+6631,help me to take a quick look at my invoice #12588,Payment,Other,Other,False,0.05121629999484867
+6633,can ushow me the status of purchase #677599,Delivery,Delivery,Delivery,False,0.04931790003320202
+6636,i do not know how to obtain rebates of money,Refund,Other,Other,False,0.048351500008720905
+6638,is it possible to check what delivery options are there?,Delivery,Delivery,Delivery,False,0.04922500002430752
+6648,"I have to list your allowed payment options, how do I do it?",Payment,Payment,Payment,False,0.048550300009083
+6665,where can i fiond information about a pro account removal,Other,Other,Other,False,0.05042929999763146
+6668,want assistance to check your refund policy,Refund,Refund,Refund,False,0.06368389999261126
+6679,I don't know how I can ask for a reimbursement,Refund,Refund,Refund,False,0.06291300000157207
+6696,want help getting goddamn reimbursements of money,Refund,Refund,Refund,False,0.06533349998062477
+6702,i have got to edit my personal information can uhelp me,Other,Other,Other,False,0.04864950000774115
+6719,assistance to check the ETA of the purchase #824042,Delivery,Delivery,Delivery,False,0.051360500045120716
+6720,there is a trouble setting up a delivery address,Delivery,Delivery,Delivery,False,0.04883089999202639
+6723,"I have got to see how long refunds take, will you help me?",Refund,Refund,Refund,False,0.06564429996069521
+6726,"Not happy that my trousers have a broken zip, could do with a replacement.",Product Quality,Product Quality,Product Quality,False,0.06467809999594465
+6734,want help  submitting my delivery address,Delivery,Delivery,Delivery,False,0.05146650003734976
+6738,"So my running trainers with the peeling sole, need help please.",Product Quality,Product Quality,Product Quality,False,0.06437039998127148
+6739,I want help trying to edit my shipping address,Delivery,Other,Other,False,0.04985860001761466
+6741,I don't know what I have to do to modify my delivery address,Delivery,Other,Other,False,0.04784000001382083
+6743,can i check what hours i can contact customer service,Other,Other,Other,False,0.04919510002946481
+6753,I want to know if there is anything wrong with my refund,Refund,Refund,Refund,False,0.06290300004184246
+6756,"I have got to check the methods for shipment, I need help",Delivery,Delivery,Delivery,False,0.04867320001358166
+6770,I do not know what to do to notify of payment problems,Payment,Payment,Payment,False,0.04922210000222549
+6782,Why is me suitcase wobbly even when assemble propertly,Product Quality,Product Quality,Product Quality,False,0.06427290005376562
+6783,help me to see in which cases can i ask for my money back,Refund,Refund,Refund,False,0.06307329999981448
+6789,help me see under which circumstances can I ask for a refund,Refund,Refund,Refund,False,0.06360860000131652
+6795,where do I submit feedback for your products?,Other,Other,Other,False,0.04880280001088977
+6801,is there a section to submit an opinion for ur products,Other,Other,Other,False,0.048462499980814755
+6802,need assistance to write a review about a service,Other,Other,Other,False,0.04732559999683872
+6812,there is an error trying to change my address,Delivery,Other,Other,False,0.05135730002075434
+6823,"I have to see your fucking payment options, how can I do it?",Payment,Payment,Payment,False,0.04900130000896752
+6828,modify data on freemium account,Other,Other,Other,False,0.04952709999633953
+6829,can you help me check the termination penalty?,Other,Other,Other,False,0.049247700022533536
+6838,I am trying to cancel a freemium account,Other,Other,Other,False,0.04925270000239834
+6849,I want help seeing the cancellation charge,Other,Other,Other,False,0.05030369997257367
+6850,"I've received a red dress but the size is nothing like the guide, is there warranty coverage?",Product Quality,Product Quality,Product Quality,False,0.06593549996614456
+6859,i need assistance to look for the invoice from Aisha,Payment,Other,Other,False,0.05103570001665503
+6866,assistance contacting a person,Other,Other,Other,False,0.04915969999274239
+6879,want help obtaining refunds of my money,Refund,Refund,Refund,False,0.06576059997314587
+6892,"I cannot find the withdrawal charge, help me",Other,Other,Other,False,0.050285000004805624
+6893,can you help me to check what shipment methods I have?,Delivery,Delivery,Delivery,False,0.05046599998604506
+6909,I don't know what to do to submit the new delivery address,Delivery,Other,Other,False,0.04788139997981489
+6910,I have issues editing my address,Delivery,Other,Other,False,0.05102939996868372
+6913,problems with my pass reset,Other,Other,Other,False,0.04820590000599623
+6920,supports editnig my delivery address,Delivery,Delivery,Delivery,False,0.04990589997032657
+6932,I call to see when my parcel is going to arrive,Delivery,Delivery,Delivery,False,0.04958029999397695
+6933,I don't know what to do to find my invoice from Aisha,Payment,Other,Other,False,0.05043960001785308
+6958,assistance to check when will my package arrive,Delivery,Delivery,Delivery,False,0.05096550000598654
+6959,I need assistance locating order #814281,Delivery,Other,Other,False,0.05131569999502972
+6962,"Not happy with my hair dryer, the battery barely lasts at all, what can be done?",Product Quality,Product Quality,Product Quality,False,0.06332299998030066
+6967,can uhelp me knowing if there are any news on my restitution,Refund,Other,Other,False,0.04721609997795895
+6969,I try to modify the shopping address,Delivery,Other,Other,False,0.049283300002571195
+6970,help me seeing how soon can I expect my parcel,Delivery,Delivery,Delivery,False,0.049436100001912564
+6977,I call to see how long it takes for my package to arrive,Delivery,Delivery,Delivery,False,0.049278900027275085
+6985,i have got to send some feedback for a product,Other,Other,Other,False,0.049796000006608665
+6995,I am trying to receive a reimbursement,Refund,Refund,Refund,False,0.06485739996423945
+7000,help me call customer service,Other,Other,Other,False,0.050674600002821535
+7001,there are issues setting another delivery address up,Delivery,Other,Other,False,0.04918889998225495
+7015,I need help seeing the ETA of the order #418897,Delivery,Delivery,Delivery,False,0.05098759999964386
+7022,I want help to use the standard account,Other,Other,Other,False,0.051766299991868436
+7023,help with a shipping address modification,Delivery,Other,Other,False,0.05162689997814596
+7026,i have got to update my shipping address,Delivery,Other,Other,False,0.05156150000402704
+7027,will you show me the termination charge?,Other,Payment,Payment,False,0.050899800029583275
+7031,i cant switch to the premium account,Other,Other,Other,False,0.05001909995917231
+7034,Can you please look into order #558976 as the sole on the running trainers is peeling off. I would appreciate a refund.,Product Quality,Product Quality,Product Quality,False,0.06544340000255033
+7045,Ordered a bookshelf but it doesn't look anything like the website photos. I need a replacement (order #112960).,Product Quality,Product Quality,Product Quality,False,0.06662080000387505
+7059,can ya help me requesting a rebate of my money,Refund,Refund,Refund,False,0.06490719999419525
+7067,can ya help me list the available payment modalities,Payment,Payment,Payment,False,0.04893749998882413
+7069,I've received the sofa and it doesn't look anything like the photos on the website. Could I please have a replacement?,Product Quality,Product Quality,Product Quality,False,0.06607770000118762
+7077,what do i have to do to check when will my parcel arrive,Delivery,Delivery,Delivery,False,0.049951399967540056
+7086,i dont know how i can speak to someone,Other,Other,Other,False,0.051049600006081164
+7095,I've received a jumper that's nothing like the size guide. Why is this happening with order #281594?,Product Quality,Product Quality,Product Quality,False,0.0660918999928981
+7097,i dont know what i have to do to demand rebates of money,Refund,Refund,Refund,False,0.06520330003695562
+7102,I don't know how I could unsubscribe to the newsletter,Other,Other,Other,False,0.04857319995062426
+7110,"Hello, arrived a scratched bookshelf. I'd like my money back.",Product Quality,Refund,Refund,False,0.06341060000704601
+7113,"the new delivery address isn't valid, how to do it?",Delivery,Delivery,Delivery,False,0.04991339996922761
+7115,want assistance to cancel order  #331148,Other,Other,Other,False,0.050622800015844405
+7117,ordered running trainers stitching is coming apart wanted something better,Product Quality,Product Quality,Product Quality,False,0.06578090001130477
+7122,there are problems trying to correct ym shipping address,Delivery,Other,Other,False,0.049355900031514466
+7127,help me getting the bill from Aisha,Payment,Other,Other,False,0.050462799961678684
+7130,"I need to see how soon can I expect the order, help me",Delivery,Delivery,Delivery,False,0.05011220002779737
+7135,i bought some product help me canceling order #265409,Other,Other,Other,False,0.04956659994786605
+7140,"Not happy with the desk lamp, has a burning smell, replacement please",Product Quality,Product Quality,Product Quality,False,0.06446480000158772
+7146,where to check the available payment methods?,Payment,Payment,Payment,False,0.051806700008455664
+7155,I do not know how to obtain rebates of money,Refund,Other,Other,False,0.05029000004287809
+7178,show me purchase #374492 current status,Delivery,Delivery,Delivery,False,0.05078769999090582
+7196,assistance giving a quick look at my bill from Tom,Payment,Other,Other,False,0.05235209997044876
+7199,I do not know how I can earn some products,Other,Other,Other,False,0.05090540001401678
+7200,I don't know what to do to locate order #805188,Delivery,Other,Other,False,0.050037399982102215
+7217,"Hello, just letting you know that the blender (#963308) is making a loud rattling noise.",Product Quality,Product Quality,Product Quality,False,0.06693430000450462
+7221,i ordered desk lamp and battery barely lasts #304206,Product Quality,Product Quality,Product Quality,False,0.06533549999585375
+7229,what do I need to do to change the address?,Delivery,Other,Other,False,0.05161599995335564
+7233,i cannot find my invoices from James,Payment,Other,Other,False,0.048462599981576204
+7236,I have an erroor trying to change the address,Delivery,Other,Other,False,0.04876660002628341
+7247,I don't know how I could check my bill from Aisha,Payment,Other,Other,False,0.04814159998204559
+7258,setting up new shipping address,Delivery,Other,Other,False,0.05115239997394383
+7269,help to check in which cases can I ask for reimbursements,Refund,Refund,Refund,False,0.06414680002490059
+7284,"I've received a frying pan and it doesn't look anything like the photos on the website, thought I'd let you know.",Product Quality,Product Quality,Product Quality,False,0.0649695000029169
+7293,I can't check purchase #177767 status,Delivery,Other,Other,False,0.04898600000888109
+7295,i want help correcting  the address,Delivery,Other,Other,False,0.04912669997429475
+7309,what do i need to do to reset my user cacount pwd,Other,Other,Other,False,0.05042019998654723
+7325,is it possible to subscribe to the corporate newsletter,Other,Other,Other,False,0.049585900036618114
+7331,can you help me check how soon can I expect my purchase?,Delivery,Delivery,Delivery,False,0.049583899963181466
+7336,how to request rebates of my money,Refund,Refund,Refund,False,0.0635426000226289
+7347,assistance requesting a compensation of money,Refund,Refund,Refund,False,0.06607990001793951
+7349,how can I see the status of my newsletter subscription?,Other,Other,Other,False,0.049465799995232373
+7374,i have issues trying to modify my shipping address,Delivery,Other,Other,False,0.048920499975793064
+7375,I want to see what shipment methods are available,Delivery,Delivery,Delivery,False,0.04941000003600493
+7395,"I want to receive your newsletter, I need help",Other,Other,Other,False,0.050452199997380376
+7396,cn I place an order from Bristol?,Delivery,Delivery,Delivery,False,0.05077789997449145
+7405,I am trying to check order #992717 current status,Delivery,Delivery,Delivery,False,0.04899929999373853
+7407,i dont know what to do to restore my profile password,Other,Other,Other,False,0.05109200003789738
+7419,help to see the ETA of the order #622230,Delivery,Delivery,Delivery,False,0.04953929997282103
+7420,where to notify of a sign-up problem?,Other,Other,Other,False,0.05080369999632239
+7424,check invoice from June,Payment,Other,Other,False,0.05065310001373291
+7440,chcek order #440839 current status,Delivery,Delivery,Delivery,False,0.050589899998158216
+7446,how to check how soon can I expect my item?,Delivery,Delivery,Delivery,False,0.04955270001664758
+7459,help setting up the secondary shipping address,Delivery,Delivery,Delivery,False,0.050429900002200156
+7464,i have got to receive rebates,Refund,Refund,Refund,False,0.06443840003339574
+7467,I don't know how to track my restitution,Refund,Refund,Refund,False,0.06613490002928302
+7472,I do not know what to do to check the early exit fees,Other,Other,Other,False,0.04977169999619946
+7474,wamna switch some products of order #225362,Other,Other,Other,False,0.05020260001765564
+7478,help me to see the refund status,Refund,Refund,Refund,False,0.061901999986730516
+7480,can you give me information about editing my address?,Delivery,Other,Other,False,0.04980259999865666
+7483,what do I need to do to see when will my parcel arrive?,Delivery,Delivery,Delivery,False,0.050682000000961125
+7485,I don't know how to demand restitutions of my money,Refund,Refund,Refund,False,0.06532740005059168
+7493,i have a question about the removal of my account category account,Other,Other,Other,False,0.05581930000334978
+7496,"The bookshelf has a part missing. Nothing to worry about, just reporting it.",Product Quality,Product Quality,Product Quality,False,0.06451159995049238
+7498,i want assistance seeing the accepted payment modalities,Payment,Payment,Payment,False,0.04843359999358654
+7505,modify order00004587345,Other,Other,Other,False,0.05073769995942712
+7507,"I have to list your payment options, I need assistance",Payment,Other,Other,False,0.047901200014166534
+7516,modify information on freemium account,Other,Other,Other,False,0.048785599996335804
+7525,"the shipping address has changed, can you correct it?",Delivery,Delivery,Delivery,False,0.05108459998155013
+7530,i dont know how i can submit the secondary shipping address,Delivery,Delivery,Delivery,False,0.05099069996504113
+7541,I'd like to receive the company newsletter could ya help me,Other,Other,Other,False,0.05042030004551634
+7544,"I want to list the allowed payment options, I need help",Payment,Payment,Payment,False,0.050235799979418516
+7549,i need assistance to get reimbursements of money,Refund,Refund,Refund,False,0.06266400002641603
+7552,I want help to see my rebate current status,Refund,Refund,Refund,False,0.06559569999808446
+7560,help me canceling my subscription to ur corporate newsletter,Other,Other,Other,False,0.049167599994689226
+7565,I've noticed a loud rattling noise coming from the desk lamp I recently purchased. Could you look into this for me?,Product Quality,Product Quality,Product Quality,False,0.06373080000048503
+7586,My sofa has a part missing (order #532961). Just reporting it.,Product Quality,Product Quality,Product Quality,False,0.06519789999583736
+7594,"So my electric toothbrush won't turn on, I ordered it under #197874, need a replacement.",Product Quality,Product Quality,Product Quality,False,0.06613500003004447
+7597,"I want to change to the account category account, how could I do it?",Other,Other,Other,False,0.05188729998189956
+7598,where can i look for bill #00108,Payment,Delivery,Delivery,False,0.05038970004534349
+7600,how to see your goddamn reimbursement policy?,Refund,Other,Other,False,0.051022699975874275
+7603,I have to inform of issues with payments,Payment,Payment,Payment,False,0.05035699997097254
+7608,I need help sending some feedback about a  service,Other,Other,Other,False,0.049836100020911545
+7614,is it possible to download my invoice from Tom,Payment,Other,Other,False,0.05005279998295009
+7619,I am trying to check how soon can I expct my parcel,Delivery,Delivery,Delivery,False,0.04941859998507425
+7622,can you help me to see what delivery options I have?,Delivery,Delivery,Delivery,False,0.04895510000642389
+7623,where to obtain rebates,Refund,Other,Other,False,0.04915800003800541
+7624,"Just noticed a part is missing from the sofa I ordered, could I please get a replacement for order #570103?",Product Quality,Product Quality,Product Quality,False,0.06603909999830648
+7627,is it possiblr to earn an item,Other,Other,Other,False,0.05117029999382794
+7632,i dont know what i have to do to get the invoice #00108,Payment,Other,Other,False,0.05027850001351908
+7639,see cancellation charge,Other,Payment,Payment,False,0.04891710000811145
+7640,I try to check purcbase #311976 status,Delivery,Other,Other,False,0.05433229997288436
+7660,i cant see order #773088 goddamn current satus,Delivery,Other,Other,False,0.05210639996221289
+7661,would it be possible to ask for compensations of my money?,Refund,Refund,Refund,False,0.06604230002267286
+7663,where do I see the ETA of purchase #177649?,Delivery,Delivery,Delivery,False,0.05059269996127114
+7670,assistance to see how log reimbursements take,Refund,Other,Other,False,0.05014439998194575
+7674,give me information about modifying the address,Delivery,Other,Other,False,0.05034799996064976
+7679,I need assistance to check how soon can I expect my package,Delivery,Delivery,Delivery,False,0.04804100003093481
+7691,i cant make a payment i wanna repotr a problem,Payment,Payment,Payment,False,0.04796990001341328
+7692,I do not know how to see your accepted payment modalities,Payment,Payment,Payment,False,0.050188900029752403
+7700,give me information about updating my delivery address,Delivery,Other,Other,False,0.049678699986543506
+7713,I'm trying to correct my shipping address,Delivery,Other,Other,False,0.049335199990309775
+7720,"I want to enter another delivery address, can you help me?",Delivery,Other,Other,False,0.04881409998051822
+7723,need assistance informing of a trouble with payment,Payment,Payment,Payment,False,0.049416699970606714
+7725,where do i inform of errors with payment,Payment,Payment,Payment,False,0.051739799964707345
+7726,So the stitching on the jumper I bought is coming apart. What can I do next?,Product Quality,Product Quality,Product Quality,False,0.11611060000723228
+7735,where do i report an issue with a registration,Other,Other,Other,False,0.04944969998905435
+7736,can I see in what situations can I request to be reimbursed?,Refund,Refund,Refund,False,0.06499690003693104
+7749,is it possible to see in what cases can I request refunds?,Refund,Refund,Refund,False,0.06377900001825765
+7751,"Not happy with the suitcase, feels cheap and flimsy. What do I do now?",Product Quality,Product Quality,Product Quality,False,0.06354020000435412
+7760,i have paid £208 for an item i wanna get my money back,Refund,Refund,Refund,False,0.06621640000957996
+7766,opening new gold account for daughter,Other,Other,Other,False,0.049632799986284226
+7767,when will purchase #129751 arrive,Delivery,Delivery,Delivery,False,0.05060849996516481
+7785,I can't recerive the newsletter,Other,Other,Other,False,0.05251980002503842
+7802,ordered a bluetooth speaker but it's already stopped working,Product Quality,Product Quality,Product Quality,False,0.06447569996817037
+7803,assistance seeing in what situations can i ask for refunds,Refund,Refund,Refund,False,0.06344559998251498
+7815,"Just noticed the bookshelf doesn't look like the photos on the website. Order #151470, need help.",Product Quality,Product Quality,Product Quality,False,0.06473909999476746
+7816,i have problems changing my shipping addresw,Delivery,Other,Other,False,0.04851990001043305
+7825,"I have got to see how long the delivery takes, I need help",Delivery,Delivery,Delivery,False,0.04867819999344647
+7826,shipping address issue,Delivery,Delivery,Delivery,False,0.049214899947401136
+7861,I do not know how I could get a fucking rebate of my money,Refund,Refund,Refund,False,0.06255059997783974
+7869,"The desk lamp battery barely lasts, no biggie.",Product Quality,Product Quality,Product Quality,False,0.06493140000384301
+7870,where could I buy several articles?,Other,Other,Other,False,0.04879099997924641
+7878,"I need to see when will my package arrive, how can I do it?",Delivery,Delivery,Delivery,False,0.048720400023739785
+7879,how to see your accepted payment methods?,Payment,Payment,Payment,False,0.050133799959439784
+7890,I have a trouble entering a goddamn shipping address,Delivery,Other,Other,False,0.049997199967037886
+7895,where do i see the status of order #678443,Delivery,Delivery,Delivery,False,0.05036599998129532
+7906,what do i need to do to reover my account pin,Other,Other,Other,False,0.05040559999179095
+7907,i have got to set the new deliver address up how do i do it,Delivery,Delivery,Delivery,False,0.04970810003578663
+7912,I try to check when will my article arrive,Delivery,Delivery,Delivery,False,0.051968000014312565
+7927,I don't know how I can download my bill #12588,Payment,Other,Other,False,0.0506044999929145
+7931,want help obtaining a refund of money,Refund,Refund,Refund,False,0.06559549999656156
+7935,Why does this bookshelf feel so cheap and flimsy? Reporting it for your information.,Product Quality,Product Quality,Product Quality,False,0.0651615000097081
+7942,i want help demanding rebates of my money,Refund,Refund,Refund,False,0.06613469996955246
+7950,wanna see the early termination charge,Other,Payment,Payment,False,0.04811400000471622
+7975,I want to retrieve my fucking user profile access key,Other,Other,Other,False,0.049546899972483516
+7987,i want assistance seing the invoice from Priya,Payment,Other,Other,False,0.048673100012820214
+7992,how can i hcange to the account type account,Other,Other,Other,False,0.049693499982822686
+7993,"I have got to submit the secondary shipping address, help me",Delivery,Delivery,Delivery,False,0.0496623000362888
+8014,assistance to check the eta of the purchase #601608,Delivery,Delivery,Delivery,False,0.04830309998942539
+8015,there are issues modifying my address,Delivery,Other,Other,False,0.04925730003742501
+8024,there is an issue trying to update the address,Delivery,Other,Other,False,0.049199000000953674
+8026,i need help to unsubscribe from ur company newsletter,Other,Other,Other,False,0.048926200019195676
+8035,i cannot retrieve the passqord of my profile,Other,Other,Other,False,0.04947999998694286
+8036,I want to check how long the shipping takes,Delivery,Delivery,Delivery,False,0.049656799994409084
+8044,i do not know what to do to request refunds,Refund,Refund,Refund,False,0.06337619997793809
+8061,want help looking for the fucking bill from Tom,Payment,Other,Other,False,0.04895849997410551
+8062,i dont know what i need to do to restore my profile key,Other,Other,Other,False,0.05040530004771426
+8076,Can you replace the running trainers (order #240829) as they bobbled after just one wash?,Product Quality,Product Quality,Product Quality,False,0.06465999997453764
+8093,i want help modifying the address,Delivery,Other,Other,False,0.04902910004602745
+8105,how do I see how soon can I expect my package?,Delivery,Delivery,Delivery,False,0.0483774000313133
+8110,could you help me to see how soon can I expect the item?,Delivery,Delivery,Delivery,False,0.04985619999933988
+8115,how can I check purchase #234568 current status?,Delivery,Delivery,Delivery,False,0.051997700007632375
+8116,want help checking when will my product arrive,Delivery,Delivery,Delivery,False,0.050502600031904876
+8120,I need help to see the available payment methods,Payment,Payment,Payment,False,0.05189619999146089
+8122,where do i retrieve my user acount key,Other,Other,Other,False,0.049279100028797984
+8128,i dont know how to inform of an issue with payments,Payment,Payment,Payment,False,0.049323400016874075
+8129,So the stitching on the winter coat is coming apart. Very upsetting.,Product Quality,Product Quality,Product Quality,False,0.06222259998321533
+8131,help me to check in what situations acn I request a refund,Refund,Refund,Refund,False,0.06333889998495579
+8155,I am calling to see what shipment methods are there,Delivery,Delivery,Delivery,False,0.049868800037074834
+8170,updating info on platinum account,Other,Other,Other,False,0.050796199997421354
+8175,i have to inform of troubles with online payment,Payment,Payment,Payment,False,0.050459899997804314
+8180,I want help to see how long it takes for the order to arrive,Delivery,Delivery,Delivery,False,0.049684899975545704
+8182,I'm waiting for a restitution of 62 dollras,Refund,Refund,Refund,False,0.06447829998796806
+8188,"I wwould like to see your damn money back policy, help me",Refund,Refund,Refund,False,0.06305509997764602
+8189,"I need to see how long reimbursements take, how can I do it?",Refund,Refund,Refund,False,0.06388789997436106
+8191,help me inform of a problem with payment,Payment,Payment,Payment,False,0.04946959996595979
+8198,"I need to see your reimbusrement policy, how to do it?",Refund,Other,Other,False,0.04873739997856319
+8218,seeingbill from Sarah,Payment,Other,Other,False,0.04971549997571856
+8222,"I paid £39 for this product, I need to get a rebate",Refund,Refund,Refund,False,0.06397590000415221
+8225,i want support updating  the delivery address,Delivery,Other,Other,False,0.05053300003055483
+8233,where can i find information about a pwd reset,Other,Other,Other,False,0.049730900034774095
+8240,assistance to check the current status of order #217659,Delivery,Delivery,Delivery,False,0.05114910000702366
+8249,i dont know what to do to check ur refund policy,Refund,Other,Other,False,0.05099079996580258
+8273,assistance editing my  delivery address,Delivery,Other,Other,False,0.050836200010962784
+8279,I am trying to submit feedback about a product,Other,Other,Other,False,0.05066760000772774
+8297,I have to see purchase #522842 current status,Delivery,Delivery,Delivery,False,0.05641180003294721
+8318,help me entering my secondary delivery address,Delivery,Delivery,Delivery,False,0.05154630000470206
+8324,there are troubles modifying the shipping address,Delivery,Other,Other,False,0.049139500013552606
+8328,closing account category account,Other,Other,Other,False,0.04897760000312701
+8330,wanna see order #158338 status help me,Delivery,Delivery,Delivery,False,0.048099500010721385
+8346,I want to modify the delivery address,Delivery,Other,Other,False,0.049388299987185746
+8357,i expect a damn restitution of £290,Refund,Refund,Refund,False,0.06632880005054176
+8361,"Can you help me with the bookshelf I bought for my living room, it arrived scratched, what should I do next?",Product Quality,Product Quality,Product Quality,False,0.06422240001847968
+8366,help me to get my invoices from Priya,Payment,Payment,Payment,False,0.049567700014449656
+8375,"I need to check in what cases can I request refunds, help me",Refund,Refund,Refund,False,0.06415180000476539
+8380,I need assistance to check the shipping methods,Delivery,Delivery,Delivery,False,0.05054009996820241
+8383,where do I see the shipment methods?,Delivery,Delivery,Delivery,False,0.04866010003024712
+8384,"I have lost my user password, where do I retrieve it?",Other,Other,Other,False,0.04875959997298196
+8396,I want assistance seeing the methods for shipment,Delivery,Delivery,Delivery,False,0.04954670002916828
+8397,i need help to solve problems with online payment,Payment,Payment,Payment,False,0.05039539997233078
+8399,i expect a compensation of1200 pounds has it been processed,Refund,Refund,Refund,False,0.06293790001654997
+8401,trouble setting up my new delivery address,Delivery,Delivery,Delivery,False,0.04857099999208003
+8409,need assistance to see my invoices from Aisha,Payment,Payment,Payment,False,0.047773600032087415
+8410,want assistance checking the eta of order #658198,Delivery,Delivery,Delivery,False,0.04970360000152141
+8416,i dont know what i have to do to look for the bill #37777,Payment,Other,Other,False,0.050241900025866926
+8432,"I have to leave an opinion for a product, can you help me?",Other,Other,Other,False,0.049431600025855005
+8433,I want to buy an article,Other,Other,Other,False,0.050755999982357025
+8435,y is not my delivery address valid,Delivery,Delivery,Delivery,False,0.05170800001360476
+8436,is it possible to look for my bill #85632,Payment,Other,Other,False,0.05182660004356876
+8446,need help seeing in what cases can i ask ofr reimbursements,Refund,Refund,Refund,False,0.06925579998642206
+8453,change info on platinum account,Other,Other,Other,False,0.051277499995194376
+8456,set new shipping address up,Delivery,Other,Other,False,0.052047899982426316
+8457,"Ordered a new swivel chair and it's arrived all scratched up, any help next steps please?",Product Quality,Product Quality,Product Quality,False,0.0651256000273861
+8460,where to ask for a rebate of money,Refund,Refund,Refund,False,0.0638905000523664
+8461,I don't know what I need to do to remove a standard account,Other,Other,Other,False,0.04915089998394251
+8465,i dont know how to check the cancellation charge,Other,Other,Other,False,0.04986620001727715
+8479,how can I track the compensation?,Refund,Delivery,Delivery,False,0.049929199973121285
+8483,I do not know what I need to do to buy some items,Other,Other,Other,False,0.051253699988592416
+8484,review for a service,Other,Other,Other,False,0.04905910004163161
+8491,what do I have to do to see your payment methods?,Payment,Payment,Payment,False,0.04884610004955903
+8494,can you help me requesting compensations?,Refund,Other,Other,False,0.050560600007884204
+8508,open a freemium account for my dad,Other,Other,Other,False,0.04864719999022782
+8516,how long until I obtain a refund of money?,Refund,Refund,Refund,False,0.06387469999026507
+8517,support setting up my delivery address,Delivery,Delivery,Delivery,False,0.0489592999801971
+8518,could you help me to see what payment methods are accepted?,Payment,Payment,Payment,False,0.04906940000364557
+8524,I'm trying to speak with a human agent,Other,Other,Other,False,0.05001910001737997
+8526,where do I enter my secondary delivery address?,Delivery,Delivery,Delivery,False,0.047716000000946224
+8531,ohw do I check how soon can I expect the item?,Delivery,Delivery,Delivery,False,0.051332200004253536
+8539,issue changing shipping address,Delivery,Other,Other,False,0.048524599988013506
+8549,what do I need to do to delete a goddamn gold account?,Other,Other,Other,False,0.050978499988559633
+8557,I want help to check in which cases can I ask for refunds,Refund,Refund,Refund,False,0.06331339996540919
+8560,find ionvoice #85632,Payment,Other,Other,False,0.04989500000374392
+8576,assistance seeing how soon can i expect the article,Delivery,Delivery,Delivery,False,0.048829899984411895
+8577,need help seeing in which cases can  I request a refund,Refund,Refund,Refund,False,0.06305249995784834
+8585,help checking the eta of order #195359,Delivery,Delivery,Delivery,False,0.05004760000156239
+8607,can you help me retrieve the PIN code of my account?,Other,Other,Other,False,0.04986739996820688
+8616,can uhelp me to check the fucking eta of the order #793024,Delivery,Delivery,Delivery,False,0.049724699987564236
+8617,"I received a suitcase and it's arrived scratched, what can I do next?",Product Quality,Product Quality,Product Quality,False,0.06380060000810772
+8619,i do not know what i need to do to hsop several articles,Other,Other,Other,False,0.04815540002891794
+8624,i do not nkow how to delete the standard account,Other,Other,Other,False,0.05064440000569448
+8625,see how long refunds take,Refund,Refund,Refund,False,0.06250820000423118
+8627,i dont know how i can see my bill from Priya,Payment,Other,Other,False,0.04921129997819662
+8628,help to check the available payment methods,Payment,Payment,Payment,False,0.0500766999903135
+8664,can you help me notifying of troubles with online payments?,Payment,Payment,Payment,False,0.04988609999418259
+8666,where do I set a different shipping address up?,Delivery,Delivery,Delivery,False,0.04947019997052848
+8667,I try to list your available payment methoids,Payment,Payment,Payment,False,0.04960699996445328
+8671,I'm trying to notify of errors with online payments,Payment,Payment,Payment,False,0.04930080001940951
+8700,help me checking if there are any news on my refund,Refund,Other,Other,False,0.04949120001401752
+8714,i do not know how to see when my delivery is gonna arrive,Delivery,Delivery,Delivery,False,0.04862820002017543
+8715,I want to obtain a reimbursement of money,Refund,Refund,Refund,False,0.06679249997250736
+8729,I'm waiting for a restitution of 206 pounds,Refund,Refund,Refund,False,0.06545039999764413
+8738,need assistance ordering some goddamn items,Other,Other,Other,False,0.04926210001576692
+8739,what do i need to do to report prbolems with payment,Payment,Payment,Payment,False,0.05085280002094805
+8741,i dont know what i need to do to download my invoice #12588,Payment,Other,Other,False,0.049459600006230175
+8745,help receiving reinbursements of my money,Refund,Refund,Refund,False,0.06535889999940991
+8746,I'm waiting for a goddamn compensation of 109 pounds,Refund,Refund,Refund,False,0.06378120003500953
+8748,errors setting up a secondary shipping address,Delivery,Other,Other,False,0.05109259998425841
+8750,assistance with opening a standard account,Other,Other,Other,False,0.04711120005231351
+8756,help to ask for refunds of money,Refund,Refund,Refund,False,0.06426379998447374
+8763,assistance purchasing a few of your item,Other,Other,Other,False,0.049831399985123426
+8769,have a question about cancelling order #498382,Other,Other,Other,False,0.05073859996628016
+8771,will you give me information about updating the address?,Delivery,Other,Other,False,0.04938310000579804
+8786,i lost the invoicesfrom James mail them to me,Payment,Other,Other,False,0.05123929999535903
+8792,Not happy with my smartwatch as it keeps overheating. What to do next?,Product Quality,Product Quality,Product Quality,False,0.06506779999472201
+8796,help recovering my profile access key,Other,Other,Other,False,0.04960669996216893
+8798,I call to see when my package is going to arrive,Delivery,Delivery,Delivery,False,0.05048959999112412
+8801,"you are not helpful at all, help me to chat with somebody",Other,Payment,Payment,False,0.04995130002498627
+8806,where do I shop a few of your article?,Other,Other,Other,False,0.05032139999093488
+8819,"My winter coat bobbled after one wash, is this covered under warranty?",Product Quality,Product Quality,Product Quality,False,0.06439519999548793
+8833,how do i find the bills from James,Payment,Other,Other,False,0.05087370000546798
+8838,Why is it that the dress I bought bobbled after just one wash? I need a repair.,Product Quality,Product Quality,Product Quality,False,0.06499210000038147
+8848,my kettle makes a loud rattling noise.,Product Quality,Product Quality,Product Quality,False,0.06544279999798164
+8856,I have an issue submitting the secondray delivery address,Delivery,Other,Other,False,0.048781100020278245
+8862,I want help to see what damn shipment options I can choose,Delivery,Delivery,Delivery,False,0.05094780004583299
+8864,help me checking in what cases can I request to be refunded,Refund,Refund,Refund,False,0.06335189996752888
+8884,i want assistance downloading the bills from Sarah,Payment,Other,Other,False,0.05011179996654391
+8887,would it be possible to get a refund?,Refund,Refund,Refund,False,0.06506690004607663
+8889,i do not know how i can notify of errors with payment,Payment,Payment,Payment,False,0.049366199993528426
+8897,i do not know how to check my refund current status,Refund,Refund,Refund,False,0.06420439999783412
+8900,I don't know how I can see the available payment modalities,Payment,Payment,Payment,False,0.049819700012449175
+8905,wanna ask for rebates,Refund,Other,Other,False,0.049162100011017174
+8909,I need help trying to change my shipping address,Delivery,Other,Other,False,0.04918209998868406
+8922,I want assistance to see what shipment options are available,Delivery,Delivery,Delivery,False,0.04891389998374507
+8924,help me request damn restitutions of money,Refund,Refund,Refund,False,0.06672990001970902
+8939,ur refund policy,Refund,Refund,Refund,False,0.06799319997662678
+8942,show me my invoices fromn Sarah,Payment,Payment,Payment,False,0.0567919000168331
+8957,problems with canceling purchase #662275,Other,Other,Other,False,0.05102810001699254
+8973,I am calling to check when my purchase is going to arrive,Delivery,Delivery,Delivery,False,0.05236279999371618
+8981,there are problems trying to edit the delivery address,Delivery,Other,Other,False,0.052092700032517314
+8996,"I have to see how long reimbursements take, how can I do it?",Refund,Refund,Refund,False,0.06706500001018867
+9004,I want help giving a quick look at my bill from Priya,Payment,Other,Other,False,0.050911700003780425
+9015,wanna check in wshat situations can i ask for a refund,Refund,Refund,Refund,False,0.06371740001486614
+9021,I'm looking for information about lost passwords,Other,Other,Other,False,0.048981199972331524
+9030,"So about the bookshelf (order #231250), it's quite wobbly even after being assembled properly. I was hoping for a replacement as I'd like to keep my books securely stored.",Product Quality,Product Quality,Product Quality,False,0.07494870002847165
+9031,can uhelp me to check the ETA of purchase #132653,Delivery,Delivery,Delivery,False,0.051005000015720725
+9032,"someone has stolen my PIN code, could you help me reset it?",Other,Other,Other,False,0.05077269999310374
+9033,could you help me receiving a rebate of money?,Refund,Refund,Refund,False,0.06599269999423996
+9035,"I need to see when will my product arrive, help me",Delivery,Delivery,Delivery,False,0.05791849998058751
+9047,chwck under which circumstances can I request reimbursements,Refund,Refund,Refund,False,0.06579279998550192
+9050,help to see how long it takes for my item to arrive,Delivery,Delivery,Delivery,False,0.05033569998340681
+9059,show me the accepted payment modalities,Payment,Payment,Payment,False,0.05119199998443946
+9060,Not happy with the jumper I received. It's nothing like the size guide on your website. What should I do next?,Product Quality,Product Quality,Product Quality,False,0.06308479997096583
+9078,I have to find the bills from James,Payment,Other,Other,False,0.049403299984987825
+9080,"I have to report an issue with online payments, help me",Payment,Payment,Payment,False,0.04763220000313595
+9088,i have got to see my compensation current status,Refund,Refund,Refund,False,0.06349750002846122
+9096,how can i set up my new shipping address,Delivery,Delivery,Delivery,False,0.05026629997882992
+9097,support trying to update mh address,Delivery,Other,Other,False,0.048170900030527264
+9102,is it possible to inform of an error with online payments?,Payment,Payment,Payment,False,0.049222600006032735
+9104,notify of troubles with online  payments,Payment,Payment,Payment,False,0.04972539999289438
+9111,want assistance to demand a refund of my money,Refund,Refund,Refund,False,0.06390899996040389
+9134,what do I need to do to talk to customer support?,Other,Other,Other,False,0.0509580000070855
+9137,can you help me to ask for damn restitutions of money?,Refund,Refund,Refund,False,0.062465400027576834
+9165,i have to see how long it takes for the packgae to arrive,Delivery,Delivery,Delivery,False,0.047698099981062114
+9173,"I want to check order #621530 current status, help me",Delivery,Delivery,Delivery,False,0.05021270003635436
+9174,what do I need to do to inform of isues with payments?,Payment,Payment,Payment,False,0.04942290001781657
+9177,want assistance seeing my compensation current status,Refund,Refund,Refund,False,0.06523900001775473
+9181,I can't check the ETA of the orfer #579187,Delivery,Delivery,Delivery,False,0.05028460000175983
+9184,seein invoices from Aisha,Payment,Other,Other,False,0.050929099961649626
+9188,where to check what shipping methods are there?,Delivery,Delivery,Delivery,False,0.04926030000206083
+9190,"I have paid £100 for these articles, I want a refund",Refund,Refund,Refund,False,0.06301230000099167
+9193,i cant see ur money back policy,Refund,Refund,Refund,False,0.06392290000803769
+9197,when am i gonna get a reimbursement,Refund,Refund,Refund,False,0.06387039995752275
+9206,how do i obtain a rebate of money,Refund,Refund,Refund,False,0.06533180002588779
+9207,Not happy that my new smartwatch stopped working after a few days. Can I get a refund?,Product Quality,Product Quality,Product Quality,False,0.06792140001198277
+9214,"Hello, my running trainers zip broke. Can you arrange a repair please?",Product Quality,Product Quality,Product Quality,False,0.06531530001666397
+9220,I try to list your payment methods,Payment,Payment,Payment,False,0.04977869999129325
+9221,"I want to order a few of your item, can I get some help?",Other,Other,Other,False,0.049418200040236115
+9226,ya have a free number to talk with customer service,Other,Other,Other,False,0.050884699972812086
+9253,Why has order #820420 frying pan got a part missing?,Product Quality,Product Quality,Product Quality,False,0.06433099997229874
+9268,I do not know how to recover the access key of my account,Other,Other,Other,False,0.049645100021734834
+9270,where can I order some articles?,Other,Other,Other,False,0.05033060000278056
+9283,can ya help me lits the available payment options,Payment,Payment,Payment,False,0.050912899954710156
+9287,information about creating account category accounts,Other,Other,Other,False,0.049825599999167025
+9294,want assistance to take a quick look at the invoice #85632,Payment,Other,Other,False,0.049645100021734834
+9306,y i cannot set up my new shiopping address valid,Delivery,Other,Other,False,0.04967800003942102
+9317,I do not know how I could see order #325595 status,Delivery,Delivery,Delivery,False,0.04802080005174503
+9319,"I have to see what delivery options you offer, help me",Delivery,Delivery,Delivery,False,0.05007719999412075
+9326,need help informing of problems with online payment,Payment,Payment,Payment,False,0.049936600029468536
+9341,I'm trying to see in which cases can i request refunds,Refund,Refund,Refund,False,0.06373080000048503
+9350,"can't use the blender anymore as it has a burning smell, need a replacement.",Product Quality,Product Quality,Product Quality,False,0.0642136000096798
+9362,where to check when will my product arrive?,Delivery,Delivery,Delivery,False,0.04855930001940578
+9366,correct delivery address,Delivery,Delivery,Delivery,False,0.04928749997634441
+9368,I want assistance seeing the damn reimbursement status,Refund,Refund,Refund,False,0.06492670002626255
+9372,show your money back guarantee,Refund,Payment,Payment,False,0.04916440002853051
+9388,Why is the battery barely lasts on the portable music device? Does the warranty cover it?,Product Quality,Product Quality,Product Quality,False,0.06427610001992434
+9425,need help requesting rebates,Refund,Other,Other,False,0.05068159999791533
+9426,I have a problem wiyh my standard account termination,Other,Other,Other,False,0.04924419999588281
+9429,i have got to check what shipment methods uoffer help me,Delivery,Delivery,Delivery,False,0.049604599946178496
+9430,I need assistance to look for the invoice from Aisha,Payment,Other,Other,False,0.050674700003582984
+9434,problem with platinum account removals,Other,Other,Other,False,0.051206599979195744
+9435,could ya help me cancel the account category account,Other,Other,Other,False,0.04978669999400154
+9438,how can I check the refund current status?,Refund,Refund,Refund,False,0.06620750000001863
+9440,want help to know if there are any updates on my restitution,Refund,Refund,Refund,False,0.06491459999233484
+9445,need to check if there are any updates on my compensation,Refund,Refund,Refund,False,0.06534560001455247
+9450,where can I restore the PIN of my account?,Other,Other,Other,False,0.04945560003397986
+9452,"so it or the item i bought, a frying pan, is missing a part. does the warranty cover this?",Product Quality,Product Quality,Product Quality,False,0.0659616999910213
+9457,eta fo order #166857,Delivery,Delivery,Delivery,False,0.04974050004966557
+9466,where to check at what time i can contact customer support,Other,Other,Other,False,0.05028570001013577
+9472,hnelp to check the accepted payment methods,Payment,Payment,Payment,False,0.050644900009501725
+9474,where can I find information about the shipping period?,Delivery,Delivery,Delivery,False,0.04798929998651147
+9483,"I want to earn some goddamn items, I need assistance",Other,Other,Other,False,0.04984290001448244
+9486,purchase #655178 current status,Delivery,Delivery,Delivery,False,0.04870480002136901
+9489,I'm waiting for a rebate of 292 pounds,Refund,Refund,Refund,False,0.06398000003537163
+9504,i need assistance removing my account category account,Other,Other,Other,False,0.04909859999315813
+9506,i try to check how long itg takes for the shipment to arrive,Delivery,Delivery,Delivery,False,0.04921420000027865
+9507,I am trying to submit a new shipping address,Delivery,Delivery,Delivery,False,0.04707520001102239
+9512,I do not know what to do to obtain compensations of my money,Refund,Refund,Refund,False,0.06192340003326535
+9513,I have to submit a different delivery address,Delivery,Delivery,Delivery,False,0.05146489996695891
+9517,what od i have to do to download bill #00108,Payment,Other,Other,False,0.04883980000158772
+9520,need help obtaining restitutions of my money,Refund,Refund,Refund,False,0.06622640002751723
+9521,where do i see when my product is gonna arrive,Delivery,Delivery,Delivery,False,0.050455300020985305
+9525,where can I edit my delivery address?,Delivery,Delivery,Delivery,False,0.05093890003627166
+9526,i need assistance trying to edit my delivery address,Delivery,Other,Other,False,0.0506154999602586
+9530,I want to check in what cases can I request to be reimbursed,Refund,Refund,Refund,False,0.06544430000940338
+9540,assistance to contact customer support,Other,Other,Other,False,0.04821420001098886
+9544,I'm trying to check what options for delivery are there,Delivery,Delivery,Delivery,False,0.04943099996307865
+9558,could you help me submit another delivery address?,Delivery,Other,Other,False,0.04839950002497062
+9564,"I've got a smartwatch (can't remember the brand) and its battery barely lasts. Frustrating, I know.",Product Quality,Product Quality,Product Quality,False,0.06539930001599714
+9576,want help sending feedback for a product,Other,Other,Other,False,0.04902600002242252
+9591,show me in which cases can I request to be refunded,Refund,Refund,Refund,False,0.06448880000971258
+9595,want help to see how soon can i expect the package,Delivery,Delivery,Delivery,False,0.05027040001004934
+9597,I have issues setting up a secondary shipping address,Delivery,Other,Other,False,0.048886500007938594
+9611,I can't check the ETA of the purchase #601916,Delivery,Delivery,Delivery,False,0.04977399995550513
+9624,wanna check how soon can i expect my article,Delivery,Delivery,Delivery,False,0.056643899995833635
+9636,assistance seeing what shipment methods you offer,Delivery,Delivery,Delivery,False,0.050443299987819046
+9639,i have paid £155 for an order help me to obtain a refund,Refund,Refund,Refund,False,0.06485070002963766
+9640,I have an issue modifying the bloody address,Delivery,Other,Other,False,0.05138499999884516
+9643,can you help me to change to the goddamn pro account?,Other,Other,Other,False,0.05122010002378374
+9645,"Just found my office chair missing a crucial part, can't work comfortably anymore.",Product Quality,Product Quality,Product Quality,False,0.06595760001800954
+9647,"I have to check purchase #740725 status, I need assistance",Delivery,Delivery,Delivery,False,0.05428399995435029
+9659,give me information about the cancellation of my account type account,Other,Other,Other,False,0.050454000011086464
+9664,can you help me updating my shipping address?,Delivery,Other,Other,False,0.06166040000971407
+9672,need assistance seeing the ETA of order #302177,Delivery,Delivery,Delivery,False,0.05272930004866794
+9676,I want help to change the delivery address,Delivery,Other,Other,False,0.05125339998630807
+9677,need to chek my bill #85632 how to do it,Payment,Other,Other,False,0.04965749999973923
+9686,want assistance locating purchase #445637,Delivery,Other,Other,False,0.05204620002768934
+9695,when wil i get a rebate,Refund,Refund,Refund,False,0.06717230001231655
+9697,The winter coat from order #437960 doesn't fit according to the size guide. Does the warranty cover this?,Product Quality,Product Quality,Product Quality,False,0.06340320000890642
+9702,"The battery of the item barely lasts, what's the next step?",Product Quality,Product Quality,Product Quality,False,0.06396270002005622
+9705,"I need to check the methods for shipping, how do I do it?",Delivery,Delivery,Delivery,False,0.05031710001640022
+9717,order  #596756 status,Delivery,Delivery,Delivery,False,0.050701500033028424
+9730,"So my bookshelf is missing a part, can I have a replacement please?",Product Quality,Product Quality,Product Quality,False,0.06447149999439716
+9734,purchase #165306 current  status,Delivery,Delivery,Delivery,False,0.05003810004564002
+9745,"Sofa arrived scratched, not happy. Need a replacement.",Product Quality,Product Quality,Product Quality,False,0.06595040002139285
+9766,"Not happy with this jumper I bought, the sole is peeling off already. It's supposed to keep me warm during the winter.",Product Quality,Product Quality,Product Quality,False,0.0648638000129722
+9769,i need help to see in what situationw can i ask for refunds,Refund,Refund,Refund,False,0.06603460002224892
+9776,where could I see what payment options you accept?,Payment,Payment,Payment,False,0.05214009998599067
+9785,i try to see in which cases can i request refunss,Refund,Refund,Refund,False,0.06503689999226481
+9797,want assistance checking the cancellation fees,Other,Other,Other,False,0.0512816000264138
+9799,I cannot create a account type account,Other,Other,Other,False,0.05198950000340119
+9804,how to check the status of purchase #103161?,Delivery,Delivery,Delivery,False,0.04911830002674833
+9813,where could I see when will my purchase arrive?,Delivery,Delivery,Delivery,False,0.05068909999681637
+9818,where do I see what delivery methods I can choose?,Delivery,Delivery,Delivery,False,0.05152320000343025
+9837,how can  i purchase something,Other,Other,Other,False,0.05203590000746772
+9875,need help checking what hours i can call customer support,Other,Other,Other,False,0.04932130000088364
+9896,I try to speak to an assistant,Other,Other,Other,False,0.050613699946552515
+9906,"My electric toothbrush has stopped charging and it's really inconvenient. Could I get a replacement, please?",Product Quality,Product Quality,Product Quality,False,0.06473069998901337
+9914,where can i check how soon cn i expect my shipment,Delivery,Delivery,Delivery,False,0.0517839000094682
+9924,i dont know how i can ese how soon can i expect the order,Delivery,Delivery,Delivery,False,0.049339700024574995
+9935,I need to enter an different shipping address,Delivery,Other,Other,False,0.05102929996792227
+9937,my order #378035 wireless headphones battery barely lasts just reporting it,Product Quality,Product Quality,Product Quality,False,0.06807540002046153
+9943,where do I check the accepted payment methods?,Payment,Payment,Payment,False,0.052382799971383065
+9946,i do not know what to do to inform of a payment issue,Payment,Payment,Payment,False,0.048794300004374236
+9947,can ya tell me about a delivery address update,Delivery,Delivery,Delivery,False,0.05236560001503676
+9955,where do I check the termination fees?,Other,Other,Other,False,0.052462999999988824
+9958,I don't know what I have to do to demand a compensation,Refund,Other,Other,False,0.05512859998270869
+9969,I need assistance informing of bloody registration issues,Other,Other,Other,False,0.05035989999305457
+9972,send me my bill from Tom,Payment,Other,Other,False,0.05088739999337122
