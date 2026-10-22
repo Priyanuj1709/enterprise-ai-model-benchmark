@@ -11,3 +11,6 @@
 | D7 | Generate Product Quality messages with Mistral 7B | Bitext has no such category; different model family from the one evaluated (Llama) | Possible generator-style shortcut; checked with check_shortcuts.py |
 | D8 | v1 → v2 generator | v1 copied prompt phrases ("refund or replacement" in ~35%) and all began with the product name | Documented in Git history |
 | D9 | Train/validation/test split 70/15/15; test used once at the end | Assignment rule: no tuning on the evaluation set | Smaller training set |
+
+| D11 | Stratified + grouped split (~70/15/15) with StratifiedGroupKFold, seed 42 | Representative test set; near-duplicates never cross splits | Grouping by normalised text may miss paraphrases |
+| D12 | Test set locked with a SHA-256 hash; opened once in Step 6 | Assignment rule: no tuning on evaluation data | — |

@@ -1,0 +1,1430 @@
+id,text,label,intent,source,group
+10,I want assistance to send feedback for your services,Other,review,bitext,i want assistance to send feedback for your services
+15,I am looking for information about a delivery address change,Delivery,change_shipping_address,bitext,i am looking for information about a delivery address change
+23,"Hello, my office chair arrived with a part missing (Order #533174).",Product Quality,generated,mistral,hello my office chair arrived with a part missing order
+32,how can I see how soon can I expect my article?,Delivery,delivery_period,bitext,how can i see how soon can i expect my article
+35,"I have to see the ETA of the order #969032, how to do it?",Delivery,track_order,bitext,i have to see the eta of the order how to do it
+36,what do I need to do to check my bill from Priya?,Payment,check_invoice,bitext,what do i need to do to check my bill from
+37,could you help me seeing how soon can I expect the product ?,Delivery,delivery_period,bitext,could you help me seeing how soon can i expect the product
+47,i want assistance checking how soon can i expect the item,Delivery,delivery_period,bitext,i want assistance checking how soon can i expect the item
+64,problems with the termination of a account category account,Other,delete_account,bitext,problems with the termination of a account category account
+65,I am calling to see how soon can I expect the shipment,Delivery,delivery_period,bitext,i am calling to see how soon can i expect the shipment
+77,need assistance to cancel order #717889,Other,cancel_order,bitext,need assistance to cancel order
+89,I don't know what I need to do to get the bill #85632,Payment,get_invoice,bitext,i don t know what i need to do to get the bill
+93,can you help md unsubscribing to your company newsletter?,Other,newsletter_subscription,bitext,can you help md unsubscribing to your company newsletter
+96,i can no longer pay for purchase #503457,Other,cancel_order,bitext,i can no longer pay for purchase
+97,assistance checking when my purchase is gonna arrive,Delivery,delivery_period,bitext,assistance checking when my purchase is gonna arrive
+99,"I expect a compensation of £198, was it processed already",Refund,track_refund,bitext,i expect a compensation of was it processed already
+101,how to check the shipping options?,Delivery,delivery_options,bitext,how to check the shipping options
+107,"I have to submit a shipping address, how do I do it?",Delivery,set_up_shipping_address,bitext,i have to submit a shipping address how do i do it
+116,i want help to see the rebate status,Refund,track_refund,bitext,i want help to see the rebate status
+117,I need help to submit a different shipping address,Delivery,set_up_shipping_address,bitext,i need help to submit a different shipping address
+131,I need to see in what situations can I ask to be refunded,Refund,check_refund_policy,bitext,i need to see in what situations can i ask to be refunded
+133,ordr several of ur product,Other,place_order,bitext,ordr several of ur product
+134,support submitting a new delivery address,Delivery,set_up_shipping_address,bitext,support submitting a new delivery address
+135,is it possible to set another goddamn delivery address up?,Delivery,set_up_shipping_address,bitext,is it possible to set another goddamn delivery address up
+137,i cant check ur moeny back guarantee,Refund,check_refund_policy,bitext,i cant check ur moeny back guarantee
+143,I don't know what to do to check the options for delivery,Delivery,delivery_options,bitext,i don t know what to do to check the options for delivery
+144,how can I see how soon can I expect the product?,Delivery,delivery_period,bitext,how can i see how soon can i expect the product
+146,help me check how soon can I expect my order,Delivery,delivery_period,bitext,help me check how soon can i expect my order
+164,I try to see when will my product arrive,Delivery,delivery_period,bitext,i try to see when will my product arrive
+165,would it be possible to locate the invoice from Tom,Payment,check_invoice,bitext,would it be possible to locate the invoice from
+168,i have an issue modifying the shipping address,Delivery,change_shipping_address,bitext,i have an issue modifying the shipping address
+172,I have got to inform of an issue with online payments,Payment,payment_issue,bitext,i have got to inform of an issue with online payments
+173,"The office chair a wheel or leg snapped, what should I do next?",Product Quality,generated,mistral,the office chair a wheel or leg snapped what should i do next
+178,Why is this toaster keeping cutting out? Need a replacement please!,Product Quality,generated,mistral,why is this toaster keeping cutting out need a replacement please
+185,I do not know how I can switch to the pro account,Other,switch_account,bitext,i do not know how i can switch to the pro account
+192,wanna use thed freemium profile can ya help me,Other,switch_account,bitext,wanna use thed freemium profile can ya help me
+196,i have issuws modifying my shipping address,Delivery,change_shipping_address,bitext,i have issuws modifying my shipping address
+197,"I need to locate purchase #626986, how do I do it?",Delivery,track_order,bitext,i need to locate purchase how do i do it
+200,I'm trying to check the status of purchase #735163,Delivery,track_order,bitext,i m trying to check the status of purchase
+204,how to see at what time i can reach customer support,Other,contact_customer_service,bitext,how to see at what time i can reach customer support
+214,help me see if there are any news on the rebate,Refund,track_refund,bitext,help me see if there are any news on the rebate
+223,"I want to sign up to your newsletter, help me",Other,newsletter_subscription,bitext,i want to sign up to your newsletter help me
+232,i want assistance to inform of problwms with payment,Payment,payment_issue,bitext,i want assistance to inform of problwms with payment
+238,need help to check  the ETA of the order #669576,Delivery,track_order,bitext,need help to check the eta of the order
+249,open standard cacount for wife,Other,create_account,bitext,open standard cacount for wife
+265,where to see what shipment options I have?,Delivery,delivery_options,bitext,where to see what shipment options i have
+266,show me invoiceINV-67939,Payment,check_invoice,bitext,show me invoiceinv
+277,I don't know how to check the goddamn shipment methods,Delivery,delivery_options,bitext,i don t know how to check the goddamn shipment methods
+284,so it looks nothing like the photos received,Product Quality,generated,mistral,so it looks nothing like the photos received
+289,i have to use the freemium account could ya help m,Other,switch_account,bitext,i have to use the freemium account could ya help m
+297,can you help me informing of errors with payment?,Payment,payment_issue,bitext,can you help me informing of errors with payment
+302,"I have got to get the ibll #37777, how could I do it?",Payment,get_invoice,bitext,i have got to get the ibll how could i do it
+304,can you help me report an issue with online payments?,Payment,payment_issue,bitext,can you help me report an issue with online payments
+306,"I ordered wireless headphones and they keep overheating, can I have a replacement?",Product Quality,generated,mistral,i ordered wireless headphones and they keep overheating can i have a replacement
+317,"I need to see how soon can I expect my shipment, help me",Delivery,delivery_period,bitext,i need to see how soon can i expect my shipment help me
+327,want help obtaining rebates,Refund,get_refund,bitext,want help obtaining rebates
+338,I try to inform of troubles with payment,Payment,payment_issue,bitext,i try to inform of troubles with payment
+343,Just noticed that my running trainers are a different colour from the photos.,Product Quality,generated,mistral,just noticed that my running trainers are a different colour from the photos
+351,I do not know what to do to see my invoice #37777,Payment,check_invoice,bitext,i do not know what to do to see my invoice
+362,I want help to report an issue with online payment,Payment,payment_issue,bitext,i want help to report an issue with online payment
+373,I have to see in which cases can I request a reimbursement,Refund,check_refund_policy,bitext,i have to see in which cases can i request a reimbursement
+374,cancelin account type account,Other,delete_account,bitext,cancelin account type account
+379,i do not know what to do to see what shipping methods i have,Delivery,delivery_options,bitext,i do not know what to do to see what shipping methods i have
+381,"not happy with the running trainers, colour different from photos, order #314181, need a replacement",Product Quality,generated,mistral,not happy with the running trainers colour different from photos order need a replacement
+397,"I would like to enter a new delivery address, help me",Delivery,set_up_shipping_address,bitext,i would like to enter a new delivery address help me
+404,not happy with the jeans (#207197). bobbled after one wash,Product Quality,generated,mistral,not happy with the jeans bobbled after one wash
+410,"Ordered a desk lamp that makes a loud rattling noise, just thought I'd report it.",Product Quality,generated,mistral,ordered a desk lamp that makes a loud rattling noise just thought i d report it
+427,help me to receive rebates of my money,Refund,get_refund,bitext,help me to receive rebates of my money
+429,"Hello, the footwear I received looks more like gym shoes than running gear. Not what I was expecting.",Product Quality,generated,mistral,hello the footwear i received looks more like gym shoes than running gear not what i was expecting
+431,is it possible to check how long the shipping takes?,Delivery,delivery_period,bitext,is it possible to check how long the shipping takes
+434,Why won't my electric toothbrush charge? Does the warranty cover this issue?,Product Quality,generated,mistral,why won t my electric toothbrush charge does the warranty cover this issue
+435,how do i check the eta of purchase #379963,Delivery,track_order,bitext,how do i check the eta of purchase
+436,assistance setting my new shipping address up,Delivery,set_up_shipping_address,bitext,assistance setting my new shipping address up
+437,can you show me in which situations can I request refunds?,Refund,check_refund_policy,bitext,can you show me in which situations can i request refunds
+441,help to see how soon can i expect the goddamn roder,Delivery,delivery_period,bitext,help to see how soon can i expect the goddamn roder
+443,I want hwlp to correct the shipping address,Delivery,change_shipping_address,bitext,i want hwlp to correct the shipping address
+472,inform of payment problems,Payment,payment_issue,bitext,inform of payment problems
+479,I do not know how to check what delivery methods are there,Delivery,delivery_options,bitext,i do not know how to check what delivery methods are there
+491,i have got to create a platinum account how can i do it,Other,create_account,bitext,i have got to create a platinum account how can i do it
+502,i want inofrmation about delivery periods how could i get it,Delivery,delivery_period,bitext,i want inofrmation about delivery periods how could i get it
+506,need to reoprt problems with online payment,Payment,payment_issue,bitext,need to reoprt problems with online payment
+535,how can i inform of problems with payments,Payment,payment_issue,bitext,how can i inform of problems with payments
+536,The sofa I received arrived scratched. What should I do next?,Product Quality,generated,mistral,the sofa i received arrived scratched what should i do next
+541,I want assistance checking how soon can I expect my package,Delivery,delivery_period,bitext,i want assistance checking how soon can i expect my package
+550,can uhelp me downloading my bils from Priya,Payment,get_invoice,bitext,can uhelp me downloading my bils from
+554,I call to check how long it takes for my shipment to arrive,Delivery,delivery_period,bitext,i call to check how long it takes for my shipment to arrive
+575,I am trying to check in which cases can I request a refund,Refund,check_refund_policy,bitext,i am trying to check in which cases can i request a refund
+588,need assistance checking how soon can I expect my orer,Delivery,delivery_period,bitext,need assistance checking how soon can i expect my orer
+615,rebating 159 pounds,Refund,get_refund,bitext,rebating pounds
+616,where can I enter the new shipping address?,Delivery,set_up_shipping_address,bitext,where can i enter the new shipping address
+617,where do I see the status of purchase #366817?,Delivery,track_order,bitext,where do i see the status of purchase
+621,I have got to see what methods for delivery are there,Delivery,delivery_options,bitext,i have got to see what methods for delivery are there
+625,I need assistance checking how soon can I expect my delivery,Delivery,delivery_period,bitext,i need assistance checking how soon can i expect my delivery
+643,assistance to check how soon can I expect my purchase,Delivery,delivery_period,bitext,assistance to check how soon can i expect my purchase
+646,i cannot check if there is anything new on the reimbursement,Refund,track_refund,bitext,i cannot check if there is anything new on the reimbursement
+650,wanna see how soon can i expect the shipment help me,Delivery,delivery_period,bitext,wanna see how soon can i expect the shipment help me
+653,I have got to check what goddamn delivery methods I have,Delivery,delivery_options,bitext,i have got to check what goddamn delivery methods i have
+656,I want support trying to correct my delivery address,Delivery,change_shipping_address,bitext,i want support trying to correct my delivery address
+660,I have got to check what hours customer service available is,Other,contact_customer_service,bitext,i have got to check what hours customer service available is
+670,how can I get information about a gold account deletion?,Other,delete_account,bitext,how can i get information about a gold account deletion
+671,there is an issue setting up a shipping address,Delivery,set_up_shipping_address,bitext,there is an issue setting up a shipping address
+674,help to shop a bloody product,Other,place_order,bitext,help to shop a bloody product
+678,can you help me to see the early termination charges?,Other,check_cancellation_fee,bitext,can you help me to see the early termination charges
+683,"Can you believe it, the sofa I ordered has a wheel or leg snapped off. Need a replacement, please.",Product Quality,generated,mistral,can you believe it the sofa i ordered has a wheel or leg snapped off need a replacement please
+689,modifying info on freemium account,Other,edit_account,bitext,modifying info on freemium account
+693,help me signing up to the corporate newsletter,Other,newsletter_subscription,bitext,help me signing up to the corporate newsletter
+694,"Just got some running trainers, colour different from photos.",Product Quality,generated,mistral,just got some running trainers colour different from photos
+700,I'm trying to find shpping period help me,Delivery,delivery_period,bitext,i m trying to find shpping period help me
+707,wanna reeive restitutions of my money,Refund,get_refund,bitext,wanna reeive restitutions of my money
+708,assistance checking when my article is going to arrive,Delivery,delivery_period,bitext,assistance checking when my article is going to arrive
+715,show me how long it takes for my parcel to arrive,Delivery,delivery_period,bitext,show me how long it takes for my parcel to arrive
+716,assistance to set up a secondary shipping address,Delivery,set_up_shipping_address,bitext,assistance to set up a secondary shipping address
+725,where can i order some of ur article,Other,place_order,bitext,where can i order some of ur article
+727,trouble setting up my secondarydelivery address,Delivery,set_up_shipping_address,bitext,trouble setting up my secondarydelivery address
+730,find information about  a PIN code reset,Other,recover_password,bitext,find information about a pin code reset
+745,"I have got to leave a review about your company, help me",Other,review,bitext,i have got to leave a review about your company help me
+748,rebating  245 pounds,Refund,get_refund,bitext,rebating pounds
+749,wanna look for bill #85632,Payment,check_invoice,bitext,wanna look for bill
+750,It's not happy making: the bookshelf feels flimsy. What's next?,Product Quality,generated,mistral,it s not happy making the bookshelf feels flimsy what s next
+755,wanna see the withdrawalcharge,Other,check_cancellation_fee,bitext,wanna see the withdrawalcharge
+766,I need support changing the delivery address,Delivery,change_shipping_address,bitext,i need support changing the delivery address
+767,I don't know how to see oder #139110 status,Delivery,track_order,bitext,i don t know how to see oder status
+784,not happy about order #480983 hair dryer keeps cutting out want my money back,Product Quality,generated,mistral,not happy about order hair dryer keeps cutting out want my money back
+787,can uhelp me cancelling the subscription to the newsletter,Other,newsletter_subscription,bitext,can uhelp me cancelling the subscription to the newsletter
+802,I don't know how I cansee my invoices from Priya,Payment,check_invoice,bitext,i don t know how i cansee my invoices from
+830,So the electric toothbrush I bought barely lasts on a single charge. Does the warranty cover this?,Product Quality,generated,mistral,so the electric toothbrush i bought barely lasts on a single charge does the warranty cover this
+837,I need assistnce seeing the termination penalty,Other,check_cancellation_fee,bitext,i need assistnce seeing the termination penalty
+840,i want help seeing the bill from Tom,Payment,check_invoice,bitext,i want help seeing the bill from
+841,mail me my bill from Sarah,Payment,get_invoice,bitext,mail me my bill from
+854,"Why is my bluetooth speaker not turning on, is it covered by warranty?",Product Quality,generated,mistral,why is my bluetooth speaker not turning on is it covered by warranty
+859,can I get my bills from Tom?,Payment,get_invoice,bitext,can i get my bills from
+862,how do I see order #421709 current status?,Delivery,track_order,bitext,how do i see order current status
+884,can you show me the current status of my refund?,Refund,track_refund,bitext,can you show me the current status of my refund
+892,I need help to report errors with a signup,Other,registration_problems,bitext,i need help to report errors with a signup
+896,could uhelp me requesting a rebate of money,Refund,get_refund,bitext,could uhelp me requesting a rebate of money
+897,shipping to the UK,Delivery,delivery_options,bitext,shipping to the
+905,where do I get the bills from Aisha?,Payment,get_invoice,bitext,where do i get the bills from
+908,I need help to check when my purchase is going to arive,Delivery,delivery_period,bitext,i need help to check when my purchase is going to arive
+927,know if there is anything new on my restitution,Refund,track_refund,bitext,know if there is anything new on my restitution
+931,assistance seeing in which cases can I ask for a refund,Refund,check_refund_policy,bitext,assistance seeing in which cases can i ask for a refund
+938,Not happy with the bookshelf as a wheel or leg has snapped. What should I do next?,Product Quality,generated,mistral,not happy with the bookshelf as a wheel or leg has snapped what should i do next
+947,I have  to notify of problems with a registration,Other,registration_problems,bitext,i have to notify of problems with a registration
+953,I have to see what shipping options you offer,Delivery,delivery_options,bitext,i have to see what shipping options you offer
+957,can uhelp me see ur alolwed payment modalities,Payment,check_payment_methods,bitext,can uhelp me see ur alolwed payment modalities
+960,where do I restore the password of my user profile?,Other,recover_password,bitext,where do i restore the password of my user profile
+963,need assistance modifying the shipping address,Delivery,change_shipping_address,bitext,need assistance modifying the shipping address
+968,will ya show me how long the shipping takes,Delivery,delivery_period,bitext,will ya show me how long the shipping takes
+971,i want assistance to receive my money back,Refund,get_refund,bitext,i want assistance to receive my money back
+972,error entering a goddamn different shipping address,Delivery,set_up_shipping_address,bitext,error entering a goddamn different shipping address
+980,how to request reimbursements of my money,Refund,get_refund,bitext,how to request reimbursements of my money
+987,will you give me information about correcting the address?,Delivery,change_shipping_address,bitext,will you give me information about correcting the address
+998,issues setting up another shipping address,Delivery,set_up_shipping_address,bitext,issues setting up another shipping address
+1030,"Not happy with the kettle, making a racket and not fit for purpose, want my money back.",Product Quality,generated,mistral,not happy with the kettle making a racket and not fit for purpose want my money back
+1034,I want assistance to check when will my purchase arrive,Delivery,delivery_period,bitext,i want assistance to check when will my purchase arrive
+1039,I want assistance seeing the withdrawal fee,Other,check_cancellation_fee,bitext,i want assistance seeing the withdrawal fee
+1048,I need help purchasing several of your product,Other,place_order,bitext,i need help purchasing several of your product
+1055,assistance to see the status of the rebate,Refund,track_refund,bitext,assistance to see the status of the rebate
+1062,help talking to customer assistance,Other,contact_customer_service,bitext,help talking to customer assistance
+1068,editing data on platinum account,Other,edit_account,bitext,editing data on platinum account
+1078,support submitting another delivery address,Delivery,set_up_shipping_address,bitext,support submitting another delivery address
+1081,where can I report problems with payments?,Payment,payment_issue,bitext,where can i report problems with payments
+1089,i need assistance using the platinum account,Other,switch_account,bitext,i need assistance using the platinum account
+1100,need to see in what situations can i ask to be refunded,Refund,check_refund_policy,bitext,need to see in what situations can i ask to be refunded
+1101,assistance checking purchase #946567 bloody current status,Delivery,track_order,bitext,assistance checking purchase bloody current status
+1110,i need help trying to change the address,Delivery,change_shipping_address,bitext,i need help trying to change the address
+1121,add an item to order #830180,Other,change_order,bitext,add an item to order
+1134,I don't know what to do to download thr invoice #00108,Payment,get_invoice,bitext,i don t know what to do to download thr invoice
+1136,I need to track my fucking compensation,Refund,track_refund,bitext,i need to track my fucking compensation
+1142,can I talk with a live agent?,Other,contact_human_agent,bitext,can i talk with a live agent
+1143,I have got to see in which situations can I ask for a refund,Refund,check_refund_policy,bitext,i have got to see in which situations can i ask for a refund
+1152,help to reset my user account ipn code,Other,recover_password,bitext,help to reset my user account ipn code
+1156,where to set up my new shipping address?,Delivery,set_up_shipping_address,bitext,where to set up my new shipping address
+1158,i need assistance to correct the shipping address,Delivery,change_shipping_address,bitext,i need assistance to correct the shipping address
+1165,y i cant set the delivery adress valid up,Delivery,set_up_shipping_address,bitext,y i cant set the delivery adress valid up
+1167,I try to see in what cases can I ask for reimbursements,Refund,check_refund_policy,bitext,i try to see in what cases can i ask for reimbursements
+1170,how do I chat with an operator?,Other,contact_human_agent,bitext,how do i chat with an operator
+1171,i try to unsubscribe to ur companu newsletter,Other,newsletter_subscription,bitext,i try to unsubscribe to ur companu newsletter
+1176,i have to list the available  payment options,Payment,check_payment_methods,bitext,i have to list the available payment options
+1180,I need help to ask for a compensation of my money,Refund,get_refund,bitext,i need help to ask for a compensation of my money
+1184,will ushow me what payment options are accepted,Payment,check_payment_methods,bitext,will ushow me what payment options are accepted
+1192,I want assistance to check the bill #85632,Payment,check_invoice,bitext,i want assistance to check the bill
+1194,i need help checking in what cases can i ask for refunds,Refund,check_refund_policy,bitext,i need help checking in what cases can i ask for refunds
+1199,I don't know how I can inform of issues with online payment,Payment,payment_issue,bitext,i don t know how i can inform of issues with online payment
+1202,want assistance to obtain a restitution of money,Refund,get_refund,bitext,want assistance to obtain a restitution of money
+1204,"So my running trainers sole is peeling off, want my money back.",Product Quality,generated,mistral,so my running trainers sole is peeling off want my money back
+1207,i do not know what i need to do to download the bill #37777,Payment,get_invoice,bitext,i do not know what i need to do to download the bill
+1208,assistance knowing if there are any news on my rebate,Refund,track_refund,bitext,assistance knowing if there are any news on my rebate
+1210,I'd like to  check what hours customer support available is,Other,contact_customer_service,bitext,i d like to check what hours customer support available is
+1233,how do I see if there are any updates on my compensation?,Refund,track_refund,bitext,how do i see if there are any updates on my compensation
+1238,"I have got to reset my profile access key, can you help me?",Other,recover_password,bitext,i have got to reset my profile access key can you help me
+1245,can you show me how soon can I expect my purchase?,Delivery,delivery_period,bitext,can you show me how soon can i expect my purchase
+1247,I do not know how to report problems with registrations,Other,registration_problems,bitext,i do not know how to report problems with registrations
+1252,help me check ur available payment modalities,Payment,check_payment_methods,bitext,help me check ur available payment modalities
+1254,"I have submitted a wrong shippingh address, update it",Delivery,change_shipping_address,bitext,i have submitted a wrong shippingh address update it
+1272,my dress does not fit as per the size guide provided.,Product Quality,generated,mistral,my dress does not fit as per the size guide provided
+1278,where do i get the bills from James,Payment,get_invoice,bitext,where do i get the bills from
+1279,remove platinum accoint,Other,delete_account,bitext,remove platinum accoint
+1293,wanna track purchase #160144,Delivery,track_order,bitext,wanna track purchase
+1295,help  with a delivery address correction,Delivery,change_shipping_address,bitext,help with a delivery address correction
+1297,I don't know how I can update my address,Delivery,change_shipping_address,bitext,i don t know how i can update my address
+1311,wanna see ur money back poolicy how do i do it,Refund,check_refund_policy,bitext,wanna see ur money back poolicy how do i do it
+1322,i want help trying  to correct my delivery address,Delivery,change_shipping_address,bitext,i want help trying to correct my delivery address
+1324,where can I set up the secondary delivery address?,Delivery,set_up_shipping_address,bitext,where can i set up the secondary delivery address
+1331,what do i need to do to correct my shippign address,Delivery,change_shipping_address,bitext,what do i need to do to correct my shippign address
+1333,could you help me see my compensation current status?,Refund,track_refund,bitext,could you help me see my compensation current status
+1342,i need assistance to buy some articles,Other,place_order,bitext,i need assistance to buy some articles
+1349,Just purchased a jumper and the stitching is coming apart already. Order number #779259.,Product Quality,generated,mistral,just purchased a jumper and the stitching is coming apart already order number
+1353,"So the dress i bought has stitching issues, what do I do next?",Product Quality,generated,mistral,so the dress i bought has stitching issues what do i do next
+1356,Why is the zip broke on the item used for running? I'd like a refund please.,Product Quality,generated,mistral,why is the zip broke on the item used for running i d like a refund please
+1368,i have to change my personal data can ya help me,Other,edit_account,bitext,i have to change my personal data can ya help me
+1375,how do i see what options for delivery are available,Delivery,delivery_options,bitext,how do i see what options for delivery are available
+1380,assistance to see your money back guarantee,Refund,check_refund_policy,bitext,assistance to see your money back guarantee
+1395,send me bills from Tom,Payment,get_invoice,bitext,send me bills from
+1409,I have got to request a refund,Refund,get_refund,bitext,i have got to request a refund
+1411,can ya ehlp me giving a quick look at invoice #37777,Payment,check_invoice,bitext,can ya ehlp me giving a quick look at invoice
+1413,give me information about changing my address,Delivery,change_shipping_address,bitext,give me information about changing my address
+1419,I want help checking the methods for shipping,Delivery,delivery_options,bitext,i want help checking the methods for shipping
+1421,I try to submit the secondary delivery address,Delivery,set_up_shipping_address,bitext,i try to submit the secondary delivery address
+1424,wanna see purchase #377511 status i need assistance,Delivery,track_order,bitext,wanna see purchase status i need assistance
+1451,assistance to speak with bloody customer support,Other,contact_customer_service,bitext,assistance to speak with bloody customer support
+1452,I want assistance getting invoice #85632,Payment,get_invoice,bitext,i want assistance getting invoice
+1456,help me see in what cases can I ask for my money back,Refund,check_refund_policy,bitext,help me see in what cases can i ask for my money back
+1463,how do I look for the fucking invoices from James?,Payment,check_invoice,bitext,how do i look for the fucking invoices from
+1465,I have rpoblems setting the new delivery address up,Delivery,set_up_shipping_address,bitext,i have rpoblems setting the new delivery address up
+1471,want help to see in which situations can I ask for refunds,Refund,check_refund_policy,bitext,want help to see in which situations can i ask for refunds
+1472,how can I look for the invoice #85632?,Payment,check_invoice,bitext,how can i look for the invoice
+1486,see in which cases can I request a reimbursement,Refund,check_refund_policy,bitext,see in which cases can i request a reimbursement
+1501,can you show me the status of order #354235?,Delivery,track_order,bitext,can you show me the status of order
+1514,i try to restore the pwd of my user profile,Other,recover_password,bitext,i try to restore the pwd of my user profile
+1515,how do i set the secondary shipping address up,Delivery,set_up_shipping_address,bitext,how do i set the secondary shipping address up
+1538,I need help to see what payment methods are accepted,Payment,check_payment_methods,bitext,i need help to see what payment methods are accepted
+1552,is it possible to place a order from the UK?,Delivery,delivery_options,bitext,is it possible to place a order from the
+1558,will you show me how soon canh I expect my parcel?,Delivery,delivery_period,bitext,will you show me how soon canh i expect my parcel
+1561,problems with a delivery address update,Delivery,change_shipping_address,bitext,problems with a delivery address update
+1569,I don't know what I need to do to see the shipping methods,Delivery,delivery_options,bitext,i don t know what i need to do to see the shipping methods
+1576,I have to submit my new shipping address,Delivery,set_up_shipping_address,bitext,i have to submit my new shipping address
+1578,when will I receive ordered #446337 ?,Delivery,track_order,bitext,when will i receive ordered
+1579,check order #800280 status,Delivery,track_order,bitext,check order status
+1584,I try to see the ETA of the purchase #205065,Delivery,track_order,bitext,i try to see the eta of the purchase
+1594,I want to check how long it takes for the order to arrive,Delivery,delivery_period,bitext,i want to check how long it takes for the order to arrive
+1597,find my bills from Priya,Payment,check_invoice,bitext,find my bills from
+1599,how to get a rebate of money?,Refund,get_refund,bitext,how to get a rebate of money
+1627,can you help me to close my account category account?,Other,delete_account,bitext,can you help me to close my account category account
+1629,i have to check in which cases can i ask for a refund,Refund,check_refund_policy,bitext,i have to check in which cases can i ask for a refund
+1634,help to see the invoice #12588,Payment,check_invoice,bitext,help to see the invoice
+1641,I've been using this (hair dryer) for a while now and it keeps overheating. Angry.,Product Quality,generated,mistral,i ve been using this hair dryer for a while now and it keeps overheating angry
+1649,"I've just washed my new jumper for the first time and it's already bobbled. Gutted about this. Need a replacement, please.",Product Quality,generated,mistral,i ve just washed my new jumper for the first time and it s already bobbled gutted about this need a replacement please
+1658,change to the gold account,Other,switch_account,bitext,change to the gold account
+1665,help me to set my new shipping address up,Delivery,set_up_shipping_address,bitext,help me to set my new shipping address up
+1678,i want assistance to track purchase #498658,Delivery,track_order,bitext,i want assistance to track purchase
+1680,I have a proble with canceling purchase #314181,Other,cancel_order,bitext,i have a proble with canceling purchase
+1681,could you help me demanding rebates of mony?,Refund,get_refund,bitext,could you help me demanding rebates of mony
+1702,I want helpchecking what hours I can call customer service,Other,contact_customer_service,bitext,i want helpchecking what hours i can call customer service
+1711,My order #938759 has a missing part in the sofa. Need a replacement please.,Product Quality,generated,mistral,my order has a missing part in the sofa need a replacement please
+1727,there is a problem submitting the fucking shipping address,Delivery,set_up_shipping_address,bitext,there is a problem submitting the fucking shipping address
+1728,help seeing when will my package arrive,Delivery,delivery_period,bitext,help seeing when will my package arrive
+1742,I have got to look for my bill #00108,Payment,check_invoice,bitext,i have got to look for my bill
+1744,I need assistance seeing what payment options are allowed,Payment,check_payment_methods,bitext,i need assistance seeing what payment options are allowed
+1747,"Can't seem to get my smartwatch to work, it's supposed to keep track of my morning runs and I've got a marathon coming up. Could I please have a refund?",Product Quality,generated,mistral,can t seem to get my smartwatch to work it s supposed to keep track of my morning runs and i ve got a marathon coming up could i please have a refund
+1749,I need help demanding an reimbursement,Refund,get_refund,bitext,i need help demanding an reimbursement
+1752,"I need to see in what cases can I request a refund, help me",Refund,check_refund_policy,bitext,i need to see in what cases can i request a refund help me
+1780,help me solving troubles with payments,Payment,payment_issue,bitext,help me solving troubles with payments
+1781,i want assistance to see the eta of the ordder #901535,Delivery,track_order,bitext,i want assistance to see the eta of the ordder
+1783,how to see order #785436 status?,Delivery,track_order,bitext,how to see order status
+1806,I want help to get compensations,Refund,get_refund,bitext,i want help to get compensations
+1826,I want assistance downloading the invoice from Tom,Payment,get_invoice,bitext,i want assistance downloading the invoice from
+1827,I want assistance to see how soon can I expect the parcel,Delivery,delivery_period,bitext,i want assistance to see how soon can i expect the parcel
+1831,what do i have to do to check how  long the shipment takes,Delivery,delivery_period,bitext,what do i have to do to check how long the shipment takes
+1840,I need to see if there are any updates on the rebate,Refund,track_refund,bitext,i need to see if there are any updates on the rebate
+1850,how can I demand a compensation?,Refund,get_refund,bitext,how can i demand a compensation
+1859,how to see the allowed payment methods,Payment,check_payment_methods,bitext,how to see the allowed payment methods
+1872,"I have got to see what shipping methods are there, help me",Delivery,delivery_options,bitext,i have got to see what shipping methods are there help me
+1878,want help to check in what situations can i ask for refunds,Refund,check_refund_policy,bitext,want help to check in what situations can i ask for refunds
+1895,assistance to demand reimbursements,Refund,get_refund,bitext,assistance to demand reimbursements
+1897,there are problems correcting my address,Delivery,change_shipping_address,bitext,there are problems correcting my address
+1898,i do not know how i can see my invoice #12588,Payment,check_invoice,bitext,i do not know how i can see my invoice
+1899,want assistance changing to the pro account,Other,switch_account,bitext,want assistance changing to the pro account
+1900,"I want to see how soon can I expect the order, how to do it?",Delivery,delivery_period,bitext,i want to see how soon can i expect the order how to do it
+1910,how to use the standard account,Other,switch_account,bitext,how to use the standard account
+1913,how do I check the invoice #37777?,Payment,check_invoice,bitext,how do i check the invoice
+1928,Why is the sole peeling off on it? My running trainers don't seem to last. Does the warranty cover this?,Product Quality,generated,mistral,why is the sole peeling off on it my running trainers don t seem to last does the warranty cover this
+1947,is it possible to download the damn invoice from Priya?,Payment,get_invoice,bitext,is it possible to download the damn invoice from
+1962,can I see the accepted payment modalities?,Payment,check_payment_methods,bitext,can i see the accepted payment modalities
+1970,The jumper I ordered doesn't fit the size guide. Just letting you know,Product Quality,generated,mistral,the jumper i ordered doesn t fit the size guide just letting you know
+1974,i do not know how to unsubscribe from the company newsletter,Other,newsletter_subscription,bitext,i do not know how to unsubscribe from the company newsletter
+1982,talking to live agent,Other,contact_human_agent,bitext,talking to live agent
+1986,question about the rermoval of a account category account,Other,delete_account,bitext,question about the rermoval of a account category account
+1990,assistance changing the delivery address,Delivery,change_shipping_address,bitext,assistance changing the delivery address
+1993,assiustance tracking purchase #857997,Delivery,track_order,bitext,assiustance tracking purchase
+1995,earn several  products,Other,place_order,bitext,earn several products
+2020,check in what cases can I request to be reimbursed,Refund,check_refund_policy,bitext,check in what cases can i request to be reimbursed
+2031,I need to see how soon can I expect my shipment,Delivery,delivery_period,bitext,i need to see how soon can i expect my shipment
+2035,i need assistance to add something to order #185131,Other,change_order,bitext,i need assistance to add something to order
+2036,"I have to see when my item is going to arrive, help me",Delivery,delivery_period,bitext,i have to see when my item is going to arrive help me
+2050,"Can't believe it's coming apart already, need a replacement for the item.",Product Quality,generated,mistral,can t believe it s coming apart already need a replacement for the item
+2061,help me seeing the payment modalities,Payment,check_payment_methods,bitext,help me seeing the payment modalities
+2063,I need help seeing how long reimbursements usually take,Refund,check_refund_policy,bitext,i need help seeing how long reimbursements usually take
+2065,can uhelp me resetting the password of my user profile,Other,recover_password,bitext,can uhelp me resetting the password of my user profile
+2069,remove gold account,Other,delete_account,bitext,remove gold account
+2071,where can i list ur accepted payment methods,Payment,check_payment_methods,bitext,where can i list ur accepted payment methods
+2072,assistance canceling the newsletter subscription,Other,newsletter_subscription,bitext,assistance canceling the newsletter subscription
+2074,help me seeing if there are any updates on the reimbursement,Refund,track_refund,bitext,help me seeing if there are any updates on the reimbursement
+2075,how to reset my user account key?,Other,recover_password,bitext,how to reset my user account key
+2087,could I check if there are any updates on my goddamn rebate?,Refund,track_refund,bitext,could i check if there are any updates on my goddamn rebate
+2096,I have got to make an order,Other,place_order,bitext,i have got to make an order
+2098,what do i have todo to find invoice #37777,Payment,check_invoice,bitext,what do i have todo to find invoice
+2100,The frying pan feels cheap and flimsy. Need a repair please.,Product Quality,generated,mistral,the frying pan feels cheap and flimsy need a repair please
+2101,is it possible to see the termination fees,Other,check_cancellation_fee,bitext,is it possible to see the termination fees
+2104,why I can't enter the secondary delivery address valid,Delivery,set_up_shipping_address,bitext,why i can t enter the secondary delivery address valid
+2116,i do nmot know what to do to change my delivery address,Delivery,change_shipping_address,bitext,i do nmot know what to do to change my delivery address
+2123,errors entering my new shipping address,Delivery,set_up_shipping_address,bitext,errors entering my new shipping address
+2124,i don know what to do to buy some of ur product,Other,place_order,bitext,i don know what to do to buy some of ur product
+2131,how soon can I expect my order?,Delivery,delivery_period,bitext,how soon can i expect my order
+2137,what do I have to do to report errors with a registration?,Other,registration_problems,bitext,what do i have to do to report errors with a registration
+2150,issues setting my secondary shipping address up,Delivery,set_up_shipping_address,bitext,issues setting my secondary shipping address up
+2157,were can i see the allowed payment modalities,Payment,check_payment_methods,bitext,were can i see the allowed payment modalities
+2174,"I am looking for the methods for shipment, I need help",Delivery,delivery_options,bitext,i am looking for the methods for shipment i need help
+2178,I'm waiting for a bloody compensation of £218,Refund,track_refund,bitext,i m waiting for a bloody compensation of
+2208,"I expect a compensation of 129 pounds, was it processed",Refund,track_refund,bitext,i expect a compensation of pounds was it processed
+2209,I want assistance to inform of an issue with a signup,Other,registration_problems,bitext,i want assistance to inform of an issue with a signup
+2221,I don't know what I need to do to earn aa product,Other,place_order,bitext,i don t know what i need to do to earn aa product
+2223,can ya help me to switch to the account type account,Other,switch_account,bitext,can ya help me to switch to the account type account
+2224,"I want to locate the invoice #85632, I need assistance",Payment,check_invoice,bitext,i want to locate the invoice i need assistance
+2232,"I paid £239 for this product, how doI get a rebate?",Refund,get_refund,bitext,i paid for this product how doi get a rebate
+2241,"The frying pan arrived scratched, very disappointed",Product Quality,generated,mistral,the frying pan arrived scratched very disappointed
+2251,can uhelp me seeing the options for shipment,Delivery,delivery_options,bitext,can uhelp me seeing the options for shipment
+2253,"I would like to check your money back guarantee, help me",Refund,check_refund_policy,bitext,i would like to check your money back guarantee help me
+2256,ordered office chair arrived scratched what should i do,Product Quality,generated,mistral,ordered office chair arrived scratched what should i do
+2268,I have got to set up a delivery address,Delivery,set_up_shipping_address,bitext,i have got to set up a delivery address
+2270,check accepted payment methoxs,Payment,check_payment_methods,bitext,check accepted payment methoxs
+2276,i cant see the eta of purchase #512042,Delivery,track_order,bitext,i cant see the eta of purchase
+2284,I want to check what shipment methods you offer,Delivery,delivery_options,bitext,i want to check what shipment methods you offer
+2287,"Hello, the book case I bought from you has a part missing, what do I do next?",Product Quality,generated,mistral,hello the book case i bought from you has a part missing what do i do next
+2297,can you help me check what shipment methods are there?,Delivery,delivery_options,bitext,can you help me check what shipment methods are there
+2298,I want help to set a delivery address up,Delivery,set_up_shipping_address,bitext,i want help to set a delivery address up
+2315,can uhelp me to see in which cases can i ask to be refunded,Refund,check_refund_policy,bitext,can uhelp me to see in which cases can i ask to be refunded
+2335,help me notify of errors with online payment,Payment,payment_issue,bitext,help me notify of errors with online payment
+2341,assistance unsubscribing from your company newsletter,Other,newsletter_subscription,bitext,assistance unsubscribing from your company newsletter
+2349,"I have to see how soon can I expect the delivery, help me",Delivery,delivery_period,bitext,i have to see how soon can i expect the delivery help me
+2356,I want help to check your accepted payment options,Payment,check_payment_methods,bitext,i want help to check your accepted payment options
+2360,help seeing in which situations can I request refunds,Refund,check_refund_policy,bitext,help seeing in which situations can i request refunds
+2371,i cannot create a platinum account,Other,create_account,bitext,i cannot create a platinum account
+2378,I want help to shop several products,Other,place_order,bitext,i want help to shop several products
+2381,seed under which circumstances can I ask for a refund,Refund,check_refund_policy,bitext,seed under which circumstances can i ask for a refund
+2387,problem setting up a secondary delivery address,Delivery,set_up_shipping_address,bitext,problem setting up a secondary delivery address
+2391,need assistance to cancel orer #185965,Other,cancel_order,bitext,need assistance to cancel orer
+2392,"my shipping address has changed, I want to edit it",Delivery,change_shipping_address,bitext,my shipping address has changed i want to edit it
+2395,i want help to edit order #359295,Other,change_order,bitext,i want help to edit order
+2397,help seeing in which cases can I request to be refunded,Refund,check_refund_policy,bitext,help seeing in which cases can i request to be refunded
+2405,where can I find information about shipping periods?,Delivery,delivery_period,bitext,where can i find information about shipping periods
+2409,help me opening a new goddamn account type acconut,Other,create_account,bitext,help me opening a new goddamn account type acconut
+2413,help me to see in what cases can i request a reimbursement,Refund,check_refund_policy,bitext,help me to see in what cases can i request a reimbursement
+2416,i have to reset my pwd can ya hepl me,Other,recover_password,bitext,i have to reset my pwd can ya hepl me
+2417,"my address has changed, how could I change it?",Delivery,change_shipping_address,bitext,my address has changed how could i change it
+2425,I need help to check the current status of my refund,Refund,track_refund,bitext,i need help to check the current status of my refund
+2436,where to edit my shipping address?,Delivery,change_shipping_address,bitext,where to edit my shipping address
+2447,Why is it that my jeans' sole is peeling off? What can be done to rectify this?,Product Quality,generated,mistral,why is it that my jeans sole is peeling off what can be done to rectify this
+2453,I need assistance to check when will my product arrive,Delivery,delivery_period,bitext,i need assistance to check when will my product arrive
+2458,need assistance to sign up to the newsletter,Other,newsletter_subscription,bitext,need assistance to sign up to the newsletter
+2459,i need help demanding restitutions of money,Refund,get_refund,bitext,i need help demanding restitutions of money
+2460,updating information on premium account,Other,edit_account,bitext,updating information on premium account
+2463,help deiting the address,Delivery,change_shipping_address,bitext,help deiting the address
+2468,I have troubles trying to update the address,Delivery,change_shipping_address,bitext,i have troubles trying to update the address
+2471,help me sde how soon can i expect my item,Delivery,delivery_period,bitext,help me sde how soon can i expect my item
+2480,check status of refund,Refund,track_refund,bitext,check status of refund
+2483,I'm trying to see purchase #600641 current status,Delivery,track_order,bitext,i m trying to see purchase current status
+2493,I cannot update purchase #424308,Other,change_order,bitext,i cannot update purchase
+2495,I have got to see purchase #913864 current status,Delivery,track_order,bitext,i have got to see purchase current status
+2499,can I place an order from the UK?,Delivery,delivery_options,bitext,can i place an order from the
+2508,how can i see the status of purchase #329772,Delivery,track_order,bitext,how can i see the status of purchase
+2512,I don't know what to do to switch to the account type account,Other,switch_account,bitext,i don t know what to do to switch to the account type account
+2515,i want help looking for my bills from Tom,Payment,check_invoice,bitext,i want help looking for my bills from
+2519,howcan i receive a reimbursement,Refund,get_refund,bitext,howcan i receive a reimbursement
+2526,updating freemium accojnt,Other,edit_account,bitext,updating freemium accojnt
+2527,I want assistance checking what delivery methods I have,Delivery,delivery_options,bitext,i want assistance checking what delivery methods i have
+2531,"Not happy that one of the legs or wheels on my sofa has snapped, need a replacement.",Product Quality,generated,mistral,not happy that one of the legs or wheels on my sofa has snapped need a replacement
+2538,where do I correct my address?,Delivery,change_shipping_address,bitext,where do i correct my address
+2546,can you help me to check order #720556 status?,Delivery,track_order,bitext,can you help me to check order status
+2547,help me check what delivery options I have,Delivery,delivery_options,bitext,help me check what delivery options i have
+2555,i try to niform of issues with a signup,Other,registration_problems,bitext,i try to niform of issues with a signup
+2556,I don't know how to speak with a fucking assistant,Other,contact_human_agent,bitext,i don t know how to speak with a fucking assistant
+2565,is it possible to check how soon can I expect the package?,Delivery,delivery_period,bitext,is it possible to check how soon can i expect the package
+2577,assistance canceling purchase #543143,Other,cancel_order,bitext,assistance canceling purchase
+2580,need assistance modifying the delivery address,Delivery,change_shipping_address,bitext,need assistance modifying the delivery address
+2589,is it plssible to locate my invoice from Sarah,Payment,check_invoice,bitext,is it plssible to locate my invoice from
+2592,i try to get the invoice from James,Payment,get_invoice,bitext,i try to get the invoice from
+2594,I'm waiting for a reimbursement of 1499dollars,Refund,track_refund,bitext,i m waiting for a reimbursement of dollars
+2607,i dont know how to set a different shipping address up,Delivery,set_up_shipping_address,bitext,i dont know how to set a different shipping address up
+2613,there is a trouble entering a secondary shipping addres,Delivery,set_up_shipping_address,bitext,there is a trouble entering a secondary shipping addres
+2615,help me seeing in which cases can I request to be reimbursed,Refund,check_refund_policy,bitext,help me seeing in which cases can i request to be reimbursed
+2616,i dont know what i havr to do to download the invoice #00108,Payment,get_invoice,bitext,i dont know what i havr to do to download the invoice
+2628,I want to check when will my product arrive,Delivery,delivery_period,bitext,i want to check when will my product arrive
+2633,what do i need to do to check the payment methods,Payment,check_payment_methods,bitext,what do i need to do to check the payment methods
+2636,I need assistance receiving compensations of my money,Refund,get_refund,bitext,i need assistance receiving compensations of my money
+2642,i need assitance to find my bloody bill from Aisha,Payment,check_invoice,bitext,i need assitance to find my bloody bill from
+2645,where could I see the early exit penalties?,Other,check_cancellation_fee,bitext,where could i see the early exit penalties
+2653,can i set a shipping address up,Delivery,set_up_shipping_address,bitext,can i set a shipping address up
+2656,I need help checking in what cases can I request refunds,Refund,check_refund_policy,bitext,i need help checking in what cases can i request refunds
+2659,"Ordered blender keep overheating, what to do next",Product Quality,generated,mistral,ordered blender keep overheating what to do next
+2664,would it be possibl to place a goddamn order from the UK?,Delivery,delivery_options,bitext,would it be possibl to place a goddamn order from the
+2673,I don't know how to check my restitution status,Refund,track_refund,bitext,i don t know how to check my restitution status
+2687,"I would like to track the reimbursement, how could I do it?",Refund,track_refund,bitext,i would like to track the reimbursement how could i do it
+2694,i need help seeing the withdrawal fee,Other,check_cancellation_fee,bitext,i need help seeing the withdrawal fee
+2705,help me see in what cases can I reuest my money back,Refund,check_refund_policy,bitext,help me see in what cases can i reuest my money back
+2715,i try to check the termination epnalties,Other,check_cancellation_fee,bitext,i try to check the termination epnalties
+2748,is it possible to see what shipping options I have?,Delivery,delivery_options,bitext,is it possible to see what shipping options i have
+2749,I do not know how I can obtain refunds of money,Refund,get_refund,bitext,i do not know how i can obtain refunds of money
+2757,how do i notify of a problem with online payments,Payment,payment_issue,bitext,how do i notify of a problem with online payments
+2764,help me creating a account category account for my daughter,Other,create_account,bitext,help me creating a account category account for my daughter
+2767,where to enter another delivery address?,Delivery,set_up_shipping_address,bitext,where to enter another delivery address
+2773,i cannot make payments help to report an error,Payment,payment_issue,bitext,i cannot make payments help to report an error
+2778,help seeing your reimbursement policy,Refund,check_refund_policy,bitext,help seeing your reimbursement policy
+2784,help me see under what circumstances can I request a refund,Refund,check_refund_policy,bitext,help me see under what circumstances can i request a refund
+2787,I want help to see the status of purchase #260891,Delivery,track_order,bitext,i want help to see the status of purchase
+2788,Not happy with the dress I received. The stitching is coming apart. I was hoping to wear it for a special occasion next week. Can you help me find a solution?,Product Quality,generated,mistral,not happy with the dress i received the stitching is coming apart i was hoping to wear it for a special occasion next week can you help me find a solution
+2790,how to check what delivery methods I have?,Delivery,delivery_options,bitext,how to check what delivery methods i have
+2801,how to cancel order #837715?,Other,cancel_order,bitext,how to cancel order
+2817,can you tell me about a shipping address update?,Delivery,change_shipping_address,bitext,can you tell me about a shipping address update
+2832,need help checking how soon can I expect my item,Delivery,delivery_period,bitext,need help checking how soon can i expect my item
+2835,problems submitting a delivery address,Delivery,set_up_shipping_address,bitext,problems submitting a delivery address
+2839,is it possible to report issues with signup?,Other,registration_problems,bitext,is it possible to report issues with signup
+2842,where do I locate my invoice #12588?,Payment,check_invoice,bitext,where do i locate my invoice
+2843,need help to see in what cases can I ask for refunds,Refund,check_refund_policy,bitext,need help to see in what cases can i ask for refunds
+2857,what do I have to do to switch to the freemium account?,Other,switch_account,bitext,what do i have to do to switch to the freemium account
+2888,checkmy invoice #37777,Payment,check_invoice,bitext,checkmy invoice
+2896,i dont know what to do to canfel my account type account,Other,delete_account,bitext,i dont know what to do to canfel my account type account
+2901,i do not know how to set up the deliivery address,Delivery,set_up_shipping_address,bitext,i do not know how to set up the deliivery address
+2902,i have problems setting up my delivery address,Delivery,set_up_shipping_address,bitext,i have problems setting up my delivery address
+2920,"Just order number #213349, the electric toothbrush smells like it's burning. I need a replacement.",Product Quality,generated,mistral,just order number the electric toothbrush smells like it s burning i need a replacement
+2937,help me report problems with online payment,Payment,payment_issue,bitext,help me report problems with online payment
+2946,help me to see what shipping options I have,Delivery,delivery_options,bitext,help me to see what shipping options i have
+2953,modify information on account type acfount,Other,edit_account,bitext,modify information on account type acfount
+2963,i have to request a rebate of my money,Refund,get_refund,bitext,i have to request a rebate of my money
+2968,I want help to check what shipping methods are available,Delivery,delivery_options,bitext,i want help to check what shipping methods are available
+2971,"I have got to inform of problems with registrations, help me",Other,registration_problems,bitext,i have got to inform of problems with registrations help me
+2975,wanna add an article to order 370795561790will uhelp me,Other,change_order,bitext,wanna add an article to order will uhelp me
+2985,"I want to see when will my product arrive, how can I do it?",Delivery,delivery_period,bitext,i want to see when will my product arrive how can i do it
+2987,I don't know what I need to do to buy some of your article,Other,place_order,bitext,i don t know what i need to do to buy some of your article
+2990,I have to report issuse with a sign-up,Other,registration_problems,bitext,i have to report issuse with a sign up
+2991,where do i check the status of purchase #844007,Delivery,track_order,bitext,where do i check the status of purchase
+2999,help to check in which cases can I ask for refunds,Refund,check_refund_policy,bitext,help to check in which cases can i ask for refunds
+3002,where do I cancel my corporate newsletter subscription?,Other,newsletter_subscription,bitext,where do i cancel my corporate newsletter subscription
+3003,can you show me how soon can I expect my parcel?,Delivery,delivery_period,bitext,can you show me how soon can i expect my parcel
+3006,i expect a compensqtion of 247 pounds,Refund,track_refund,bitext,i expect a compensqtion of pounds
+3009,I do not know how to check the status of order #571778,Delivery,track_order,bitext,i do not know how to check the status of order
+3051,Can I please arrange a replacement for the wireless headphones (#542306) that aren't turning on?,Product Quality,generated,mistral,can i please arrange a replacement for the wireless headphones that aren t turning on
+3056,I don't know how to see when my delivery is going to arrive,Delivery,delivery_period,bitext,i don t know how to see when my delivery is going to arrive
+3057,I do not know what I have to do to cal customer service,Other,contact_customer_service,bitext,i do not know what i have to do to cal customer service
+3061,need assistance seeing order #856157 current status,Delivery,track_order,bitext,need assistance seeing order current status
+3071,i expect a restitution of £101 has it been prcoessed,Refund,track_refund,bitext,i expect a restitution of has it been prcoessed
+3084,I want help to ask for a reimbursement of my money,Refund,get_refund,bitext,i want help to ask for a reimbursement of my money
+3088,need help seeing in what situations can i ask to be refunded,Refund,check_refund_policy,bitext,need help seeing in what situations can i ask to be refunded
+3098,can you help me seeing in what cases can I request refunds?,Refund,check_refund_policy,bitext,can you help me seeing in what cases can i request refunds
+3103,I need help to check the current status of order #843167,Delivery,track_order,bitext,i need help to check the current status of order
+3107,I have to see in which cases can I request a refund,Refund,check_refund_policy,bitext,i have to see in which cases can i request a refund
+3111,there is an issue entering my secondary delivery address,Delivery,set_up_shipping_address,bitext,there is an issue entering my secondary delivery address
+3121,i dont know what to do to switch to the  freemium account,Other,switch_account,bitext,i dont know what to do to switch to the freemium account
+3125,i try to see the statuis of purchase #667451,Delivery,track_order,bitext,i try to see the statuis of purchase
+3135,I'm trying to list the available payment modalities,Payment,check_payment_methods,bitext,i m trying to list the available payment modalities
+3136,is it possibpe to check how long refunds take,Refund,check_refund_policy,bitext,is it possibpe to check how long refunds take
+3148,can you help me retrieving my user profile password?,Other,recover_password,bitext,can you help me retrieving my user profile password
+3162,i need help to cancel my corporate newsletter subscription,Other,newsletter_subscription,bitext,i need help to cancel my corporate newsletter subscription
+3166,check estimated time of arrival of order #989587,Delivery,track_order,bitext,check estimated time of arrival of order
+3168,wznt help to switch to the bloody freemium account,Other,switch_account,bitext,wznt help to switch to the bloody freemium account
+3169,help seeing the methods for delivery,Delivery,delivery_options,bitext,help seeing the methods for delivery
+3170,I want to see at what time customer service available is,Other,contact_customer_service,bitext,i want to see at what time customer service available is
+3171,I want assistsnce seeing the withdrawal penalty,Other,check_cancellation_fee,bitext,i want assistsnce seeing the withdrawal penalty
+3188,i have an error editing my delivery address,Delivery,change_shipping_address,bitext,i have an error editing my delivery address
+3189,how to see if there are any updates on the refund?,Refund,track_refund,bitext,how to see if there are any updates on the refund
+3203,I want help seeing the available payment options,Payment,check_payment_methods,bitext,i want help seeing the available payment options
+3206,"I purchased some items, help me cancel order #976638",Other,cancel_order,bitext,i purchased some items help me cancel order
+3207,"I have got to see the allowed payment modalities, help me",Payment,check_payment_methods,bitext,i have got to see the allowed payment modalities help me
+3209,i have got to see the accepted payment options,Payment,check_payment_methods,bitext,i have got to see the accepted payment options
+3220,i have to reset my user account pwd how cn i do it,Other,recover_password,bitext,i have to reset my user account pwd how cn i do it
+3223,I need help to see what methods for delivery you offer,Delivery,delivery_options,bitext,i need help to see what methods for delivery you offer
+3228,"I would like to see the payment methods, will you help me?",Payment,check_payment_methods,bitext,i would like to see the payment methods will you help me
+3229,assistance removing something from purchase #582071,Other,change_order,bitext,assistance removing something from purchase
+3233,I have got to obtain a reimbursement,Refund,get_refund,bitext,i have got to obtain a reimbursement
+3247,I call to check when will my product arrive,Delivery,delivery_period,bitext,i call to check when will my product arrive
+3250,where to see how soon can I expect the fucking article?,Delivery,delivery_period,bitext,where to see how soon can i expect the fucking article
+3258,I need assistance submitting my secondary delivery address,Delivery,set_up_shipping_address,bitext,i need assistance submitting my secondary delivery address
+3271,do you have a method to send an opinion for a product?,Other,review,bitext,do you have a method to send an opinion for a product
+3280,where can I report sign-up problems?,Other,registration_problems,bitext,where can i report sign up problems
+3281,assistance to inform of a damn payment issue,Payment,payment_issue,bitext,assistance to inform of a damn payment issue
+3285,"Hello, a wheel or leg snapped on the sofa I purchased, I'd like my money back",Product Quality,generated,mistral,hello a wheel or leg snapped on the sofa i purchased i d like my money back
+3295,help me to check how long reimbursements usuaoly take,Refund,check_refund_policy,bitext,help me to check how long reimbursements usuaoly take
+3301,"not happy, suitcase missing a part, just thought you'd like to know",Product Quality,generated,mistral,not happy suitcase missing a part just thought you d like to know
+3306,why I cannot enter the delivery address valid,Delivery,set_up_shipping_address,bitext,why i cannot enter the delivery address valid
+3312,I don't know what to do to change to the account category account,Other,switch_account,bitext,i don t know what to do to change to the account category account
+3317,i want assistance seeing when my shipment is gonna arrive,Delivery,delivery_period,bitext,i want assistance seeing when my shipment is gonna arrive
+3320,i want information about correcting the shiping address,Delivery,change_shipping_address,bitext,i want information about correcting the shiping address
+3324,could utell me about the shipping periods,Delivery,delivery_period,bitext,could utell me about the shipping periods
+3328,need to trafk order #663628 help me,Delivery,track_order,bitext,need to trafk order help me
+3330,help me to request a restitution of money,Refund,get_refund,bitext,help me to request a restitution of money
+3332,I can't update my address,Delivery,change_shipping_address,bitext,i can t update my address
+3345,what do I have to do to get the bill #12588?,Payment,get_invoice,bitext,what do i have to do to get the bill
+3351,"my sofa has a part missing, really not happy about it",Product Quality,generated,mistral,my sofa has a part missing really not happy about it
+3352,where to check how soon can I expect the shipment?,Delivery,delivery_period,bitext,where to check how soon can i expect the shipment
+3353,I received the sofa but it doesn't look anything like the website photos. Need a replacement.,Product Quality,generated,mistral,i received the sofa but it doesn t look anything like the website photos need a replacement
+3358,I don't know how to chat with a human agent,Other,contact_human_agent,bitext,i don t know how to chat with a human agent
+3361,where can I find information about an address update?,Delivery,change_shipping_address,bitext,where can i find information about an address update
+3392,help me retrieve the key of my account,Other,recover_password,bitext,help me retrieve the key of my account
+3396,"I have to see the payment modalities, can you help me?",Payment,check_payment_methods,bitext,i have to see the payment modalities can you help me
+3408,I need assistance speaking to an assistant,Other,contact_human_agent,bitext,i need assistance speaking to an assistant
+3409,locating purchase #393308,Delivery,track_order,bitext,locating purchase
+3414,need to check ur allowed payment methods,Payment,check_payment_methods,bitext,need to check ur allowed payment methods
+3420,"I have to see when will my item arrive, I need assistance",Delivery,delivery_period,bitext,i have to see when will my item arrive i need assistance
+3431,I need help seeing purchase #726543 current status,Delivery,track_order,bitext,i need help seeing purchase current status
+3437,"i've assembled sofa properly but it's still wobbly, does warranty cover?",Product Quality,generated,mistral,i ve assembled sofa properly but it s still wobbly does warranty cover
+3452,show me under which circumstances can I ask to be reimbursed,Refund,check_refund_policy,bitext,show me under which circumstances can i ask to be reimbursed
+3458,can you help me downloading invoice #12588?,Payment,get_invoice,bitext,can you help me downloading invoice
+3459,can uhelp me check in what situations cani ask for refunds,Refund,check_refund_policy,bitext,can uhelp me check in what situations cani ask for refunds
+3460,anything new on the refund,Refund,track_refund,bitext,anything new on the refund
+3464,what do i need to do to see the early terminaion charges,Other,check_cancellation_fee,bitext,what do i need to do to see the early terminaion charges
+3469,"The frying pan feels cheap and flimsy, I'd like a replacement, order #525800.",Product Quality,generated,mistral,the frying pan feels cheap and flimsy i d like a replacement order
+3473,i need information about the shipment options,Delivery,delivery_options,bitext,i need information about the shipment options
+3474,"Why is 'it' (the item I purchased for my bedroom) arrived scratched, does the warranty cover it?",Product Quality,generated,mistral,why is it the item i purchased for my bedroom arrived scratched does the warranty cover it
+3476,see in what situations can I ask for refunds,Refund,check_refund_policy,bitext,see in what situations can i ask for refunds
+3484,what do I need to do to demand a refund of my money?,Refund,get_refund,bitext,what do i need to do to demand a refund of my money
+3487,want help to add an article to purchase #735770,Other,change_order,bitext,want help to add an article to purchase
+3516,"I paid £185 for a purchase, how to receive a compensation?",Refund,get_refund,bitext,i paid for a purchase how to receive a compensation
+3525,i bought some damn item help to cancep order #759176,Other,cancel_order,bitext,i bought some damn item help to cancep order
+3526,information about the subscription to the newsletter,Other,newsletter_subscription,bitext,information about the subscription to the newsletter
+3535,I don't know how I can report an error with payment,Payment,payment_issue,bitext,i don t know how i can report an error with payment
+3542,i have to report issues with onlpine payment,Payment,payment_issue,bitext,i have to report issues with onlpine payment
+3545,need help to modify the shipping address,Delivery,change_shipping_address,bitext,need help to modify the shipping address
+3546,help me checking the ETA of purchase #772124,Delivery,track_order,bitext,help me checking the eta of purchase
+3549,getting billsfrom Tom,Payment,get_invoice,bitext,getting billsfrom
+3563,i want information about the termination of my pro account,Other,delete_account,bitext,i want information about the termination of my pro account
+3573,troubles setting up the secondary shipping address,Delivery,set_up_shipping_address,bitext,troubles setting up the secondary shipping address
+3575,report issues with payment,Payment,payment_issue,bitext,report issues with payment
+3583,i dont know what i have to do to download my bill #37777,Payment,get_invoice,bitext,i dont know what i have to do to download my bill
+3584,wanna check the status of order #458955 how to dl it,Delivery,track_order,bitext,wanna check the status of order how to dl it
+3609,help to retrieve the PIN code of my user profile,Other,recover_password,bitext,help to retrieve the pin code of my user profile
+3619,troubles setting my secondary delivery address up,Delivery,set_up_shipping_address,bitext,troubles setting my secondary delivery address up
+3627,can you help me editing my address?,Delivery,change_shipping_address,bitext,can you help me editing my address
+3639,want assistance seeing the delivery options,Delivery,delivery_options,bitext,want assistance seeing the delivery options
+3643,"the damn shipping address has changed, can I correct it?",Delivery,change_shipping_address,bitext,the damn shipping address has changed can i correct it
+3646,want assistance checking what payment methods are accepted,Payment,check_payment_methods,bitext,want assistance checking what payment methods are accepted
+3647,So disappointed with the office chair. Feels cheap and flimsy (#642085). What's the next step?,Product Quality,generated,mistral,so disappointed with the office chair feels cheap and flimsy what s the next step
+3661,"I have entered a wrong address, could I correct it?",Delivery,change_shipping_address,bitext,i have entered a wrong address could i correct it
+3663,can you help me to see how long the delivery takes?,Delivery,delivery_period,bitext,can you help me to see how long the delivery takes
+3664,I need assistance entering a secondary shipping address,Delivery,set_up_shipping_address,bitext,i need assistance entering a secondary shipping address
+3665,want assistancd purchasing several of ur product,Other,place_order,bitext,want assistancd purchasing several of ur product
+3670,is it possible to list your payment options?,Payment,check_payment_methods,bitext,is it possible to list your payment options
+3673,I need to subscribe to the company newsletter,Other,newsletter_subscription,bitext,i need to subscribe to the company newsletter
+3677,how long till i get a compensation of mnoney,Refund,get_refund,bitext,how long till i get a compensation of mnoney
+3681,help to see in what cases can i request my money back,Refund,check_refund_policy,bitext,help to see in what cases can i request my money back
+3687,wanna ask for a restutution of my money,Refund,get_refund,bitext,wanna ask for a restutution of my money
+3698,I have to check in what cases can I ask for refunds,Refund,check_refund_policy,bitext,i have to check in what cases can i ask for refunds
+3706,can you help me submitting a delivery address?,Delivery,set_up_shipping_address,bitext,can you help me submitting a delivery address
+3719,in which situations can I request reimbursements?,Refund,check_refund_policy,bitext,in which situations can i request reimbursements
+3734,where could I check purchase #819400 current status?,Delivery,track_order,bitext,where could i check purchase current status
+3739,"I have to cancel my subscription to the newsletter, help me",Other,newsletter_subscription,bitext,i have to cancel my subscription to the newsletter help me
+3747,where is ordered #480959,Delivery,track_order,bitext,where is ordered
+3763,need help requesting a reimbursement,Refund,get_refund,bitext,need help requesting a reimbursement
+3767,I would like to locate purchase #677086,Delivery,track_order,bitext,i would like to locate purchase
+3770,how can i shop a few of ur article,Other,place_order,bitext,how can i shop a few of ur article
+3788,I can't unsubscrie to the newsletter,Other,newsletter_subscription,bitext,i can t unsubscrie to the newsletter
+3801,I don't know how to get the invoice #37777,Payment,get_invoice,bitext,i don t know how to get the invoice
+3805,I want assistance to locate my bill #00108,Payment,check_invoice,bitext,i want assistance to locate my bill
+3809,what do I need to do to talk with a human agent?,Other,contact_human_agent,bitext,what do i need to do to talk with a human agent
+3811,how can i check the current status of my restitution,Refund,track_refund,bitext,how can i check the current status of my restitution
+3827,there is an error setting the delivery address up,Delivery,set_up_shipping_address,bitext,there is an error setting the delivery address up
+3832,i call to check how soon can i expect my bloody item,Delivery,delivery_period,bitext,i call to check how soon can i expect my bloody item
+3843,where to inform of problems with online payments ?,Payment,payment_issue,bitext,where to inform of problems with online payments
+3848,"I am trying to find delivery periods, can you help me?",Delivery,delivery_period,bitext,i am trying to find delivery periods can you help me
+3850,I need assistance seeing my reimbursement current status,Refund,track_refund,bitext,i need assistance seeing my reimbursement current status
+3864,can I check what hours I can reach customer assistance?,Other,contact_customer_service,bitext,can i check what hours i can reach customer assistance
+3871,can i check i which situations can i ask to be reimbursed,Refund,check_refund_policy,bitext,can i check i which situations can i ask to be reimbursed
+3884,Not happy about the scratches on my bookshelf (order #303765).,Product Quality,generated,mistral,not happy about the scratches on my bookshelf order
+3893,I do not know what I need to do to cancel my premium account,Other,delete_account,bitext,i do not know what i need to do to cancel my premium account
+3895,"I have got to see the cancellation charge, can you help me?",Other,check_cancellation_fee,bitext,i have got to see the cancellation charge can you help me
+3908,I want help to get my bill from Tom,Payment,get_invoice,bitext,i want help to get my bill from
+3913,I'm waiting for an refund of £111 has it been processed,Refund,track_refund,bitext,i m waiting for an refund of has it been processed
+3920,have a question about the lost pass,Other,recover_password,bitext,have a question about the lost pass
+3924,"I have to see the methods for shipping, I need help",Delivery,delivery_options,bitext,i have to see the methods for shipping i need help
+3932,rebate £260,Refund,get_refund,bitext,rebate
+3942,"So my office chair is wobbly even after assembly, what do I do next?",Product Quality,generated,mistral,so my office chair is wobbly even after assembly what do i do next
+3943,I would like to see in which cases can I ask for refunds,Refund,check_refund_policy,bitext,i would like to see in which cases can i ask for refunds
+3946,I need help to know if there is anything new on my rebate,Refund,track_refund,bitext,i need help to know if there is anything new on my rebate
+3950,help me check in what cases can I ask to be refunded,Refund,check_refund_policy,bitext,help me check in what cases can i ask to be refunded
+3958,what do I need to do to  submit a delivery address?,Delivery,set_up_shipping_address,bitext,what do i need to do to submit a delivery address
+3961,I need assistance enteirng another delivery address,Delivery,set_up_shipping_address,bitext,i need assistance enteirng another delivery address
+3975,how to see what shipment options I can choose?,Delivery,delivery_options,bitext,how to see what shipment options i can choose
+3985,could I talk to someone?,Other,contact_human_agent,bitext,could i talk to someone
+4007,Why did I order that item and it doesn't look anything like the website photos? Want my money back.,Product Quality,generated,mistral,why did i order that item and it doesn t look anything like the website photos want my money back
+4010,show me the bill from Sarah,Payment,check_invoice,bitext,show me the bill from
+4017,i have a wobbly bookshelf just reporting it,Product Quality,generated,mistral,i have a wobbly bookshelf just reporting it
+4021,how can I report errors with online payments?,Payment,payment_issue,bitext,how can i report errors with online payments
+4033,I am calling to see what shipping methods I have,Delivery,delivery_options,bitext,i am calling to see what shipping methods i have
+4044,there is an error setting the new delivery address up,Delivery,set_up_shipping_address,bitext,there is an error setting the new delivery address up
+4045,can you help me to see when my item is going to arrive?,Delivery,delivery_period,bitext,can you help me to see when my item is going to arrive
+4047,I do not know what I have to do to get a refund,Refund,get_refund,bitext,i do not know what i have to do to get a refund
+4051,"I have got to use the gold account, can I get some help?",Other,switch_account,bitext,i have got to use the gold account can i get some help
+4056,The bookshelf I received feels quite cheap and flimsy. Could you advise on what steps I should take next?,Product Quality,generated,mistral,the bookshelf i received feels quite cheap and flimsy could you advise on what steps i should take next
+4058,want assistance t switch to the account category account,Other,switch_account,bitext,want assistance t switch to the account category account
+4064,want assistance to send my feedback about a product,Other,review,bitext,want assistance to send my feedback about a product
+4068,where to ask for restitutons of my money,Refund,get_refund,bitext,where to ask for restitutons of my money
+4074,can you send me the bill from Sarah?,Payment,get_invoice,bitext,can you send me the bill from
+4082,where can i check the ETA of the order #538184,Delivery,track_order,bitext,where can i check the eta of the order
+4084,"I want to see the options for shipment, help me",Delivery,delivery_options,bitext,i want to see the options for shipment help me
+4085,can you help me to correct my address?,Delivery,change_shipping_address,bitext,can you help me to correct my address
+4087,"My order #920391 - The hair dryer is making a loud rattling noise, I want a refund.",Product Quality,generated,mistral,my order the hair dryer is making a loud rattling noise i want a refund
+4096,I need assistajce to remove something from order #479353,Other,change_order,bitext,i need assistajce to remove something from order
+4104,give me information about the cancellation of a account type account,Other,delete_account,bitext,give me information about the cancellation of a account type account
+4105,i dont know how i can check what delivery methods i have,Delivery,delivery_options,bitext,i dont know how i can check what delivery methods i have
+4107,reporting issue with payment,Payment,payment_issue,bitext,reporting issue with payment
+4108,"Hello, the sofa feels cheap and flimsy (order #451238).",Product Quality,generated,mistral,hello the sofa feels cheap and flimsy order
+4114,what do i need to do to set the shipping address up,Delivery,set_up_shipping_address,bitext,what do i need to do to set the shipping address up
+4115,I  need to retrieve my user account PIN code,Other,recover_password,bitext,i need to retrieve my user account pin code
+4117,I do not know what I have to do to look for my bill #12588,Payment,check_invoice,bitext,i do not know what i have to do to look for my bill
+4125,wanna know about cancel my company newsletter subscription,Other,newsletter_subscription,bitext,wanna know about cancel my company newsletter subscription
+4149,Can't believe the size of the dress #824056 is nothing like the size guide. Just letting you know.,Product Quality,generated,mistral,can t believe the size of the dress is nothing like the size guide just letting you know
+4165,I want assistance to set the goddamn delivery address up,Delivery,set_up_shipping_address,bitext,i want assistance to set the goddamn delivery address up
+4180,help me seeing how long it takes for the delivery to rarive,Delivery,delivery_period,bitext,help me seeing how long it takes for the delivery to rarive
+4206,I want assistanec to leave an opinion,Other,review,bitext,i want assistanec to leave an opinion
+4210,i need help to download my blls from Priya,Payment,get_invoice,bitext,i need help to download my blls from
+4212,help to check in whatcases can I request my money back,Refund,check_refund_policy,bitext,help to check in whatcases can i request my money back
+4221,"So I have found that a wheel or leg has snapped on the office chair I recently purchased, could I please request a replacement?",Product Quality,generated,mistral,so i have found that a wheel or leg has snapped on the office chair i recently purchased could i please request a replacement
+4236,wanna check how long refunds usuall take can ya help me,Refund,check_refund_policy,bitext,wanna check how long refunds usuall take can ya help me
+4241,where to ese how long the delivery takes,Delivery,delivery_period,bitext,where to ese how long the delivery takes
+4266,I do not know what I have to do to look for my bill #00108,Payment,check_invoice,bitext,i do not know what i have to do to look for my bill
+4269,what do I have to do to obtain rebates?,Refund,get_refund,bitext,what do i have to do to obtain rebates
+4275,i dont know how i can set up a new shipping address,Delivery,set_up_shipping_address,bitext,i dont know how i can set up a new shipping address
+4278,how to know if there are any updates on my reimbursement?,Refund,track_refund,bitext,how to know if there are any updates on my reimbursement
+4285,need help checking what shipment options I have,Delivery,delivery_options,bitext,need help checking what shipment options i have
+4287,"I paid 259 pounds for this item, I want to obtain a refund",Refund,get_refund,bitext,i paid pounds for this item i want to obtain a refund
+4294,"I ordered a bookshelf that's still wobbly even after assembly, need a refund #170966.",Product Quality,generated,mistral,i ordered a bookshelf that s still wobbly even after assembly need a refund
+4298,help me to see when my shipment is going to arrive,Delivery,delivery_period,bitext,help me to see when my shipment is going to arrive
+4313,i want help to submit thhe new delivery address,Delivery,set_up_shipping_address,bitext,i want help to submit thhe new delivery address
+4328,wanna see in which cases can i ask for a reimbursement,Refund,check_refund_policy,bitext,wanna see in which cases can i ask for a reimbursement
+4329,when will I receive ordered #177103?,Delivery,track_order,bitext,when will i receive ordered
+4330,help me to check what delivery methods I can choose,Delivery,delivery_options,bitext,help me to check what delivery methods i can choose
+4340,can I set up a delivery address ?,Delivery,set_up_shipping_address,bitext,can i set up a delivery address
+4341,i dont know what to do to correct the delivery address,Delivery,change_shipping_address,bitext,i dont know what to do to correct the delivery address
+4345,where to inform of an issue witha sign-up,Other,registration_problems,bitext,where to inform of an issue witha sign up
+4347,I want assistance to submit a different shipping address,Delivery,set_up_shipping_address,bitext,i want assistance to submit a different shipping address
+4350,help me download the invoice #12588,Payment,get_invoice,bitext,help me download the invoice
+4352,can you help me to set a shipping address up?,Delivery,set_up_shipping_address,bitext,can you help me to set a shipping address up
+4355,do ya ship toFinland,Delivery,delivery_options,bitext,do ya ship tofinland
+4363,modify details on pro account,Other,edit_account,bitext,modify details on pro account
+4365,I have a problem trying to change the delivery address,Delivery,change_shipping_address,bitext,i have a problem trying to change the delivery address
+4371,"Not happy with the bluetooth speaker, it smells like it's burning, just reporting.",Product Quality,generated,mistral,not happy with the bluetooth speaker it smells like it s burning just reporting
+4377,I have a trouble setting m new delivery address up,Delivery,set_up_shipping_address,bitext,i have a trouble setting m new delivery address up
+4383,wanna set a shipping address up help me,Delivery,set_up_shipping_address,bitext,wanna set a shipping address up help me
+4395,Not happy that the jeans zip broke after only wearing them once. Just reporting the issue.,Product Quality,generated,mistral,not happy that the jeans zip broke after only wearing them once just reporting the issue
+4399,how can i see order #311883 status,Delivery,track_order,bitext,how can i see order status
+4403,I need assistance to download the invoice #37777,Payment,get_invoice,bitext,i need assistance to download the invoice
+4404,see purchase #140804 goddamn status,Delivery,track_order,bitext,see purchase goddamn status
+4422,there are errors setting up the new shipping address,Delivery,set_up_shipping_address,bitext,there are errors setting up the new shipping address
+4436,where culd i cancel order #997546,Other,cancel_order,bitext,where culd i cancel order
+4448,I have to cancel my subscription to the corporate newsletter,Other,newsletter_subscription,bitext,i have to cancel my subscription to the corporate newsletter
+4456,I'd like  to check order #935457 fucking status,Delivery,track_order,bitext,i d like to check order fucking status
+4463,"I have got to take a quick look at bill #12588, I need help",Payment,check_invoice,bitext,i have got to take a quick look at bill i need help
+4474,I need to chat with an assistant,Other,contact_human_agent,bitext,i need to chat with an assistant
+4480,what do i have to do to chheck purchase #724756 status,Delivery,track_order,bitext,what do i have to do to chheck purchase status
+4492,check the available methods for delivery,Delivery,delivery_options,bitext,check the available methods for delivery
+4495,would it be possible to check what shipping options I have?,Delivery,delivery_options,bitext,would it be possible to check what shipping options i have
+4511,is it possible to modify the shipping address,Delivery,change_shipping_address,bitext,is it possible to modify the shipping address
+4514,help me submitting some feedback about ur company,Other,review,bitext,help me submitting some feedback about ur company
+4516,i watn help to set my delivery address up,Delivery,set_up_shipping_address,bitext,i watn help to set my delivery address up
+4523,I'd like to see the withdrwaal fee how can i do it,Other,check_cancellation_fee,bitext,i d like to see the withdrwaal fee how can i do it
+4536,I need assistance listing the available payment methods,Payment,check_payment_methods,bitext,i need assistance listing the available payment methods
+4540,help me set up a different delivery address,Delivery,set_up_shipping_address,bitext,help me set up a different delivery address
+4542,"Hello, the lounging area is scratched upon delivery. What's the next step?",Product Quality,generated,mistral,hello the lounging area is scratched upon delivery what s the next step
+4545,my secondary delivery address is not valid,Delivery,set_up_shipping_address,bitext,my secondary delivery address is not valid
+4549,I try to see in which situationscan I ask for refunds,Refund,check_refund_policy,bitext,i try to see in which situationscan i ask for refunds
+4554,could you help me modify the shipping address?,Delivery,change_shipping_address,bitext,could you help me modify the shipping address
+4559,I try to see whne will my item arrive,Delivery,delivery_period,bitext,i try to see whne will my item arrive
+4577,The winter coat size is nothing like the size guide. Want a refund.,Product Quality,generated,mistral,the winter coat size is nothing like the size guide want a refund
+4598,what do i have to do to download the bills from Sarah,Payment,get_invoice,bitext,what do i have to do to download the bills from
+4602,how to ask for a rebate of my money,Refund,get_refund,bitext,how to ask for a rebate of my money
+4603,look for bill #85632,Payment,check_invoice,bitext,look for bill
+4622,i want help to see in what cases can irequest refunds,Refund,check_refund_policy,bitext,i want help to see in what cases can irequest refunds
+4631,ned assistance checking ur available payment methods,Payment,check_payment_methods,bitext,ned assistance checking ur available payment methods
+4635,want assistance informing of an error with online payment,Payment,payment_issue,bitext,want assistance informing of an error with online payment
+4645,help checking what shipment methods i can choose,Delivery,delivery_options,bitext,help checking what shipment methods i can choose
+4649,need assistance correcting the address,Delivery,change_shipping_address,bitext,need assistance correcting the address
+4654,checking invoices from James,Payment,check_invoice,bitext,checking invoices from
+4658,"I need to see your refund policy, can you helpme?",Refund,check_refund_policy,bitext,i need to see your refund policy can you helpme
+4665,need assistance to see how soon can i expect my parcel,Delivery,delivery_period,bitext,need assistance to see how soon can i expect my parcel
+4669,"I would like to downloasd bill #00108, can you help me?",Payment,get_invoice,bitext,i would like to downloasd bill can you help me
+4678,I have to receive your newsleter,Other,newsletter_subscription,bitext,i have to receive your newsleter
+4688,"I need to check the options for shipping, how do I do it?",Delivery,delivery_options,bitext,i need to check the options for shipping how do i do it
+4698,I want assistance entering the shipping address,Delivery,set_up_shipping_address,bitext,i want assistance entering the shipping address
+4702,assistance seeing in what situations can I request a refund,Refund,check_refund_policy,bitext,assistance seeing in what situations can i request a refund
+4708,I am trying to set up the new shipping address,Delivery,set_up_shipping_address,bitext,i am trying to set up the new shipping address
+4711,i have got to edit the details included on my profile,Other,edit_account,bitext,i have got to edit the details included on my profile
+4713,"my goddamn delivery address changed, how do I correct it?",Delivery,change_shipping_address,bitext,my goddamn delivery address changed how do i correct it
+4717,want assistance seeing the fucking ETA of order #689107,Delivery,track_order,bitext,want assistance seeing the fucking eta of order
+4720,i have got to see in which situations can i request a refund,Refund,check_refund_policy,bitext,i have got to see in which situations can i request a refund
+4729,I have errors signing up,Other,registration_problems,bitext,i have errors signing up
+4734,"I want to retrieve my user PIN, how to do it?",Other,recover_password,bitext,i want to retrieve my user pin how to do it
+4739,I have a problem entering another delivery address,Delivery,set_up_shipping_address,bitext,i have a problem entering another delivery address
+4744,want help canceling the corporate newsletter subscription,Other,newsletter_subscription,bitext,want help canceling the corporate newsletter subscription
+4745,help me to check what delivery methods i can choose,Delivery,delivery_options,bitext,help me to check what delivery methods i can choose
+4749,how do i remove some articles from purchase #232352,Other,change_order,bitext,how do i remove some articles from purchase
+4751,how to send some feedback about your company?,Other,review,bitext,how to send some feedback about your company
+4753,"I need to see the delivery options, how do I do it?",Delivery,delivery_options,bitext,i need to see the delivery options how do i do it
+4756,"I have got to see your payment modalities, will you help me?",Payment,check_payment_methods,bitext,i have got to see your payment modalities will you help me
+4770,i want help to check ur available payment options,Payment,check_payment_methods,bitext,i want help to check ur available payment options
+4774,need help to see how long it takes for my parcel to arrive,Delivery,delivery_period,bitext,need help to see how long it takes for my parcel to arrive
+4777,i need assistance to set my new delovery address up,Delivery,set_up_shipping_address,bitext,i need assistance to set my new delovery address up
+4784,I need to see what fucking delivery options I have,Delivery,delivery_options,bitext,i need to see what fucking delivery options i have
+4798,how to check how soon can i expect the item,Delivery,delivery_period,bitext,how to check how soon can i expect the item
+4819,i have a problem setting a delivery address up,Delivery,set_up_shipping_address,bitext,i have a problem setting a delivery address up
+4822,how to check the current status of order #480133?,Delivery,track_order,bitext,how to check the current status of order
+4824,I do not know what to do to see the compensation status,Refund,track_refund,bitext,i do not know what to do to see the compensation status
+4825,there is an error trying to correct the delivery address,Delivery,change_shipping_address,bitext,there is an error trying to correct the delivery address
+4826,I'm waiting for a reimbursement of 299dollars,Refund,track_refund,bitext,i m waiting for a reimbursement of dollars
+4828,how to download the bill from Tom?,Payment,get_invoice,bitext,how to download the bill from
+4833,"ordered a sofa, it feels cheap and flimsy, just letting you know",Product Quality,generated,mistral,ordered a sofa it feels cheap and flimsy just letting you know
+4838,Not happy with the bookshelf (order #240384) as it arrived scratched. What should I do next?,Product Quality,generated,mistral,not happy with the bookshelf order as it arrived scratched what should i do next
+4839,I don't know what to do to submit a shipping address,Delivery,set_up_shipping_address,bitext,i don t know what to do to submit a shipping address
+4840,i dont know what to do to list ur available payment methods,Payment,check_payment_methods,bitext,i dont know what to do to list ur available payment methods
+4846,I am waiting for a rebate of £131,Refund,track_refund,bitext,i am waiting for a rebate of
+4856,i've noticed that the suitcase i purchased arrived scratched. could i please have a repair?,Product Quality,generated,mistral,i ve noticed that the suitcase i purchased arrived scratched could i please have a repair
+4861,I want to notify of an issue with payments,Payment,payment_issue,bitext,i want to notify of an issue with payments
+4872,is it possible to neter a goddamn shipping address,Delivery,set_up_shipping_address,bitext,is it possible to neter a goddamn shipping address
+4882,check if there is anything wrong with my damn restitution,Refund,track_refund,bitext,check if there is anything wrong with my damn restitution
+4887,"So my desk lamp keeps cutting out, it's really starting to annoy me as I work late into the night.",Product Quality,generated,mistral,so my desk lamp keeps cutting out it s really starting to annoy me as i work late into the night
+4888,i need assistance to see the refund status,Refund,track_refund,bitext,i need assistance to see the refund status
+4890,help to check in what situations can I request reimbursments,Refund,check_refund_policy,bitext,help to check in what situations can i request reimbursments
+4894,I need to check how long reimbursements usually take,Refund,check_refund_policy,bitext,i need to check how long reimbursements usually take
+4898,"I (blender) keeps overheating and it's driving me mad, what can I do next?",Product Quality,generated,mistral,i blender keeps overheating and it s driving me mad what can i do next
+4919,i do not know how i can acquire several prdoucts,Other,place_order,bitext,i do not know how i can acquire several prdoucts
+4920,"My item, the sofa, has had a wheel or leg snap and I would like a replacement. Could this please be arranged?",Product Quality,generated,mistral,my item the sofa has had a wheel or leg snap and i would like a replacement could this please be arranged
+4922,can I edit my delivery address?,Delivery,change_shipping_address,bitext,can i edit my delivery address
+4929,I have to check what shipment options I can choose,Delivery,delivery_options,bitext,i have to check what shipment options i can choose
+4937,could I reset my account PIN?,Other,recover_password,bitext,could i reset my account pin
+4939,I have got to obtain reimbursements of money,Refund,get_refund,bitext,i have got to obtain reimbursements of money
+4942,where could I submit a different delivery address?,Delivery,set_up_shipping_address,bitext,where could i submit a different delivery address
+4945,"I have to see your money back policy, I need help",Refund,check_refund_policy,bitext,i have to see your money back policy i need help
+4961,help requesting a compensation,Refund,get_refund,bitext,help requesting a compensation
+4970,need help editing m address,Delivery,change_shipping_address,bitext,need help editing m address
+4972,i try to inform of troubles with online payments,Payment,payment_issue,bitext,i try to inform of troubles with online payments
+4980,how to check the bill #00108?,Payment,check_invoice,bitext,how to check the bill
+4981,show me under which circumstances can i ask to be reimbursed,Refund,check_refund_policy,bitext,show me under which circumstances can i ask to be reimbursed
+4983,could uhelp me check the damn eta of order #485397,Delivery,track_order,bitext,could uhelp me check the damn eta of order
+4985,I want help checking what methods for delivery are available,Delivery,delivery_options,bitext,i want help checking what methods for delivery are available
+4990,I have to see in what cases can I ask for a reimbursement,Refund,check_refund_policy,bitext,i have to see in what cases can i ask for a reimbursement
+4997,i have issues submitting another shipping address,Delivery,set_up_shipping_address,bitext,i have issues submitting another shipping address
+4998,need to swap several items of purchase #351516,Other,change_order,bitext,need to swap several items of purchase
+5000,I need help to check what shipment methods are available,Delivery,delivery_options,bitext,i need help to check what shipment methods are available
+5009,i want help demanding reimbursements of my money,Refund,get_refund,bitext,i want help demanding reimbursements of my money
+5011,where to know if there is anything new on the rebate,Refund,track_refund,bitext,where to know if there is anything new on the rebate
+5033,in what cases can I request a refund?,Refund,check_refund_policy,bitext,in what cases can i request a refund
+5039,how do i unsubscriobe from ur newsletter,Other,newsletter_subscription,bitext,how do i unsubscriobe from ur newsletter
+5044,I need help to submit the delivery address,Delivery,set_up_shipping_address,bitext,i need help to submit the delivery address
+5046,"I cannot make a payment, I need to inform of issues",Payment,payment_issue,bitext,i cannot make a payment i need to inform of issues
+5068,can ya help me talk to customer assistance,Other,contact_customer_service,bitext,can ya help me talk to customer assistance
+5069,"Hello, the item I purchased keeps cutting out. Please advise.",Product Quality,generated,mistral,hello the item i purchased keeps cutting out please advise
+5075,see ur reimbursement policy,Refund,check_refund_policy,bitext,see ur reimbursement policy
+5083,"I have to submit the new delivery address, how can I do it?",Delivery,set_up_shipping_address,bitext,i have to submit the new delivery address how can i do it
+5089,help me get a reiombursement of my money,Refund,get_refund,bitext,help me get a reiombursement of my money
+5091,i do not know what to do to download the bioll #85632,Payment,get_invoice,bitext,i do not know what to do to download the bioll
+5095,"I want to speak to customer service, can you help me?",Other,contact_customer_service,bitext,i want to speak to customer service can you help me
+5098,assistance to check in whih cases can I ask for refunds,Refund,check_refund_policy,bitext,assistance to check in whih cases can i ask for refunds
+5102,I do not know how I can see what shipment methods you offer,Delivery,delivery_options,bitext,i do not know how i can see what shipment methods you offer
+5104,i want help correcting the information on my profile,Other,edit_account,bitext,i want help correcting the information on my profile
+5109,I have to download my bill #12588,Payment,get_invoice,bitext,i have to download my bill
+5116,change details on platinum account,Other,edit_account,bitext,change details on platinum account
+5134,"I cannot find the bloody early termination penalty, help me",Other,check_cancellation_fee,bitext,i cannot find the bloody early termination penalty help me
+5141,"I lost bill #37777, mail it to me",Payment,get_invoice,bitext,i lost bill mail it to me
+5143,"I need to write an opinion about an service, how to do it?",Other,review,bitext,i need to write an opinion about an service how to do it
+5147,I need information about the methods for shipment,Delivery,delivery_options,bitext,i need information about the methods for shipment
+5154,"My office chair doesn't look anything like the website photos, please send a replacement.",Product Quality,generated,mistral,my office chair doesn t look anything like the website photos please send a replacement
+5160,I want help seeing what payment options are available,Payment,check_payment_methods,bitext,i want help seeing what payment options are available
+5165,i have paid £283 for these itmes i want my compensation,Refund,get_refund,bitext,i have paid for these itmes i want my compensation
+5178,"I want to see when will my product arrive, I need help",Delivery,delivery_period,bitext,i want to see when will my product arrive i need help
+5179,where to see the methods for shipment,Delivery,delivery_options,bitext,where to see the methods for shipment
+5182,what do I have to do to change the address?,Delivery,change_shipping_address,bitext,what do i have to do to change the address
+5186,I need help to report a problem with a registration,Other,registration_problems,bitext,i need help to report a problem with a registration
+5188,can I open a account type account?,Other,create_account,bitext,can i open a account type account
+5194,need help checking the status of purechase #369761,Delivery,track_order,bitext,need help checking the status of purechase
+5196,I'm waiting for a rebateof £52,Refund,track_refund,bitext,i m waiting for a rebateof
+5200,"Why does my sofa have a part missing, don't know what happened to it.",Product Quality,generated,mistral,why does my sofa have a part missing don t know what happened to it
+5201,show me how long it takes for the product to arrive,Delivery,delivery_period,bitext,show me how long it takes for the product to arrive
+5206,"I need to see when will my parcel arrive, how to do it?",Delivery,delivery_period,bitext,i need to see when will my parcel arrive how to do it
+5211,I don't know how I can get my invoice from Tom,Payment,get_invoice,bitext,i don t know how i can get my invoice from
+5219,want help to see in what situations can i ask to be refunded,Refund,check_refund_policy,bitext,want help to see in what situations can i ask to be refunded
+5220,how do I check at what time I can call customer assistance?,Other,contact_customer_service,bitext,how do i check at what time i can call customer assistance
+5258,can ushow me the cancellation fees,Other,check_cancellation_fee,bitext,can ushow me the cancellation fees
+5272,"I want  to list your payment options, can you help me?",Payment,check_payment_methods,bitext,i want to list your payment options can you help me
+5289,I want assistance to modify the shipping addresxs,Delivery,change_shipping_address,bitext,i want assistance to modify the shipping addresxs
+5298,can you help me to receive a refund?,Refund,get_refund,bitext,can you help me to receive a refund
+5300,I have got to enter the delivery address,Delivery,set_up_shipping_address,bitext,i have got to enter the delivery address
+5301,i have to find the biol #12588 how to do it,Payment,check_invoice,bitext,i have to find the biol how to do it
+5303,help seeing purchase #783984 current status,Delivery,track_order,bitext,help seeing purchase current status
+5312,I have a problem setting a delivery address up,Delivery,set_up_shipping_address,bitext,i have a problem setting a delivery address up
+5313,how do I get the bills from James?,Payment,get_invoice,bitext,how do i get the bills from
+5314,"I need to see the invoices from Sarah, can you help me?",Payment,check_invoice,bitext,i need to see the invoices from can you help me
+5316,i need assistance to notify of an error with registrations,Other,registration_problems,bitext,i need assistance to notify of an error with registrations
+5319,"My winter coat has stitching coming apart, what can be done next?",Product Quality,generated,mistral,my winter coat has stitching coming apart what can be done next
+5325,"I want to list the payment methods, can I get some help?",Payment,check_payment_methods,bitext,i want to list the payment methods can i get some help
+5328,"Hey, the suitcase I got doesn't look like the photos online. Just letting you know.",Product Quality,generated,mistral,hey the suitcase i got doesn t look like the photos online just letting you know
+5329,i want assistance to find the bikll #00108,Payment,check_invoice,bitext,i want assistance to find the bikll
+5330,help to receive your newslettyer,Other,newsletter_subscription,bitext,help to receive your newslettyer
+5341,i dont  know what i have to do to see my bill #85632,Payment,check_invoice,bitext,i dont know what i have to do to see my bill
+5346,I do not know how I can enter a different shipping address,Delivery,set_up_shipping_address,bitext,i do not know how i can enter a different shipping address
+5361,I have to check how long reimbursements usually take,Refund,check_refund_policy,bitext,i have to check how long reimbursements usually take
+5380,so the hair dryer has a burning smell,Product Quality,generated,mistral,so the hair dryer has a burning smell
+5381,editing pro  account,Other,edit_account,bitext,editing pro account
+5382,i do not know how i can change to the damn account type account,Other,switch_account,bitext,i do not know how i can change to the damn account type account
+5396,where do I change my address?,Delivery,change_shipping_address,bitext,where do i change my address
+5402,can i place an order from the UK,Delivery,delivery_options,bitext,can i place an order from the
+5409,i want assistance to obtain rebates,Refund,get_refund,bitext,i want assistance to obtain rebates
+5414,"Hello, the smartwatch from order #811163 makes a loud rattling noise, please replace it.",Product Quality,generated,mistral,hello the smartwatch from order makes a loud rattling noise please replace it
+5416,I need help to earn several producst,Other,place_order,bitext,i need help to earn several producst
+5421,see status of purchase #890371,Delivery,track_order,bitext,see status of purchase
+5422,I do not know what I need to do to locate order #837952,Delivery,track_order,bitext,i do not know what i need to do to locate order
+5423,where to demand reimbursements of money?,Refund,get_refund,bitext,where to demand reimbursements of money
+5426,so using it for frying eggs and its wobbly,Product Quality,generated,mistral,so using it for frying eggs and its wobbly
+5433,"The bookshelf has a snapped wheel/leg. Need a replacement, please.",Product Quality,generated,mistral,the bookshelf has a snapped wheel leg need a replacement please
+5440,I need assistance tocheck how soon can I expect my purchase,Delivery,delivery_period,bitext,i need assistance tocheck how soon can i expect my purchase
+5447,I need to see in what cases can I ask to be reimbursed,Refund,check_refund_policy,bitext,i need to see in what cases can i ask to be reimbursed
+5451,help seeing what shipping options you offer,Delivery,delivery_options,bitext,help seeing what shipping options you offer
+5460,Not happy with the battery life on my blender. Does the warranty cover this?,Product Quality,generated,mistral,not happy with the battery life on my blender does the warranty cover this
+5461,do you shp to Cardiff?,Delivery,delivery_options,bitext,do you shp to
+5481,I need help  to get a refund,Refund,get_refund,bitext,i need help to get a refund
+5485,how could I write a review?,Other,review,bitext,how could i write a review
+5491,I need to see in what cases can I request to be refunded,Refund,check_refund_policy,bitext,i need to see in what cases can i request to be refunded
+5510,I don't know what to do to download the invoice #85632,Payment,get_invoice,bitext,i don t know what to do to download the invoice
+5511,I want assistance to download the bills from Aisha,Payment,get_invoice,bitext,i want assistance to download the bills from
+5519,need help seeing ur reimbursement policy,Refund,check_refund_policy,bitext,need help seeing ur reimbursement policy
+5520,want help signing up to your newsletter,Other,newsletter_subscription,bitext,want help signing up to your newsletter
+5540,i have to create a account type account i need help,Other,create_account,bitext,i have to create a account type account i need help
+5548,see under what circumstances can I ask for a refund,Refund,check_refund_policy,bitext,see under what circumstances can i ask for a refund
+5553,help checking your money back policy,Refund,check_refund_policy,bitext,help checking your money back policy
+5559,help to check in what cases can i request reimbursements,Refund,check_refund_policy,bitext,help to check in what cases can i request reimbursements
+5564,how to update the shipping address?,Delivery,change_shipping_address,bitext,how to update the shipping address
+5591,check my refund status,Refund,track_refund,bitext,check my refund status
+5592,I am waiting for a compensation of 200 doolars,Refund,track_refund,bitext,i am waiting for a compensation of doolars
+5602,"The smartwatch I purchased stopped working after a few days, could I get a new one?",Product Quality,generated,mistral,the smartwatch i purchased stopped working after a few days could i get a new one
+5612,help me downloading my invoice #37777,Payment,get_invoice,bitext,help me downloading my invoice
+5623,what do I need to do to track order #969325?,Delivery,track_order,bitext,what do i need to do to track order
+5626,i want assistance seting my new delivery address up,Delivery,set_up_shipping_address,bitext,i want assistance seting my new delivery address up
+5644,seeing invoices from Priya,Payment,check_invoice,bitext,seeing invoices from
+5652,I need assistanc chatting with a live agent,Other,contact_human_agent,bitext,i need assistanc chatting with a live agent
+5671,not happy about order #309795 running trainers zip broke what to do next,Product Quality,generated,mistral,not happy about order running trainers zip broke what to do next
+5684,what do I have to do to change my user data?,Other,edit_account,bitext,what do i have to do to change my user data
+5689,"I need to submit another delivery address , how to do it?",Delivery,set_up_shipping_address,bitext,i need to submit another delivery address how to do it
+5703,i expect a compensation of 102 pounds was it processed,Refund,track_refund,bitext,i expect a compensation of pounds was it processed
+5709,support changing the address,Delivery,change_shipping_address,bitext,support changing the address
+5713,i do not know how i can see order #853789 current satus,Delivery,track_order,bitext,i do not know how i can see order current satus
+5734,need assistance to download my invoice from Priya,Payment,get_invoice,bitext,need assistance to download my invoice from
+5742,see in what cases can I request a reimbursement,Refund,check_refund_policy,bitext,see in what cases can i request a reimbursement
+5744,"Not happy with the dress, bobbled after just one wash",Product Quality,generated,mistral,not happy with the dress bobbled after just one wash
+5761,where could i leave a fucking comment for a service,Other,review,bitext,where could i leave a fucking comment for a service
+5766,"Just noticed the winter coat colour is different to the pictures, no worries just letting you know",Product Quality,generated,mistral,just noticed the winter coat colour is different to the pictures no worries just letting you know
+5767,where to see the ETA of order #691303,Delivery,track_order,bitext,where to see the eta of order
+5775,assistance to see your accepted payment methods,Payment,check_payment_methods,bitext,assistance to see your accepted payment methods
+5777,find my bilps from Aisha,Payment,check_invoice,bitext,find my bilps from
+5781,assistance seeing the current status of purchase #932250,Delivery,track_order,bitext,assistance seeing the current status of purchase
+5795,support editing the delivery address,Delivery,change_shipping_address,bitext,support editing the delivery address
+5797,want assistance demanding compensations fo money,Refund,get_refund,bitext,want assistance demanding compensations fo money
+5805,question about the deletion of my account category account,Other,delete_account,bitext,question about the deletion of my account category account
+5812,i dont know what i have to do to open a standard account,Other,create_account,bitext,i dont know what i have to do to open a standard account
+5813,i need support trying to chane my delivery address,Delivery,change_shipping_address,bitext,i need support trying to chane my delivery address
+5817,I try to check in which situations can I request refunds,Refund,check_refund_policy,bitext,i try to check in which situations can i request refunds
+5822,there are problems submitting my new shipping address,Delivery,set_up_shipping_address,bitext,there are problems submitting my new shipping address
+5826,I want assistance to request my money back,Refund,get_refund,bitext,i want assistance to request my money back
+5827,"I entered a wrong shipping address, can I edit it?",Delivery,change_shipping_address,bitext,i entered a wrong shipping address can i edit it
+5829,Ordered a new chair for my living room and it arrived scratched. I was hoping to use it for my guests. Can you advise what to do next?,Product Quality,generated,mistral,ordered a new chair for my living room and it arrived scratched i was hoping to use it for my guests can you advise what to do next
+5840,"I need to see when will my package arrive, help me",Delivery,delivery_period,bitext,i need to see when will my package arrive help me
+5843,I don't know what I have to do to delete my platinum acount,Other,delete_account,bitext,i don t know what i have to do to delete my platinum acount
+5847,needto locate order #818264 how can i do it,Delivery,track_order,bitext,needto locate order how can i do it
+5848,I need assistance to check how soon can I expect my delivery,Delivery,delivery_period,bitext,i need assistance to check how soon can i expect my delivery
+5863,how do I check your money back policy ?,Refund,check_refund_policy,bitext,how do i check your money back policy
+5868,I ordered a pair of running shoes and the stitching is coming apart. Could you help?,Product Quality,generated,mistral,i ordered a pair of running shoes and the stitching is coming apart could you help
+5879,can you direct to me a human agent?,Other,contact_human_agent,bitext,can you direct to me a human agent
+5882,i do not know how to download my bill #00108,Payment,get_invoice,bitext,i do not know how to download my bill
+5886,information about a deliveryaddress change,Delivery,change_shipping_address,bitext,information about a deliveryaddress change
+5893,how do I get a compensation of my money?,Refund,get_refund,bitext,how do i get a compensation of my money
+5894,where can I demand a refund?,Refund,get_refund,bitext,where can i demand a refund
+5902,"I want to submit my secondary shipping address, help me",Delivery,set_up_shipping_address,bitext,i want to submit my secondary shipping address help me
+5919,there is a problem with my registration,Other,registration_problems,bitext,there is a problem with my registration
+5924,I need help seeing in what cases can I ask to be reimbursed,Refund,check_refund_policy,bitext,i need help seeing in what cases can i ask to be reimbursed
+5925,do ya have an e-mail to contact customer service,Other,contact_customer_service,bitext,do ya have an e mail to contact customer service
+5936,i have anissue modifying my address,Delivery,change_shipping_address,bitext,i have anissue modifying my address
+5939,i call to check how long it takes for my delivery to arrive,Delivery,delivery_period,bitext,i call to check how long it takes for my delivery to arrive
+5949,I do not know how I can correct my shgipping address,Delivery,change_shipping_address,bitext,i do not know how i can correct my shgipping address
+5965,I don't know what I have to do to delete a premium account,Other,delete_account,bitext,i don t know what i have to do to delete a premium account
+5967,need to see how long it usually take for the item to arrive,Delivery,delivery_period,bitext,need to see how long it usually take for the item to arrive
+5970,how can i check the current status of my compensation,Refund,track_refund,bitext,how can i check the current status of my compensation
+5990,I don't know how I can request a rebate,Refund,get_refund,bitext,i don t know how i can request a rebate
+5994,"So, the wireless headphones I bought aren't working properly. Can I have a replacement please?",Product Quality,generated,mistral,so the wireless headphones i bought aren t working properly can i have a replacement please
+6003,I need to check in what cases can I request reimbursements,Refund,check_refund_policy,bitext,i need to check in what cases can i request reimbursements
+6008,can you direct to me a damn operator?,Other,contact_human_agent,bitext,can you direct to me a damn operator
+6023,need assistance checking the bill #12588,Payment,check_invoice,bitext,need assistance checking the bill
+6033,"I want to close my bloody account type account, can you help me?",Other,delete_account,bitext,i want to close my bloody account type account can you help me
+6034,I am looking for information about dselivery period,Delivery,delivery_period,bitext,i am looking for information about dselivery period
+6037,I have errors chanjging the shipping address,Delivery,change_shipping_address,bitext,i have errors chanjging the shipping address
+6038,I need assistance to report a trouble with online payments,Payment,payment_issue,bitext,i need assistance to report a trouble with online payments
+6048,how do I subscribe to your company newsletter ?,Other,newsletter_subscription,bitext,how do i subscribe to your company newsletter
+6064,I want assistance to submit the shipping address,Delivery,set_up_shipping_address,bitext,i want assistance to submit the shipping address
+6076,notifying of payment problem,Payment,payment_issue,bitext,notifying of payment problem
+6077,need help to check the ETA of the order #253591,Delivery,track_order,bitext,need help to check the eta of the order
+6078,update data on account type cacount,Other,edit_account,bitext,update data on account type cacount
+6082,I want help seeing order #136489 current status,Delivery,track_order,bitext,i want help seeing order current status
+6084,I want help to check how soon can I expect my product,Delivery,delivery_period,bitext,i want help to check how soon can i expect my product
+6089,is it possible to change order #522060?,Other,change_order,bitext,is it possible to change order
+6109,i need assistancechecking the status of order #133958,Delivery,track_order,bitext,i need assistancechecking the status of order
+6125,where to check how soon can I expect my product ?,Delivery,delivery_period,bitext,where to check how soon can i expect my product
+6132,I have got to rfetrieve the key of my account,Other,recover_password,bitext,i have got to rfetrieve the key of my account
+6140,modify standard account,Other,edit_account,bitext,modify standard account
+6152,I have to check when will my product arrive,Delivery,delivery_period,bitext,i have to check when will my product arrive
+6153,i dont know how i can change to the account type account,Other,switch_account,bitext,i dont know how i can change to the account type account
+6159,earning something,Other,place_order,bitext,earning something
+6161,wanna demand a reimbursement of money,Refund,get_refund,bitext,wanna demand a reimbursement of money
+6171,i need help buying several of ur item,Other,place_order,bitext,i need help buying several of ur item
+6181,wanna see how soon can i expect my parcel i need assistance,Delivery,delivery_period,bitext,wanna see how soon can i expect my parcel i need assistance
+6186,i have a question about creating a account type account,Other,create_account,bitext,i have a question about creating a account type account
+6188,can I see what delivery options are there?,Delivery,delivery_options,bitext,can i see what delivery options are there
+6203,problems entering my delivery address,Delivery,set_up_shipping_address,bitext,problems entering my delivery address
+6209,I want assistance settnig up the delivery address,Delivery,set_up_shipping_address,bitext,i want assistance settnig up the delivery address
+6214,what do I need to do to update the shipping address?,Delivery,change_shipping_address,bitext,what do i need to do to update the shipping address
+6219,can ya help me demand a rebate of money,Refund,get_refund,bitext,can ya help me demand a rebate of money
+6226,how to see what delivery options you offer?,Delivery,delivery_options,bitext,how to see what delivery options you offer
+6236,is it possible to check the statsu of order #862847?,Delivery,track_order,bitext,is it possible to check the statsu of order
+6245,need assistance to download my bill #00108,Payment,get_invoice,bitext,need assistance to download my bill
+6246,"I need to check your reimbursement policy, can you help me?",Refund,check_refund_policy,bitext,i need to check your reimbursement policy can you help me
+6248,show me under what circumstances can I ask for my money back,Refund,check_refund_policy,bitext,show me under what circumstances can i ask for my money back
+6258,i have to check ur money back guarantee help me,Refund,check_refund_policy,bitext,i have to check ur money back guarantee help me
+6263,"Ordered a blender for making smoothies and shakes, but it keeps overheating. Need a repair.",Product Quality,generated,mistral,ordered a blender for making smoothies and shakes but it keeps overheating need a repair
+6276,I'm waiting for a reimbursement of 350dollars,Refund,track_refund,bitext,i m waiting for a reimbursement of dollars
+6283,"I have got to enter a new shipping address, help me",Delivery,set_up_shipping_address,bitext,i have got to enter a new shipping address help me
+6284,The kettle I bought makes a loud rattling noise. What should I do?,Product Quality,generated,mistral,the kettle i bought makes a loud rattling noise what should i do
+6292,My suitcase doesn't look anything like the photos on your website. I'm a bit confused and was hoping to know whether this is covered under the warranty. Apologies for any inconvenience.,Product Quality,generated,mistral,my suitcase doesn t look anything like the photos on your website i m a bit confused and was hoping to know whether this is covered under the warranty apologies for any inconvenience
+6300,need help requesting a compensation of money,Refund,get_refund,bitext,need help requesting a compensation of money
+6304,I am trying to see in which cases can I ask to be refunded,Refund,check_refund_policy,bitext,i am trying to see in which cases can i ask to be refunded
+6314,I espect a goddamn reimbursement of £216,Refund,track_refund,bitext,i espect a goddamn reimbursement of
+6316,need assistance downloading the invoice from Tom,Payment,get_invoice,bitext,need assistance downloading the invoice from
+6332,purchase #469685 status,Delivery,track_order,bitext,purchase status
+6333,help to see in what cases can I request  to be refunded,Refund,check_refund_policy,bitext,help to see in what cases can i request to be refunded
+6344,help to see when will my package arrive,Delivery,delivery_period,bitext,help to see when will my package arrive
+6356,the shipping address is njot valid what can i do,Delivery,set_up_shipping_address,bitext,the shipping address is njot valid what can i do
+6359,what are the payment payment modalities available?,Payment,check_payment_methods,bitext,what are the payment payment modalities available
+6365,I need assistance requesting a restitution of money,Refund,get_refund,bitext,i need assistance requesting a restitution of money
+6380,need help listing ur payment modalities,Payment,check_payment_methods,bitext,need help listing ur payment modalities
+6382,I want to see in which cases can I ask for my money back,Refund,check_refund_policy,bitext,i want to see in which cases can i ask for my money back
+6393,I have to check what shipping methods I can choose,Delivery,delivery_options,bitext,i have to check what shipping methods i can choose
+6394,the shipping address is not valid,Delivery,set_up_shipping_address,bitext,the shipping address is not valid
+6402,"not happy with the jumper, colour is different from the photos, need replacement",Product Quality,generated,mistral,not happy with the jumper colour is different from the photos need replacement
+6411,I want assistance talking with an person,Other,contact_human_agent,bitext,i want assistance talking with an person
+6419,where do i track order #748133,Delivery,track_order,bitext,where do i track order
+6433,help me submit another delivery address,Delivery,set_up_shipping_address,bitext,help me submit another delivery address
+6435,Can anything be done about the winter coat's sole peeling off?,Product Quality,generated,mistral,can anything be done about the winter coat s sole peeling off
+6439,could I set up the shipping address?,Delivery,set_up_shipping_address,bitext,could i set up the shipping address
+6440,i have a prolem trying to update my address,Delivery,change_shipping_address,bitext,i have a prolem trying to update my address
+6442,"The book shelf feels cheap and flimsy, not what I expected. Not happy about it, any advice?",Product Quality,generated,mistral,the book shelf feels cheap and flimsy not what i expected not happy about it any advice
+6444,there are problems entering my delivery address,Delivery,set_up_shipping_address,bitext,there are problems entering my delivery address
+6445,"I have chosen a wrong shipping address , how do I update it?",Delivery,change_shipping_address,bitext,i have chosen a wrong shipping address how do i update it
+6454,how do I correct my delivery address?,Delivery,change_shipping_address,bitext,how do i correct my delivery address
+6468,how do I request a compensation of money?,Refund,get_refund,bitext,how do i request a compensation of money
+6496,can I place an order from Cardiff?,Delivery,delivery_options,bitext,can i place an order from
+6500,I try to see purchase #626930 status,Delivery,track_order,bitext,i try to see purchase status
+6506,where to check what payment options are accepted?,Payment,check_payment_methods,bitext,where to check what payment options are accepted
+6512,can you show me in which situations can I ask for refunds?,Refund,check_refund_policy,bitext,can you show me in which situations can i ask for refunds
+6513,I want assistance updating the shipping address,Delivery,change_shipping_address,bitext,i want assistance updating the shipping address
+6525,want assistance seeing what methods for delivery I have,Delivery,delivery_options,bitext,want assistance seeing what methods for delivery i have
+6526,Why is my sofa arrived scratched? Nothing I can use it for now.,Product Quality,generated,mistral,why is my sofa arrived scratched nothing i can use it for now
+6529,I have to check in which cases can I request my money back,Refund,check_refund_policy,bitext,i have to check in which cases can i request my money back
+6532,can I see order #987025 current status?,Delivery,track_order,bitext,can i see order current status
+6538,assistance updating the damn user information,Other,edit_account,bitext,assistance updating the damn user information
+6544,I don't know how I can check your reimbursement policy,Refund,check_refund_policy,bitext,i don t know how i can check your reimbursement policy
+6554,want help seeing how soon can i expect the parcel,Delivery,delivery_period,bitext,want help seeing how soon can i expect the parcel
+6556,I want help checking in what cases can I request a refund,Refund,check_refund_policy,bitext,i want help checking in what cases can i request a refund
+6557,"So about the blender I ordered (#116418), it seems to have a burning smell. Could I please get a refund?",Product Quality,generated,mistral,so about the blender i ordered it seems to have a burning smell could i please get a refund
+6560,assistance changing the shippikng address,Delivery,change_shipping_address,bitext,assistance changing the shippikng address
+6562,how can i get information about  my pro account deletion,Other,delete_account,bitext,how can i get information about my pro account deletion
+6564,i cannot see the eta of order #190951,Delivery,track_order,bitext,i cannot see the eta of order
+6576,I want ehlp demanding a reimbursement of money,Refund,get_refund,bitext,i want ehlp demanding a reimbursement of money
+6579,"i ordered a jumper and it's a different colour to the photos, what do i do next",Product Quality,generated,mistral,i ordered a jumper and it s a different colour to the photos what do i do next
+6588,"I forgot my user profile PIN, could I recover it?",Other,recover_password,bitext,i forgot my user profile pin could i recover it
+6596,how cam i track order #151021,Delivery,track_order,bitext,how cam i track order
+6597,"Can you help me with the frying pan (order #725969), it's wobbly even when assembled properly?",Product Quality,generated,mistral,can you help me with the frying pan order it s wobbly even when assembled properly
+6599,errors with online payments,Payment,payment_issue,bitext,errors with online payments
+6602,I'm waiting for a damn refund of £214,Refund,track_refund,bitext,i m waiting for a damn refund of
+6609,seeing invoice #37777,Payment,check_invoice,bitext,seeing invoice
+6612,seebill from Aisha,Payment,check_invoice,bitext,seebill from
+6613,need to know if there are any updates on the ocmpensation,Refund,track_refund,bitext,need to know if there are any updates on the ocmpensation
+6616,i dont know what to do to look for the invoice #37777,Payment,check_invoice,bitext,i dont know what to do to look for the invoice
+6622,want help giving a quick look at my bills from James,Payment,check_invoice,bitext,want help giving a quick look at my bills from
+6626,what do i have to do to look for the invoice #85632,Payment,check_invoice,bitext,what do i have to do to look for the invoice
+6635,how do I check how soon can I expect my purchase?,Delivery,delivery_period,bitext,how do i check how soon can i expect my purchase
+6637,I want help to enter my secondary delivery adrdess,Delivery,set_up_shipping_address,bitext,i want help to enter my secondary delivery adrdess
+6640,I need help to know if there are any updates on my refund,Refund,track_refund,bitext,i need help to know if there are any updates on my refund
+6642,i dont know how to see the shipping options,Delivery,delivery_options,bitext,i dont know how to see the shipping options
+6645,assistance seeing in what casew can i ask to be refunded,Refund,check_refund_policy,bitext,assistance seeing in what casew can i ask to be refunded
+6660,need help to check what methods for delivery i have,Delivery,delivery_options,bitext,need help to check what methods for delivery i have
+6666,"Just received an office chair that arrived scratched, it's a real shame as I was looking forward to sitting comfortably while working.",Product Quality,generated,mistral,just received an office chair that arrived scratched it s a real shame as i was looking forward to sitting comfortably while working
+6670,can you help me notifying of a trouble with online payments?,Payment,payment_issue,bitext,can you help me notifying of a trouble with online payments
+6673,I want to know more about editng my address,Delivery,change_shipping_address,bitext,i want to know more about editng my address
+6674,can i subscribe to ur corporate newsletter,Other,newsletter_subscription,bitext,can i subscribe to ur corporate newsletter
+6676,is it possible to enter my delivery address,Delivery,set_up_shipping_address,bitext,is it possible to enter my delivery address
+6681,I do not know how I can check the status of my compensation,Refund,track_refund,bitext,i do not know how i can check the status of my compensation
+6688,want help norifying of a payment issue,Payment,payment_issue,bitext,want help norifying of a payment issue
+6701,hlp seeing ur money back guarantee,Refund,check_refund_policy,bitext,hlp seeing ur money back guarantee
+6703,"So my running trainers zip broke, can I get it repaired?",Product Quality,generated,mistral,so my running trainers zip broke can i get it repaired
+6705,I need assistamce to inform of a payment issue,Payment,payment_issue,bitext,i need assistamce to inform of a payment issue
+6707,i have got to check the available payment options,Payment,check_payment_methods,bitext,i have got to check the available payment options
+6714,need to see what shipment options are there how to do it,Delivery,delivery_options,bitext,need to see what shipment options are there how to do it
+6717,can ya tell me what payment payment modalities ya accept,Payment,check_payment_methods,bitext,can ya tell me what payment payment modalities ya accept
+6729,"I have entered a wrong address, can I modify it?",Delivery,change_shipping_address,bitext,i have entered a wrong address can i modify it
+6730,showing me order #634473 current status,Delivery,track_order,bitext,showing me order current status
+6735,need help to receive your company newsletter,Other,newsletter_subscription,bitext,need help to receive your company newsletter
+6746,i have got to see ur refund poliicy,Refund,check_refund_policy,bitext,i have got to see ur refund poliicy
+6750,I do not know what to do to locate invoice #00108,Payment,check_invoice,bitext,i do not know what to do to locate invoice
+6752,why I can't enter a different delivery address valid,Delivery,set_up_shipping_address,bitext,why i can t enter a different delivery address valid
+6761,see in which situations can I ask for a reimbursement,Refund,check_refund_policy,bitext,see in which situations can i ask for a reimbursement
+6765,I have got to chaneg to the account category account,Other,switch_account,bitext,i have got to chaneg to the account category account
+6785,i do not know what i have to do to get my bill #37777,Payment,get_invoice,bitext,i do not know what i have to do to get my bill
+6786,i have to check in which cases can i request refunds,Refund,check_refund_policy,bitext,i have to check in which cases can i request refunds
+6793,help me to restore the key of my user,Other,recover_password,bitext,help me to restore the key of my user
+6798,i have troubles entering my delivery address,Delivery,set_up_shipping_address,bitext,i have troubles entering my delivery address
+6819,"I need to see your money back policy, can you hep me?",Refund,check_refund_policy,bitext,i need to see your money back policy can you hep me
+6821,can I see when will my article arrive?,Delivery,delivery_period,bitext,can i see when will my article arrive
+6826,"not happy, winter coat size nothing like size guide",Product Quality,generated,mistral,not happy winter coat size nothing like size guide
+6831,Can't understand why the size of this item is nothing like the size guide. Warranty cover it?,Product Quality,generated,mistral,can t understand why the size of this item is nothing like the size guide warranty cover it
+6843,"I have lost bill #12588, can you show it to me?",Payment,check_invoice,bitext,i have lost bill can you show it to me
+6855,I don't know what I have to do to download my invoice #00108,Payment,get_invoice,bitext,i don t know what i have to do to download my invoice
+6863,what do i need to do to edit the details on my user profile,Other,edit_account,bitext,what do i need to do to edit the details on my user profile
+6869,need help downloading my invoices from James,Payment,get_invoice,bitext,need help downloading my invoices from
+6870,how do I look for bill #12588?,Payment,check_invoice,bitext,how do i look for bill
+6877,i have to check in what cases can i ask for refunds,Refund,check_refund_policy,bitext,i have to check in what cases can i ask for refunds
+6881,need help to send some feedback about a product,Other,review,bitext,need help to send some feedback about a product
+6884,i dont know what to do to get a compensation,Refund,get_refund,bitext,i dont know what to do to get a compensation
+6885,I'm waiting for a reimbursement of 160dollars,Refund,track_refund,bitext,i m waiting for a reimbursement of dollars
+6898,"I have got to list the payment options, how can I do it?",Payment,check_payment_methods,bitext,i have got to list the payment options how can i do it
+6900,in which situations can I ask for reimbursements?,Refund,check_refund_policy,bitext,in which situations can i ask for reimbursements
+6905,assistance seeingur payment methods,Payment,check_payment_methods,bitext,assistance seeingur payment methods
+6906,I want to see under what circumstances can I request refunds,Refund,check_refund_policy,bitext,i want to see under what circumstances can i request refunds
+6908,I've received a dress and the colour is different from the photos. Could I please have a replacement?,Product Quality,generated,mistral,i ve received a dress and the colour is different from the photos could i please have a replacement
+6936,"I have entered a wrong delivery address, help me changing it",Delivery,change_shipping_address,bitext,i have entered a wrong delivery address help me changing it
+6937,I do not know what to do to download the invoice #12588,Payment,get_invoice,bitext,i do not know what to do to download the invoice
+6943,i do not know what to do to cdheck my bill #85632,Payment,check_invoice,bitext,i do not know what to do to cdheck my bill
+6948,help me see how long it takes for my article to arrive,Delivery,delivery_period,bitext,help me see how long it takes for my article to arrive
+6955,can ya help me see how soon can i expect my item,Delivery,delivery_period,bitext,can ya help me see how soon can i expect my item
+6961,where can I obtain restitutions of money?,Refund,get_refund,bitext,where can i obtain restitutions of money
+6981,is it possible to demand refunds of my money?,Refund,get_refund,bitext,is it possible to demand refunds of my money
+6983,where can I locate the invoice #37777?,Payment,check_invoice,bitext,where can i locate the invoice
+6989,i want help to get a rebate of my money,Refund,get_refund,bitext,i want help to get a rebate of my money
+6993,i do not know what i need to do to buy several items,Other,place_order,bitext,i do not know what i need to do to buy several items
+6999,show me what hours I can call customer support,Other,contact_customer_service,bitext,show me what hours i can call customer support
+7007,cancel my newsletter subscription,Other,newsletter_subscription,bitext,cancel my newsletter subscription
+7009,what do I need to do to create a account category account?,Other,create_account,bitext,what do i need to do to create a account category account
+7014,can you help me talking with an operator?,Other,contact_human_agent,bitext,can you help me talking with an operator
+7028,create standard account,Other,create_account,bitext,create standard account
+7053,can you help me submit a different delivery address?,Delivery,set_up_shipping_address,bitext,can you help me submit a different delivery address
+7061,show me what shipping options you offer,Delivery,delivery_options,bitext,show me what shipping options you offer
+7063,help to see order #392559 current status,Delivery,track_order,bitext,help to see order current status
+7064,I don't know what I have to do to look for invoice #00108,Payment,check_invoice,bitext,i don t know what i have to do to look for invoice
+7078,wanna see orer #190403 current status can ya help me,Delivery,track_order,bitext,wanna see orer current status can ya help me
+7080,"Not happy with the chair I received, arrived with scratches. I thought it was supposed to be an office chair.",Product Quality,generated,mistral,not happy with the chair i received arrived with scratches i thought it was supposed to be an office chair
+7091,I've got a frying pan here with a wheel or leg snapped off. Can you believe it? Just thought I'd let you know.,Product Quality,generated,mistral,i ve got a frying pan here with a wheel or leg snapped off can you believe it just thought i d let you know
+7108,I do not know what to do to report an error with payments,Payment,payment_issue,bitext,i do not know what to do to report an error with payments
+7112,I don't know what to do to see my invoice #00108,Payment,check_invoice,bitext,i don t know what to do to see my invoice
+7114,how do I get a rebate?,Refund,get_refund,bitext,how do i get a rebate
+7132,i dont know how to speak with customer service,Other,contact_customer_service,bitext,i dont know how to speak with customer service
+7134,Just found out that a wheel or leg snapped off my bookshelf. Very disappointed.,Product Quality,generated,mistral,just found out that a wheel or leg snapped off my bookshelf very disappointed
+7142,buying item,Other,place_order,bitext,buying item
+7144,i want help to demand reimbursements,Refund,get_refund,bitext,i want help to demand reimbursements
+7145,can you help me seeing the methods for shipping?,Delivery,delivery_options,bitext,can you help me seeing the methods for shipping
+7148,i dont kno how to request a refund of my money,Refund,get_refund,bitext,i dont kno how to request a refund of my money
+7150,switching to account type account,Other,switch_account,bitext,switching to account type account
+7151,I do not know how I can download the invoices from James,Payment,get_invoice,bitext,i do not know how i can download the invoices from
+7153,i cfannot see order #432441 current status,Delivery,track_order,bitext,i cfannot see order current status
+7165,where can I check my invoices from Aisha?,Payment,check_invoice,bitext,where can i check my invoices from
+7198,"The item, a pair of trainers, has a broken zip. Need it repaired, order number #xxxx.",Product Quality,generated,mistral,the item a pair of trainers has a broken zip need it repaired order number xxxx
+7201,"I've got some running trainers and the size is nothing like the size guide, a replacement needed!",Product Quality,generated,mistral,i ve got some running trainers and the size is nothing like the size guide a replacement needed
+7207,I try to see in which cases can I ask for reimbursements,Refund,check_refund_policy,bitext,i try to see in which cases can i ask for reimbursements
+7210,i have to see ur refund policy will ya herlp me,Refund,check_refund_policy,bitext,i have to see ur refund policy will ya herlp me
+7211,I have a problem setting up the secondary delivery address,Delivery,set_up_shipping_address,bitext,i have a problem setting up the secondary delivery address
+7227,i need assistance seeing how soon can i expect the delivery,Delivery,delivery_period,bitext,i need assistance seeing how soon can i expect the delivery
+7232,how can i edit tne address,Delivery,change_shipping_address,bitext,how can i edit tne address
+7237,"Ordered the bluetooth speaker and it's stopped charging, what's the deal with warranty? (Order #861411)",Product Quality,generated,mistral,ordered the bluetooth speaker and it s stopped charging what s the deal with warranty order
+7238,i have issues modifying the address,Delivery,change_shipping_address,bitext,i have issues modifying the address
+7239,where could I set the new shipping address up?,Delivery,set_up_shipping_address,bitext,where could i set the new shipping address up
+7240,get bill #37777,Payment,get_invoice,bitext,get bill
+7244,So my smartwatch smells like it's burning. Don't know what to do now.,Product Quality,generated,mistral,so my smartwatch smells like it s burning don t know what to do now
+7286,wanna get reimbursements,Refund,get_refund,bitext,wanna get reimbursements
+7297,I have problems setting my secondary shipping address up,Delivery,set_up_shipping_address,bitext,i have problems setting my secondary shipping address up
+7305,wanna recover the pin code of my profile,Other,recover_password,bitext,wanna recover the pin code of my profile
+7322,"Ordered a new desk light, stopped working after a few days, any help next steps please?",Product Quality,generated,mistral,ordered a new desk light stopped working after a few days any help next steps please
+7326,I need assistance to see your money bac guarantee,Refund,check_refund_policy,bitext,i need assistance to see your money bac guarantee
+7346,need to modify the user details how can i do it,Other,edit_account,bitext,need to modify the user details how can i do it
+7351,I have got to speak to an operator,Other,contact_human_agent,bitext,i have got to speak to an operator
+7354,"I've received a jumper that's nothing like the size guide, I want my money back.",Product Quality,generated,mistral,i ve received a jumper that s nothing like the size guide i want my money back
+7357,get bill #85632,Payment,get_invoice,bitext,get bill
+7361,"Not happy with the frying pan (#503951), a wheel or leg snapped. Please check my order.",Product Quality,generated,mistral,not happy with the frying pan a wheel or leg snapped please check my order
+7365,I want assistance to ask for rebates,Refund,get_refund,bitext,i want assistance to ask for rebates
+7368,where can I see the status of the restitution?,Refund,track_refund,bitext,where can i see the status of the restitution
+7383,where can I check your reimbursement policy?,Refund,check_refund_policy,bitext,where can i check your reimbursement policy
+7392,can i check in which cases can i ask for refunds,Refund,check_refund_policy,bitext,can i check in which cases can i ask for refunds
+7394,what do I need to do to check your accepted payment methods?,Payment,check_payment_methods,bitext,what do i need to do to check your accepted payment methods
+7400,assistance notifying of an issue with payments,Payment,payment_issue,bitext,assistance notifying of an issue with payments
+7410,can ya show me when my purchase is gonna arrive,Delivery,delivery_period,bitext,can ya show me when my purchase is gonna arrive
+7418,what do I need to do to check the payment methods?,Payment,check_payment_methods,bitext,what do i need to do to check the payment methods
+7421,i wan assistance checking how soon can i expect the purchase,Delivery,delivery_period,bitext,i wan assistance checking how soon can i expect the purchase
+7439,"can't believe the hair dryer keeps cutting out, need my money back",Product Quality,generated,mistral,can t believe the hair dryer keeps cutting out need my money back
+7448,"not happy, dress stitching coming apart",Product Quality,generated,mistral,not happy dress stitching coming apart
+7456,I have got to subscribe to the fucking newsletter,Other,newsletter_subscription,bitext,i have got to subscribe to the fucking newsletter
+7465,I do not know what to do to download the bill #85632,Payment,get_invoice,bitext,i do not know what to do to download the bill
+7471,assistance seeing how soon can i expect the shipment,Delivery,delivery_period,bitext,assistance seeing how soon can i expect the shipment
+7479,supports trying to edit the address,Delivery,change_shipping_address,bitext,supports trying to edit the address
+7486,how can I notify of an error with online payments?,Payment,payment_issue,bitext,how can i notify of an error with online payments
+7490,I have errors trying to edit the address,Delivery,change_shipping_address,bitext,i have errors trying to edit the address
+7497,"Just picked up a new gadget, stopped working after a few days, any help?",Product Quality,generated,mistral,just picked up a new gadget stopped working after a few days any help
+7511,can you help me seeing your available payment methods?,Payment,check_payment_methods,bitext,can you help me seeing your available payment methods
+7515,help me check in what cases can I request a reimbursement,Refund,check_refund_policy,bitext,help me check in what cases can i request a reimbursement
+7533,"So disappointed with my smartwatch, battery barely lasts. What to do next?",Product Quality,generated,mistral,so disappointed with my smartwatch battery barely lasts what to do next
+7543,Ordered a new kettle a week ago but it keeps cutting out. I'm finding it quite frustrating. Can you please advise what to do next?,Product Quality,generated,mistral,ordered a new kettle a week ago but it keeps cutting out i m finding it quite frustrating can you please advise what to do next
+7557,i need assistance to inform of problems with payment,Payment,payment_issue,bitext,i need assistance to inform of problems with payment
+7558,where doi check how soon can i expect my order,Delivery,delivery_period,bitext,where doi check how soon can i expect my order
+7584,switch several items of order #523808,Other,change_order,bitext,switch several items of order
+7593,wanna see hte eta of order #536774 help me,Delivery,track_order,bitext,wanna see hte eta of order help me
+7596,can you help me see when my product is going to arrive?,Delivery,delivery_period,bitext,can you help me see when my product is going to arrive
+7604,where to update my shipping address?,Delivery,change_shipping_address,bitext,where to update my shipping address
+7611,i have to talk to customer service,Other,contact_customer_service,bitext,i have to talk to customer service
+7642,need help to see the available payment options,Payment,check_payment_methods,bitext,need help to see the available payment options
+7659,wanna know more about the shipping period,Delivery,delivery_period,bitext,wanna know more about the shipping period
+7664,Ordered a sofa and it's missing a part. Is the warranty going to cover this?,Product Quality,generated,mistral,ordered a sofa and it s missing a part is the warranty going to cover this
+7669,i want help writing a review aboutg ur products,Other,review,bitext,i want help writing a review aboutg ur products
+7671,i try to submit my shipping address,Delivery,set_up_shipping_address,bitext,i try to submit my shipping address
+7675,where can I see if there are any updates on the restitution?,Refund,track_refund,bitext,where can i see if there are any updates on the restitution
+7676,how can i tfack purchase #310743,Delivery,track_order,bitext,how can i tfack purchase
+7677,I need support trying to modify my address,Delivery,change_shipping_address,bitext,i need support trying to modify my address
+7693,help me to see what shipping options are available,Delivery,delivery_options,bitext,help me to see what shipping options are available
+7695,help me to inform of an issue with online payment,Payment,payment_issue,bitext,help me to inform of an issue with online payment
+7697,do you have a method to submit some feedback for a product?,Other,review,bitext,do you have a method to submit some feedback for a product
+7698,I need help to requestreimbursements,Refund,get_refund,bitext,i need help to requestreimbursements
+7701,"I need to see how long refunds usually take, how to do it?",Refund,check_refund_policy,bitext,i need to see how long refunds usually take how to do it
+7706,I want to cancel order #492077,Other,cancel_order,bitext,i want to cancel order
+7731,I need assistance seeing purchase #852524 status,Delivery,track_order,bitext,i need assistance seeing purchase status
+7740,where can i edit the shipping address,Delivery,change_shipping_address,bitext,where can i edit the shipping address
+7747,need assistance submitting a shipping address,Delivery,set_up_shipping_address,bitext,need assistance submitting a shipping address
+7758,need help to see when my purchase is gonna arrive,Delivery,delivery_period,bitext,need help to see when my purchase is gonna arrive
+7774,where to create a freemium account?,Other,create_account,bitext,where to create a freemium account
+7830,"I want to enter a new shipping address, how can I do it?",Delivery,set_up_shipping_address,bitext,i want to enter a new shipping address how can i do it
+7833,want help obtaining reimbursements ofmy money,Refund,get_refund,bitext,want help obtaining reimbursements ofmy money
+7835,I need help to download the invoice,Payment,get_invoice,bitext,i need help to download the invoice
+7836,can you tell me your available payment methods?,Payment,check_payment_methods,bitext,can you tell me your available payment methods
+7837,why I cannot set up the shipping address valid,Delivery,set_up_shipping_address,bitext,why i cannot set up the shipping address valid
+7844,need assistance seeing when will my parcel arrive,Delivery,delivery_period,bitext,need assistance seeing when will my parcel arrive
+7848,help to check in what situations can I ask to be refunded,Refund,check_refund_policy,bitext,help to check in what situations can i ask to be refunded
+7875,do ya ship toUSA,Delivery,delivery_options,bitext,do ya ship tousa
+7876,i expect an refund of 102 pounds was it processed,Refund,track_refund,bitext,i expect an refund of pounds was it processed
+7882,"Not happy with the office chair as a wheel or leg snapped, what can be done?",Product Quality,generated,mistral,not happy with the office chair as a wheel or leg snapped what can be done
+7885,I want help checking when my shipment is going to arrive,Delivery,delivery_period,bitext,i want help checking when my shipment is going to arrive
+7887,I do not know how to submit the new shipping address,Delivery,set_up_shipping_address,bitext,i do not know how to submit the new shipping address
+7894,get invoice #85632,Payment,get_invoice,bitext,get invoice
+7900,i need assistance trying tomodify my shipping address,Delivery,change_shipping_address,bitext,i need assistance trying tomodify my shipping address
+7920,need help to check order #456717 current status,Delivery,track_order,bitext,need help to check order current status
+7930,how much would ucharge me for breaking the contract,Other,check_cancellation_fee,bitext,how much would ucharge me for breaking the contract
+7932,"I have got to see how long the shipment takes, I need help",Delivery,delivery_period,bitext,i have got to see how long the shipment takes i need help
+7933,I want assistance to see what shipping options I have,Delivery,delivery_options,bitext,i want assistance to see what shipping options i have
+7940,I try to see what hours I can reach customer assistance,Other,contact_customer_service,bitext,i try to see what hours i can reach customer assistance
+7941,I need help opening a standard account,Other,create_account,bitext,i need help opening a standard account
+7944,i need assistance to check how soon can i expect my delivery,Delivery,delivery_period,bitext,i need assistance to check how soon can i expect my delivery
+7947,I have a trouble updating my shipping address,Delivery,change_shipping_address,bitext,i have a trouble updating my shipping address
+7949,where can I check the bloody cancellation penalties?,Other,check_cancellation_fee,bitext,where can i check the bloody cancellation penalties
+7953,download bills from Aisha,Payment,get_invoice,bitext,download bills from
+7956,I need to see your available payment options,Payment,check_payment_methods,bitext,i need to see your available payment options
+7958,i have to notify of errors with online payment,Payment,payment_issue,bitext,i have to notify of errors with online payment
+7961,what do i need to do to dowjload my bill #00108,Payment,get_invoice,bitext,what do i need to do to dowjload my bill
+7962,help solving a payment problem,Payment,payment_issue,bitext,help solving a payment problem
+7965,I need informarion about editing my delivery address,Delivery,change_shipping_address,bitext,i need informarion about editing my delivery address
+7971,the delivery addrses isnt valid can i get some help,Delivery,set_up_shipping_address,bitext,the delivery addrses isnt valid can i get some help
+7972,help to see ur money back policy,Refund,check_refund_policy,bitext,help to see ur money back policy
+7974,i do not know what to do to chanfe to the damn gold account,Other,switch_account,bitext,i do not know what to do to chanfe to the damn gold account
+7982,help seeing how long it takes for my shipment to arrive,Delivery,delivery_period,bitext,help seeing how long it takes for my shipment to arrive
+7991,i need assistance setting up a different shipping address,Delivery,set_up_shipping_address,bitext,i need assistance setting up a different shipping address
+8000,I'm tying to see the ETA of purchase #559457,Delivery,track_order,bitext,i m tying to see the eta of purchase
+8005,i want information about creating a account category account,Other,create_account,bitext,i want information about creating a account category account
+8006,I want help seeing the status of order #403042,Delivery,track_order,bitext,i want help seeing the status of order
+8009,"I paid £219 for an item, help me to get a bloody rebate",Refund,get_refund,bitext,i paid for an item help me to get a bloody rebate
+8033,show me in which cases can I ask to be refunded,Refund,check_refund_policy,bitext,show me in which cases can i ask to be refunded
+8037,can you help me see how soon can I expect the order?,Delivery,delivery_period,bitext,can you help me see how soon can i expect the order
+8048,I try to see in what cases can I request a refund,Refund,check_refund_policy,bitext,i try to see in what cases can i request a refund
+8054,I do not know how to report a problem with payments,Payment,payment_issue,bitext,i do not know how to report a problem with payments
+8058,there is an issue submitting the secondary shipping address,Delivery,set_up_shipping_address,bitext,there is an issue submitting the secondary shipping address
+8063,how can I restore the password of my user profile?,Other,recover_password,bitext,how can i restore the password of my user profile
+8065,I am trying to see in what cases can I request my money back,Refund,check_refund_policy,bitext,i am trying to see in what cases can i request my money back
+8069,I need assistance checking my compensation status,Refund,track_refund,bitext,i need assistance checking my compensation status
+8071,i dont know how to inform of a payment problem,Payment,payment_issue,bitext,i dont know how to inform of a payment problem
+8074,"Hello, I've noticed that it appears to be missing a part on the sofa I purchased. Could you please arrange for a replacement?",Product Quality,generated,mistral,hello i ve noticed that it appears to be missing a part on the sofa i purchased could you please arrange for a replacement
+8084,help me to check how long reimbursements usually take,Refund,check_refund_policy,bitext,help me to check how long reimbursements usually take
+8087,chek order #740632 status,Delivery,track_order,bitext,chek order status
+8091,how do I check if there are any updates on my refund?,Refund,track_refund,bitext,how do i check if there are any updates on my refund
+8094,want help to enter a new delivery address,Delivery,set_up_shipping_address,bitext,want help to enter a new delivery address
+8119,assistance checking what shipment options you offer,Delivery,delivery_options,bitext,assistance checking what shipment options you offer
+8123,can utell me about the delivery periods,Delivery,delivery_period,bitext,can utell me about the delivery periods
+8132,want assistance to check ur money back policy,Refund,check_refund_policy,bitext,want assistance to check ur money back policy
+8153,locate order #567951,Delivery,track_order,bitext,locate order
+8166,"The jeans I bought are starting to fall apart, what should I do next?",Product Quality,generated,mistral,the jeans i bought are starting to fall apart what should i do next
+8186,can i place an order from Cardiff,Delivery,delivery_options,bitext,can i place an order from
+8187,where do i check the status of order #321048,Delivery,track_order,bitext,where do i check the status of order
+8190,help me chatting with a person,Other,contact_human_agent,bitext,help me chatting with a person
+8192,I would like to submit the delivery address,Delivery,set_up_shipping_address,bitext,i would like to submit the delivery address
+8200,Why does the frying pan from order #778684 look nothing like the website photos?,Product Quality,generated,mistral,why does the frying pan from order look nothing like the website photos
+8213,i do not know how i can obtain a restitution of my money,Refund,get_refund,bitext,i do not know how i can obtain a restitution of my money
+8237,create user,Other,create_account,bitext,create user
+8245,could you help me seeing how soon can I expect the article?,Delivery,delivery_period,bitext,could you help me seeing how soon can i expect the article
+8248,I have to check the status of purchase #449218,Delivery,track_order,bitext,i have to check the status of purchase
+8252,I am trying to check in what cases can I request a refund,Refund,check_refund_policy,bitext,i am trying to check in what cases can i request a refund
+8255,assistance to see the ETA of purchase #269834,Delivery,track_order,bitext,assistance to see the eta of purchase
+8265,need assistance to change purchase #540463,Other,change_order,bitext,need assistance to change purchase
+8271,wanna see how long it usually takes for the order to arrive,Delivery,delivery_period,bitext,wanna see how long it usually takes for the order to arrive
+8278,i bought a bluetooth speaker and its stopped working already,Product Quality,generated,mistral,i bought a bluetooth speaker and its stopped working already
+8284,I have got to check in what cases can I request a refund,Refund,check_refund_policy,bitext,i have got to check in what cases can i request a refund
+8285,what do i need to do to check the status of the restitution,Refund,track_refund,bitext,what do i need to do to check the status of the restitution
+8296,I have to receive your corporate newsletter,Other,newsletter_subscription,bitext,i have to receive your corporate newsletter
+8304,where do i see if there are any news on the rebate,Refund,track_refund,bitext,where do i see if there are any news on the rebate
+8306,can I check in what cases can I request a reimbursement?,Refund,check_refund_policy,bitext,can i check in what cases can i request a reimbursement
+8311,can I place a bloody order from Leeds?,Delivery,delivery_options,bitext,can i place a bloody order from
+8313,i have paid £187 for an item help me obtain a refund,Refund,get_refund,bitext,i have paid for an item help me obtain a refund
+8326,why is the office chair wobbly even when assembled properly?,Product Quality,generated,mistral,why is the office chair wobbly even when assembled properly
+8340,"I have to see how soon can I expect my shipment, I need help",Delivery,delivery_period,bitext,i have to see how soon can i expect my shipment i need help
+8348,assistance to see when my order is going to arrive,Delivery,delivery_period,bitext,assistance to see when my order is going to arrive
+8350,Why is my bookshelf arrived scratched? What can be done next?,Product Quality,generated,mistral,why is my bookshelf arrived scratched what can be done next
+8352,can you give me information about a pwd reset?,Other,recover_password,bitext,can you give me information about a pwd reset
+8358,wanna swap some items of order #601968,Other,change_order,bitext,wanna swap some items of order
+8371,I want to look for the invoice #12588,Payment,check_invoice,bitext,i want to look for the invoice
+8372,I do not know what to do to speak to an agent,Other,contact_human_agent,bitext,i do not know what to do to speak to an agent
+8386,want help to see your reimbursement policy,Refund,check_refund_policy,bitext,want help to see your reimbursement policy
+8392,I can't report errors with signup,Other,registration_problems,bitext,i can t report errors with signup
+8407,I need help to obtain compensations of money,Refund,get_refund,bitext,i need help to obtain compensations of money
+8408,speak to customer support,Other,contact_customer_service,bitext,speak to customer support
+8418,troubles entering my secondary delivery address,Delivery,set_up_shipping_address,bitext,troubles entering my secondary delivery address
+8421,help me set up the delivery address,Delivery,set_up_shipping_address,bitext,help me set up the delivery address
+8422,need help downloading my bill #37777,Payment,get_invoice,bitext,need help downloading my bill
+8427,where do i see the status of purchase #525818,Delivery,track_order,bitext,where do i see the status of purchase
+8429,can you help me informing of a registration error?,Other,registration_problems,bitext,can you help me informing of a registration error
+8445,I don't know how I can restore my user access key,Other,recover_password,bitext,i don t know how i can restore my user access key
+8462,"So, the jumper's colour is different from the photos. Need a repair.",Product Quality,generated,mistral,so the jumper s colour is different from the photos need a repair
+8466,"I have got to submit hte secondary shipping address, help me",Delivery,set_up_shipping_address,bitext,i have got to submit hte secondary shipping address help me
+8473,want help to get a rebate of my money,Refund,get_refund,bitext,want help to get a rebate of my money
+8474,I don't know what I need to do to contact a live agent,Other,contact_human_agent,bitext,i don t know what i need to do to contact a live agent
+8475,I want assistance requesting a compensation of money,Refund,get_refund,bitext,i want assistance requesting a compensation of money
+8496,i want help to check in what cases can i request refunds,Refund,check_refund_policy,bitext,i want help to check in what cases can i request refunds
+8510,where can I check the current status of my rebate?,Refund,track_refund,bitext,where can i check the current status of my rebate
+8513,want help to get the invokces from Sarah,Payment,get_invoice,bitext,want help to get the invokces from
+8514,I don't know what I have to do to obtain a compensation,Refund,get_refund,bitext,i don t know what i have to do to obtain a compensation
+8520,show me what payment methods are accepted,Payment,check_payment_methods,bitext,show me what payment methods are accepted
+8521,"I want to see my invoice #37777, I need assistance",Payment,check_invoice,bitext,i want to see my invoice i need assistance
+8534,where do i see the early termination fees,Other,check_cancellation_fee,bitext,where do i see the early termination fees
+8537,need to report an issue with signup,Other,registration_problems,bitext,need to report an issue with signup
+8540,Why is the stitching on my jeans coming apart? Order number #936997,Product Quality,generated,mistral,why is the stitching on my jeans coming apart order number
+8547,were can I demand compensations of money?,Refund,get_refund,bitext,were can i demand compensations of money
+8550,i do not know what i need to do to check invoice #12588,Payment,check_invoice,bitext,i do not know what i need to do to check invoice
+8579,I don't know how I can check the rebate status,Refund,track_refund,bitext,i don t know how i can check the rebate status
+8587,need assistance checking my compensation current status,Refund,track_refund,bitext,need assistance checking my compensation current status
+8597,I have to correct my delivery address,Delivery,change_shipping_address,bitext,i have to correct my delivery address
+8604,can uhelp me cancelling purchase #738720,Other,cancel_order,bitext,can uhelp me cancelling purchase
+8611,how can i know if there is anything wrong with my refund,Refund,track_refund,bitext,how can i know if there is anything wrong with my refund
+8621,where can i check how soon can i expect the package,Delivery,delivery_period,bitext,where can i check how soon can i expect the package
+8623,can uhelp me to see when my product is gonna arrive,Delivery,delivery_period,bitext,can uhelp me to see when my product is gonna arrive
+8630,need help to speak with an assistant,Other,contact_human_agent,bitext,need help to speak with an assistant
+8636,Can't use hair dryer (it keeps cutting out). Any ideas?,Product Quality,generated,mistral,can t use hair dryer it keeps cutting out any ideas
+8642,I don't know how I can get a restitution of my money,Refund,get_refund,bitext,i don t know how i can get a restitution of my money
+8648,there is an issue submitting my secondary delivery address,Delivery,set_up_shipping_address,bitext,there is an issue submitting my secondary delivery address
+8652,need assistance t ask for refunds of money,Refund,get_refund,bitext,need assistance t ask for refunds of money
+8654,can uhelp me to correct my delivery address,Delivery,change_shipping_address,bitext,can uhelp me to correct my delivery address
+8657,help me to see when my purchase is gonn arrive,Delivery,delivery_period,bitext,help me to see when my purchase is gonn arrive
+8658,I cannot see your bloody reimbursement policy,Refund,check_refund_policy,bitext,i cannot see your bloody reimbursement policy
+8663,i have got to buy several articles,Other,place_order,bitext,i have got to buy several articles
+8672,i cant see the ETA of the order #769752,Delivery,track_order,bitext,i cant see the eta of the order
+8676,"Hello, the winter coat bobbled after one wash, what should be done next?",Product Quality,generated,mistral,hello the winter coat bobbled after one wash what should be done next
+8684,I need to see how soon can I expect my product,Delivery,delivery_period,bitext,i need to see how soon can i expect my product
+8689,is it possible to receive reimbursements?,Refund,get_refund,bitext,is it possible to receive reimbursements
+8690,i have a sofa that has a wheel or leg snapped need a repair,Product Quality,generated,mistral,i have a sofa that has a wheel or leg snapped need a repair
+8702,error setting the shipping address up,Delivery,set_up_shipping_address,bitext,error setting the shipping address up
+8703,"I want to check my restitution status, I need help",Refund,track_refund,bitext,i want to check my restitution status i need help
+8725,i need help to report problems with registrations,Other,registration_problems,bitext,i need help to report problems with registrations
+8726,assistance to check ur refund pollicy,Refund,check_refund_policy,bitext,assistance to check ur refund pollicy
+8731,"I cannot make a payment, how could I report bloody problems?",Payment,payment_issue,bitext,i cannot make a payment how could i report bloody problems
+8744,can you help me see in what cases can I ask to be refunded?,Refund,check_refund_policy,bitext,can you help me see in what cases can i ask to be refunded
+8747,I don't know how I can get a reimbursement of my money,Refund,get_refund,bitext,i don t know how i can get a reimbursement of my money
+8751,want help seeing how soon can I expetc my article,Delivery,delivery_period,bitext,want help seeing how soon can i expetc my article
+8766,help to submit a fucking secondary delivery address,Delivery,set_up_shipping_address,bitext,help to submit a fucking secondary delivery address
+8767,Can you please look into issue with my electric toothbrush (#270387) as it keeps overheating? I would appreciate a repair.,Product Quality,generated,mistral,can you please look into issue with my electric toothbrush as it keeps overheating i would appreciate a repair
+8775,I want help listing the accepted payment options,Payment,check_payment_methods,bitext,i want help listing the accepted payment options
+8779,I need help checking the early exit fee,Other,check_cancellation_fee,bitext,i need help checking the early exit fee
+8783,editing pro account,Other,edit_account,bitext,editing pro account
+8804,So the sofa I bought has a wheel or leg snapped. Just letting you know,Product Quality,generated,mistral,so the sofa i bought has a wheel or leg snapped just letting you know
+8807,need to notify of an error with sign-up,Other,registration_problems,bitext,need to notify of an error with sign up
+8809,i dont know what i have to do to receive a compensation,Refund,get_refund,bitext,i dont know what i have to do to receive a compensation
+8813,i dont know how to see ur accepted payment modalities,Payment,check_payment_methods,bitext,i dont know how to see ur accepted payment modalities
+8814,editing info on pro account,Other,edit_account,bitext,editing info on pro account
+8825,I want to see what shipment methods I can choose,Delivery,delivery_options,bitext,i want to see what shipment methods i can choose
+8828,I can't see if there is anything new on the compensation,Refund,track_refund,bitext,i can t see if there is anything new on the compensation
+8834,assistance seeing what shipping methods are there,Delivery,delivery_options,bitext,assistance seeing what shipping methods are there
+8839,I need to create a standard account,Other,create_account,bitext,i need to create a standard account
+8854,will you show me the accepted payment methods?,Payment,check_payment_methods,bitext,will you show me the accepted payment methods
+8870,Why did the dress bobble after one wash? Just reporting it for your information.,Product Quality,generated,mistral,why did the dress bobble after one wash just reporting it for your information
+8874,I want help receiving refunds of my money,Refund,get_refund,bitext,i want help receiving refunds of my money
+8875,help me check what delivery methods I have,Delivery,delivery_options,bitext,help me check what delivery methods i have
+8888,assistance seeing how long it takes for my order to arrive,Delivery,delivery_period,bitext,assistance seeing how long it takes for my order to arrive
+8892,I call to download the invoice #37777,Payment,get_invoice,bitext,i call to download the invoice
+8898,sofa used for seating doesn't look anything like the website photos. what to do next?,Product Quality,generated,mistral,sofa used for seating doesn t look anything like the website photos what to do next
+8904,help me to acquire a few of your item,Other,place_order,bitext,help me to acquire a few of your item
+8920,I need to check what shipment methods I have,Delivery,delivery_options,bitext,i need to check what shipment methods i have
+8932,how can i locate invoice #12588,Payment,check_invoice,bitext,how can i locate invoice
+8944,I don't know how I can list the payment options,Payment,check_payment_methods,bitext,i don t know how i can list the payment options
+8945,is it possible to crewate a gold account,Other,create_account,bitext,is it possible to crewate a gold account
+8954,i dont know what i need to do to receive a rebate,Refund,get_refund,bitext,i dont know what i need to do to receive a rebate
+8958,My bookshelf has a missing part. Order number #135087. I would like my money back.,Product Quality,generated,mistral,my bookshelf has a missing part order number i would like my money back
+8971,how could I call customer service?,Other,contact_customer_service,bitext,how could i call customer service
+8978,unsubscribe from your company newsletter,Other,newsletter_subscription,bitext,unsubscribe from your company newsletter
+8986,how to see when my package is going to arrive?,Delivery,delivery_period,bitext,how to see when my package is going to arrive
+8987,where can I see how long it takes for my delivery to arrive?,Delivery,delivery_period,bitext,where can i see how long it takes for my delivery to arrive
+8997,i try to obtain restitutions of money,Refund,get_refund,bitext,i try to obtain restitutions of money
+9001,i nedd supports editing my address,Delivery,change_shipping_address,bitext,i nedd supports editing my address
+9008,I need assistance seeing the early exit fee,Other,check_cancellation_fee,bitext,i need assistance seeing the early exit fee
+9012,I want assistance doing a purchase,Other,place_order,bitext,i want assistance doing a purchase
+9014,where can i gert information about my forgotten password,Other,recover_password,bitext,where can i gert information about my forgotten password
+9025,Can a wheel or leg snapped on my bookshelf (used for storing books) be replaced?,Product Quality,generated,mistral,can a wheel or leg snapped on my bookshelf used for storing books be replaced
+9045,help me to check the eta of the purchase #929924,Delivery,track_order,bitext,help me to check the eta of the purchase
+9058,"I have to check when will my package arrive, I need help",Delivery,delivery_period,bitext,i have to check when will my package arrive i need help
+9070,I do not know what I need to do to talk to customer service,Other,contact_customer_service,bitext,i do not know what i need to do to talk to customer service
+9081,I have a question about opening a account type account,Other,create_account,bitext,i have a question about opening a account type account
+9086,I try to see when my delivery is going to arrive,Delivery,delivery_period,bitext,i try to see when my delivery is going to arrive
+9095,could I edit purchase #992288?,Other,change_order,bitext,could i edit purchase
+9123,how long does it usually take for a product to arrive?,Delivery,delivery_period,bitext,how long does it usually take for a product to arrive
+9126,i want help to open a account category account for my dad,Other,create_account,bitext,i want help to open a account category account for my dad
+9130,where to ask for rebates of my money?,Refund,get_refund,bitext,where to ask for rebates of my money
+9142,I want to see when my purchase is going to arrive,Delivery,delivery_period,bitext,i want to see when my purchase is going to arrive
+9154,i have to check what delivery options are available,Delivery,delivery_options,bitext,i have to check what delivery options are available
+9156,I'm waiting for a reimbursement of 277 pounds,Refund,track_refund,bitext,i m waiting for a reimbursement of pounds
+9186,where to check when my product is going to arrive?,Delivery,delivery_period,bitext,where to check when my product is going to arrive
+9189,I want  a pro account,Other,create_account,bitext,i want a pro account
+9195,where do i check how long it takes for my shipment to arrive,Delivery,delivery_period,bitext,where do i check how long it takes for my shipment to arrive
+9210,rebate  £61,Refund,get_refund,bitext,rebate
+9211,i have to see how long it takes for the package to arrive,Delivery,delivery_period,bitext,i have to see how long it takes for the package to arrive
+9213,help me to seed in what situations can I ask to be refunded,Refund,check_refund_policy,bitext,help me to seed in what situations can i ask to be refunded
+9217,can i check how long it takes for my delivery to arrive,Delivery,delivery_period,bitext,can i check how long it takes for my delivery to arrive
+9230,I try to obtain a reimbursement of my money,Refund,get_refund,bitext,i try to obtain a reimbursement of my money
+9231,informing of issues creating user account,Other,registration_problems,bitext,informing of issues creating user account
+9236,I need assistance to see when my product is going to arrive,Delivery,delivery_period,bitext,i need assistance to see when my product is going to arrive
+9242,"I have to see your money back guarantee, help me",Refund,check_refund_policy,bitext,i have to see your money back guarantee help me
+9246,"I have paid £174 for this article, how to obtain a rebate?",Refund,get_refund,bitext,i have paid for this article how to obtain a rebate
+9258,I need information abvout lost passwords,Other,recover_password,bitext,i need information abvout lost passwords
+9265,"can the item kettle no longer charge, need assistance",Product Quality,generated,mistral,can the item kettle no longer charge need assistance
+9266,want help to find my invoice ffom Sarah,Payment,check_invoice,bitext,want help to find my invoice ffom
+9271,"I need to enter the shipping address, could I get some help?",Delivery,set_up_shipping_address,bitext,i need to enter the shipping address could i get some help
+9275,is it possible to set my shipping address up,Delivery,set_up_shipping_address,bitext,is it possible to set my shipping address up
+9279,problem updating delivery address,Delivery,change_shipping_address,bitext,problem updating delivery address
+9292,I need assistance to see your refund policy,Refund,check_refund_policy,bitext,i need assistance to see your refund policy
+9303,Not happy as the dress with zip broke. Could you please advise on what to do next?,Product Quality,generated,mistral,not happy as the dress with zip broke could you please advise on what to do next
+9311,I want assistancee trying to modify my shipping address,Delivery,change_shipping_address,bitext,i want assistancee trying to modify my shipping address
+9313,I'm trying to list ur accepted payment modalities,Payment,check_payment_methods,bitext,i m trying to list ur accepted payment modalities
+9322,I want assistance to check how soon can Iexpect my purchase,Delivery,delivery_period,bitext,i want assistance to check how soon can iexpect my purchase
+9331,where to see the ETA of order #852204?,Delivery,track_order,bitext,where to see the eta of order
+9344,help to see how long it takes for the delivery to arrive,Delivery,delivery_period,bitext,help to see how long it takes for the delivery to arrive
+9357,want assistance to check purchase #281043 status,Delivery,track_order,bitext,want assistance to check purchase status
+9369,wanna check whne my package is gonna arrive i need help,Delivery,delivery_period,bitext,wanna check whne my package is gonna arrive i need help
+9377,I have a problem with the termination of a premium account,Other,delete_account,bitext,i have a problem with the termination of a premium account
+9390,why I can't set up a secondary delivery address valid,Delivery,set_up_shipping_address,bitext,why i can t set up a secondary delivery address valid
+9394,I need to see the current status of order #872399,Delivery,track_order,bitext,i need to see the current status of order
+9401,"I am looking for shipping periods, I need help to find them",Delivery,delivery_period,bitext,i am looking for shipping periods i need help to find them
+9416,I need help seeing your money back guarantee,Refund,check_refund_policy,bitext,i need help seeing your money back guarantee
+9428,I want to check what payment options you accept,Payment,check_payment_methods,bitext,i want to check what payment options you accept
+9433,could you tell me about updating my delivery address?,Delivery,change_shipping_address,bitext,could you tell me about updating my delivery address
+9437,help to ssee in what situations can i ask for reimbursements,Refund,check_refund_policy,bitext,help to ssee in what situations can i ask for reimbursements
+9441,can i set the shipping address up,Delivery,set_up_shipping_address,bitext,can i set the shipping address up
+9449,where can I see the available payment modalities ?,Payment,check_payment_methods,bitext,where can i see the available payment modalities
+9456,I want assistance to speak with a human agent,Other,contact_human_agent,bitext,i want assistance to speak with a human agent
+9469,i have to check the invoice #37777,Payment,check_invoice,bitext,i have to check the invoice
+9481,help me speaking to someone,Other,contact_human_agent,bitext,help me speaking to someone
+9487,list your accepted payment options,Payment,check_payment_methods,bitext,list your accepted payment options
+9492,I want to get a compensation,Refund,get_refund,bitext,i want to get a compensation
+9494,I have issues modifying the delivery address,Delivery,change_shipping_address,bitext,i have issues modifying the delivery address
+9505,need to contact customer service how do i do it,Other,contact_customer_service,bitext,need to contact customer service how do i do it
+9519,i dont know how i can retrieve the access key olf my account,Other,recover_password,bitext,i dont know how i can retrieve the access key olf my account
+9535,I have got to see when my package is going to arrive,Delivery,delivery_period,bitext,i have got to see when my package is going to arrive
+9538,i do not know how to call customer assistance,Other,contact_customer_service,bitext,i do not know how to call customer assistance
+9563,I need assistance checking how soon can I expect my product,Delivery,delivery_period,bitext,i need assistance checking how soon can i expect my product
+9565,Just bought a pair of jeans with sole peeling off already.,Product Quality,generated,mistral,just bought a pair of jeans with sole peeling off already
+9583,help me check how soon can I expect my delivery,Delivery,delivery_period,bitext,help me check how soon can i expect my delivery
+9587,assistance seeing how long reimbursements usually take,Refund,check_refund_policy,bitext,assistance seeing how long reimbursements usually take
+9616,check under what circumstaces can i request a goddamn refund,Refund,check_refund_policy,bitext,check under what circumstaces can i request a goddamn refund
+9622,have a question about canceling order #704201,Other,cancel_order,bitext,have a question about canceling order
+9625,I have to receive my money back,Refund,get_refund,bitext,i have to receive my money back
+9628,I need to swap a product of order #213349,Other,change_order,bitext,i need to swap a product of order
+9637,what do i need to do to restore my account pin,Other,recover_password,bitext,what do i need to do to restore my account pin
+9673,i want help seeing the restitution current status,Refund,track_refund,bitext,i want help seeing the restitution current status
+9674,i dont know how to cancel purchase #883300,Other,cancel_order,bitext,i dont know how to cancel purchase
+9680,my delivery address has changed how can i modify it,Delivery,change_shipping_address,bitext,my delivery address has changed how can i modify it
+9719,i have to send feedback can i get some help,Other,review,bitext,i have to send feedback can i get some help
+9729,unsubscribe from company newsletter,Other,newsletter_subscription,bitext,unsubscribe from company newsletter
+9735,i want assistance checking what delivery methods i have,Delivery,delivery_options,bitext,i want assistance checking what delivery methods i have
+9738,I have got to check how soon can I expect the package,Delivery,delivery_period,bitext,i have got to check how soon can i expect the package
+9739,where do I check the status of purchase #267758?,Delivery,track_order,bitext,where do i check the status of purchase
+9747,I have got to cancel purchase #872246,Other,cancel_order,bitext,i have got to cancel purchase
+9751,what do I need to do to see how soon can I expect my item?,Delivery,delivery_period,bitext,what do i need to do to see how soon can i expect my item
+9775,assistance to ask for a reimbursement,Refund,get_refund,bitext,assistance to ask for a reimbursement
+9788,there is an issue setting up my delivery address,Delivery,set_up_shipping_address,bitext,there is an issue setting up my delivery address
+9789,"I want to correct my address, I need help",Delivery,change_shipping_address,bitext,i want to correct my address i need help
+9790,"I have got to track the restitution, how can I do it?",Refund,track_refund,bitext,i have got to track the restitution how can i do it
+9793,"My kettle from order #966529 barely lasts on battery, need a new one",Product Quality,generated,mistral,my kettle from order barely lasts on battery need a new one
+9794,i have got to submit my deliery address,Delivery,set_up_shipping_address,bitext,i have got to submit my deliery address
+9815,So I ordered a dress but it's nothing like the size guide. It doesn't fit properly.,Product Quality,generated,mistral,so i ordered a dress but it s nothing like the size guide it doesn t fit properly
+9816,how do I give a quick look at the invoice from Tom?,Payment,check_invoice,bitext,how do i give a quick look at the invoice from
+9822,how to see at what time customer support available is?,Other,contact_customer_service,bitext,how to see at what time customer support available is
+9832,i need help checking ur allowed paymeny modalities,Payment,check_payment_methods,bitext,i need help checking ur allowed paymeny modalities
+9836,I want help to demand a compensation,Refund,get_refund,bitext,i want help to demand a compensation
+9858,can you help me to ask for a reimbursement of my money?,Refund,get_refund,bitext,can you help me to ask for a reimbursement of my money
+9869,is it possible to place na order from the UK,Delivery,delivery_options,bitext,is it possible to place na order from the
+9872,were could I check your money back policy?,Refund,check_refund_policy,bitext,were could i check your money back policy
+9876,i want assistance to see how soon can i xepect the item,Delivery,delivery_period,bitext,i want assistance to see how soon can i xepect the item
+9878,help me check in which casesx can I ask for reimbursements,Refund,check_refund_policy,bitext,help me check in which casesx can i ask for reimbursements
+9884,i try to see the early temrination penalty,Other,check_cancellation_fee,bitext,i try to see the early temrination penalty
+9888,I want help to recover the PIN of my user profile,Other,recover_password,bitext,i want help to recover the pin of my user profile
+9889,Got the chair (#460857) and it feels cheap and flimsy. What's the best way to go about this?,Product Quality,generated,mistral,got the chair and it feels cheap and flimsy what s the best way to go about this
+9897,could you help me submitting a delivery address?,Delivery,set_up_shipping_address,bitext,could you help me submitting a delivery address
+9898,I do not know what to do to download the invoice #00108,Payment,get_invoice,bitext,i do not know what to do to download the invoice
+9904,can you help me check the compensation current status?,Refund,track_refund,bitext,can you help me check the compensation current status
+9905,I need to obtain a rebate,Refund,get_refund,bitext,i need to obtain a rebate
+9912,i need assistance to check the status of purchase #837733,Delivery,track_order,bitext,i need assistance to check the status of purchase
+9929,I want help notifying of a payment problem,Payment,payment_issue,bitext,i want help notifying of a payment problem
+9959,I don't know how to see what delivery methods I have,Delivery,delivery_options,bitext,i don t know how to see what delivery methods i have
+9965,help me ask for a rebate,Refund,get_refund,bitext,help me ask for a rebate
+9970,"Hello, the frying pan I received doesn't look anything like the photos on the website. Could I please get a replacement?",Product Quality,generated,mistral,hello the frying pan i received doesn t look anything like the photos on the website could i please get a replacement
+9974,do you have a section to send a comment for a product?,Other,review,bitext,do you have a section to send a comment for a product
+9980,need assistanmce checking how soon can I expect the package,Delivery,delivery_period,bitext,need assistanmce checking how soon can i expect the package
+9982,"I want to see your payment methods, how to do it?",Payment,check_payment_methods,bitext,i want to see your payment methods how to do it
+9991,i want help seeing the goddamn ETA of purchase #926236,Delivery,track_order,bitext,i want help seeing the goddamn eta of purchase
