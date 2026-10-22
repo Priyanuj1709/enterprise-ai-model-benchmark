@@ -14,3 +14,6 @@
 
 | D11 | Stratified + grouped split (~70/15/15) with StratifiedGroupKFold, seed 42 | Representative test set; near-duplicates never cross splits | Grouping by normalised text may miss paraphrases |
 | D12 | Test set locked with a SHA-256 hash; opened once in Step 6 | Assignment rule: no tuning on evaluation data | — |
+| D15 | Approach B: TF-IDF + Logistic Regression; 12 settings compared on validation by macro-F1; best refit on train+val | Macro-F1 weights small classes (Product Quality) equally; test set untouched | Small grid, kept simple on purpose |
+| D16 | Val macro-F1 0.998 treated as optimistic | Val shares generators with train; real robustness measured on the hand-written challenge set | — |
+| D17 | Coefficient inspection: Product Quality relies on generator opening words (just, why, hello, so...) and Payment memorised Bitext invoice numbers | Evidence that val macro-F1 0.998 is inflated by shortcut learning | Not fixed on purpose; impact measured on the hand-written challenge set |

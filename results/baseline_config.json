@@ -1,0 +1,13 @@
+{
+  "best": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "C": 10.0,
+    "class_weight": null,
+    "val_macro_f1": 0.9981
+  },
+  "train_seconds": 0.527,
+  "train_rows": 8569
+}
