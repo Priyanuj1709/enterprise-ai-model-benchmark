@@ -1,0 +1,8 @@
+,A: Llama 3.2 3B (local GPU),B: TF-IDF + LogReg (CPU)
+Compute time per day,47.6 min,0.8 s
+Infrastructure per month (£),40,0
+One-off setup (£),2000,2072
+Misroutes per day - test-like messages,2380,245
+Misroute cost per month - test-like (£),40460,4165
+Misroutes per day - realistic messages,5000,21665
+Misroute cost per month - realistic (£),85000,368305
